@@ -1,0 +1,95 @@
+4065 0 obj
+<<
+  /Length 1479
+>>
+stream
+/CIDInit /ProcSet findresource begin
+25 dict begin
+begincmap
+/CIDSystemInfo
+<< /Registry (Adobe)
+/Ordering (UCS)
+/Supplement 0
+>> def
+/CMapName /Adobe-Identity-UCS def
+/CMapType 2 def
+1 begincodespacerange
+<0000> <FFFF>
+endcodespacerange
+2 beginbfrange
+<0006> <0007> [<0106> <010E>]
+<000A> <000B> [<011C> <0124>]
+endbfrange
+3 beginbfchar
+<000D> <0134>
+<000F> <0139>
+<0012> <0150>
+endbfchar
+1 beginbfrange
+<0015> <0018> [<0154> <015A> <0164> <016E>]
+endbfrange
+7 beginbfchar
+<001D> <0179>
+<0027> <0104>
+<0039> <0118>
+<004D> <013D>
+<004F> <0141>
+<0066> <015E>
+<0085> <0107>
+endbfchar
+1 beginbfrange
+<0089> <008A> [<011D> <0125>]
+endbfrange
+2 beginbfchar
+<008E> <013A>
+<0091> <0151>
+endbfchar
+1 beginbfrange
+<0094> <0095> [<0155> <015B>]
+endbfrange
+2 beginbfchar
+<0097> <016F>
+<009C> <017A>
+endbfchar
+1 beginbfrange
+<00A6> <00A7> [<0105> <01FD>]
+endbfrange
+8 beginbfchar
+<00AE> <010F>
+<00B8> <0119>
+<00BE> <0127>
+<00CD> <013E>
+<00CF> <0142>
+<00E7> <015F>
+<00EB> <0165>
+<0103> <014B>
+endbfchar
+3 beginbfrange
+<01B4> <01B5> [<0020> <0020>]
+<01B8> <01B9> [<0020> <0020>]
+<01BC> <01BD> [<0020> <0020>]
+endbfrange
+1 beginbfchar
+<01CB> <02D8>
+endbfchar
+3 beginbfrange
+<01D1> <01D3> [<0020> <0020> <02DD>]
+<01D5> <01D6> [<0020> <0020>]
+<01D9> <01DA> [<0020> <0020>]
+endbfrange
+2 beginbfchar
+<01DD> <02DB>
+<0B0C> <0135>
+endbfchar
+1 beginbfrange
+<1313> <1314> <0162>
+endbfrange
+2 beginbfchar
+<1376> <0193>
+<147D> <01C2>
+endbfchar
+endcmap
+CMapName currentdict /CMap defineresource pop
+end
+endendstream
+endobj

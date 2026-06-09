@@ -1,0 +1,159 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":"csharp","items":[{"name":"csharp","languageName":"C#","aliases":["c#","cs"]},{"name":"fsharp","languageName":"fsharp"},{"name":"html","languageName":"HTML"},{"name":"http","languageName":"HTTP"},{"name":"javascript","languageName":"JavaScript","aliases":["js"]},{"name":"mermaid","languageName":"Mermaid"},{"name":"pwsh","languageName":"PowerShell","aliases":["powershell"]},{"name":"value"}]}}
+
+#!fsharp
+
+open System
+open System.IO
+open System.Text.RegularExpressions
+
+type JisEntry =
+    { Men  : int
+      Ku   : int
+      Ten  : int
+      Text : string }
+
+/// 行末コメント (# ...) を除去
+let stripComment (line: string) =
+    let idx = line.IndexOf('#')
+    if idx >= 0 then line.Substring(0, idx).Trim()
+    else line.Trim()
+
+/// "3-3A21" → (men=1, ku=26, ten=1)
+let tryParseCodetableKey (s: string) =
+    let m = Regex.Match(s, @"^([34])\-([0-9A-Fa-f]{4})$")
+    if not m.Success then None else
+        let men =
+            match m.Groups.[1].Value with
+            | "3" -> 1
+            | "4" -> 2
+            | _ -> failwith "Unexpected plane code"
+
+        let hex = m.Groups.[2].Value
+        let hi = Convert.ToInt32(hex.[0..1], 16)   // 16進バイト
+        let lo = Convert.ToInt32(hex.[2..3], 16)
+
+        let ku  = hi - 0x20
+        let ten = lo - 0x20
+
+        Some (men, ku, ten)
+
+
+/// UCS 部分を正規表現で抽出
+/// "U+31F7+309A" → ["U+31F7"; "U+309A"]
+/// "〓" → ["〓"]
+let extractUcsTokens (s: string) =
+    let m = Regex.Matches(s, @"U\+[0-9A-Fa-f]{4,6}")
+    if m.Count > 0 then
+        m |> Seq.map (fun x -> x.Value) |> Seq.toList
+    else
+        // U+xxxx が無い場合は UTF-8 文字列としてそのまま扱う
+        [ s ]
+
+/// UCS トークンを文字列に変換
+let convertUcsTokens (tokens: string list) =
+    tokens
+    |> List.map (fun token ->
+        if token.StartsWith("U+") then
+            let hex = token.Substring(2)
+            let code = Convert.ToInt32(hex, 16)
+            Char.ConvertFromUtf32(code)
+        else
+            token)
+    |> String.Concat
+
+/// 1 行をパース（死んだ行は表示して None）
+let tryParseLineWithErrorReport (lineNumber: int) (rawLine: string) : JisEntry option =
+    try
+        let line = stripComment rawLine
+        if line = "" then None else
+
+        let parts =
+            line.Split([| ' '; '\t' |], StringSplitOptions.RemoveEmptyEntries)
+
+        if parts.Length < 2 then None else
+
+        match tryParseCodetableKey parts.[0] with
+        | None -> None
+        | Some (men, ku, ten) ->
+            let tokens = extractUcsTokens parts.[1]
+            let text = convertUcsTokens tokens
+            Some { Men = men; Ku = ku; Ten = ten; Text = text }
+
+    with ex ->
+        printfn "死んだ行 %d: %s" lineNumber rawLine
+        printfn "理由: %s" ex.Message
+        None
+
+/// w:p を生成
+let generateParagraph (men: int, ku: int) (entries: JisEntry list) =
+    let chars =
+        entries
+        |> List.sortBy (fun e -> e.Ten)
+        |> List.map (fun e -> e.Text)
+        |> String.Concat
+
+    let label = sprintf "%d-%02d: " men ku
+    let text = label + chars
+
+    let esc (s: string) =
+        s.Replace("&", "&amp;").Replace("<", "&lt;").Replace(">", "&gt;")
+
+    $"""<w:p>
+  <w:r>
+    <w:t>{esc text}</w:t>
+  </w:r>
+</w:p>
+"""
+
+let generateText (men: int, ku: int) (entries: JisEntry list) =
+    let chars =
+        entries
+        |> List.sortBy (fun e -> e.Ten)
+        |> List.map (fun e -> e.Text)
+        |> String.Concat
+
+    let label = sprintf "%d-%02d:" men ku
+    let text = label + chars
+    $"{text}\n"
+        
+
+#!fsharp
+
+let inputPath  = "jisx0213-2004-std.txt"
+let ooxmlOutputPath = "ooxmlOutput.xml"
+let textOutputPath = "textOutput.txt"
+let htmlOutputPath = "htmlOutput.html"
+
+
+let entries =
+    File.ReadLines(inputPath)
+    |> Seq.mapi (fun i line -> tryParseLineWithErrorReport (i+1) line)
+    |> Seq.choose id
+    |> Seq.toList
+
+let grouped =
+    entries
+    |> List.groupBy (fun e -> e.Men, e.Ku)
+    |> List.sortBy (fun ((men, ku), _) -> men, ku)
+
+let ooxmlParagraphs =
+    grouped
+    |> List.map (fun (mk, es) -> generateParagraph mk es)
+    |> String.Concat
+
+let plainTexts = 
+    grouped 
+    |> List.map (fun (mk, es) -> generateText mk es)
+    |> String.Concat
+
+let htmlParagraphs =
+    grouped
+    |> List.map (fun (mk, es) -> sprintf "<p>%s</p>" (generateText mk es))
+    |> String.Concat
+
+File.WriteAllText(ooxmlOutputPath, ooxmlParagraphs)
+File.WriteAllText(textOutputPath, plainTexts)
+File.WriteAllText(htmlOutputPath, htmlParagraphs)
+0

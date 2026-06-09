@@ -1,0 +1,117 @@
+4059 0 obj
+<<
+  /Length 1955
+>>
+stream
+/CIDInit /ProcSet findresource begin
+34 dict begin
+begincmap
+/CIDSystemInfo
+<< /Registry (Adobe)
+/Ordering (UCS)
+/Supplement 0
+>> def
+/CMapName /Adobe-Identity-UCS def
+/CMapType 2 def
+1 begincodespacerange
+<0000> <FFFF>
+endcodespacerange
+2 beginbfchar
+<01E6> <203E>
+<047A> <0020>
+endbfchar
+1 beginbfrange
+<0492> <0493> [<0020> <0020>]
+endbfrange
+2 beginbfchar
+<0525> <0259>
+<0723> <0250>
+endbfchar
+1 beginbfrange
+<0725> <072B> <0252>
+endbfrange
+2 beginbfchar
+<072C> <025A>
+<072E> <025C>
+endbfchar
+3 beginbfrange
+<0730> <0732> <025E>
+<0736> <073A> <0264>
+<073E> <0745> <026C>
+endbfrange
+1 beginbfchar
+<0747> <0275>
+endbfchar
+6 beginbfrange
+<074B> <074D> <0279>
+<074F> <0750> <027D>
+<0753> <0756> <0281>
+<075A> <0760> <0288>
+<0762> <0764> <0290>
+<0766> <0767> <0294>
+endbfrange
+2 beginbfchar
+<076A> <0298>
+<076F> <029D>
+endbfchar
+1 beginbfrange
+<0773> <0774> <02A1>
+endbfrange
+2 beginbfchar
+<0796> <02C8>
+<0799> <02CC>
+endbfchar
+1 beginbfrange
+<079D> <079E> <02D0>
+endbfrange
+4 beginbfchar
+<07A5> <02DE03240330033C0334031D031E03180319032A033A033B0303031A>
+<07BC> <02E502E602E7>
+<0825> <02E802E9>
+<082B> <02E902E50325032C0339031C031F03200308033D0329032F>
+endbfchar
+1 beginbfrange
+<0842> <0843> [<030B030103040300030F030C0302> <0020>]
+endbfrange
+2 beginbfchar
+<0845> <0306>
+<0847> <0020>
+endbfchar
+1 beginbfrange
+<0849> <084A> [<0020> <0020>]
+endbfrange
+1 beginbfchar
+<084D> <0020>
+endbfchar
+4 beginbfrange
+<0856> <0858> [<0020> <0020> <0020>]
+<085A> <085E> [<0020> <0020> <0020> <0020> <0020>]
+<0861> <0862> [<0020> <0020>]
+<0866> <0867> [<0020> <0020>]
+endbfrange
+1 beginbfchar
+<0869> <0020>
+endbfchar
+1 beginbfrange
+<086C> <086D> [<0020> <0020>]
+endbfrange
+1 beginbfchar
+<0871> <0020>
+endbfchar
+1 beginbfrange
+<0876> <087A> [<0020> <0020> <0020> <0020> <0020>]
+endbfrange
+1 beginbfchar
+<088E> <0361>
+endbfchar
+1 beginbfrange
+<0A79> <0A7C> <1F70>
+endbfrange
+1 beginbfchar
+<1036> <203F>
+endbfchar
+endcmap
+CMapName currentdict /CMap defineresource pop
+end
+endendstream
+endobj

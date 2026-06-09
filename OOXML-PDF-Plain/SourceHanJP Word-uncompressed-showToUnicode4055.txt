@@ -1,0 +1,7022 @@
+4055 0 obj
+<<
+  /Length 126948
+>>
+stream
+/CIDInit /ProcSet findresource begin
+1372 dict begin
+begincmap
+/CIDSystemInfo
+<< /Registry (Adobe)
+/Ordering (UCS)
+/Supplement 0
+>> def
+/CMapName /Adobe-Identity-UCS def
+/CMapType 2 def
+1 begincodespacerange
+<0000> <FFFF>
+endcodespacerange
+2 beginbfrange
+<0145> <0146> <01CD>
+<0148> <014A> <01D0>
+endbfrange
+5 beginbfchar
+<014C> <01D4>
+<014E> <01D6>
+<0150> <01D8>
+<0152> <01DA>
+<0154> <01DC>
+endbfchar
+3 beginbfrange
+<03F8> <03FF> <2170>
+<0400> <0401> <2178>
+<081F> <0822> <3016>
+endbfrange
+2 beginbfchar
+<0825> <301C>
+<0829> <3020>
+endbfchar
+2 beginbfrange
+<082D> <082F> <3033>
+<0981> <0994> <32D0>
+endbfrange
+2 beginbfchar
+<0996> <32E5>
+<099A> <32E9>
+endbfchar
+1 beginbfrange
+<099D> <099E> <32EC>
+endbfrange
+2 beginbfchar
+<09AB> <32FA>
+<0A77> <33CB>
+endbfchar
+15 beginbfrange
+<0AA9> <0AB5> [<3402> <3406> <342C> <342E> <3468> <346A> <3492> <34B5> <34BC> <
+34C1> <34C7> <34DB> <351F>]
+<0AB6> <0AB7> <355D>
+<0AB8> <0AC4> [<3563> <356E> <35A6> <35A8> <35C5> <35DA> <35F4> <3605> <364A> <
+3691> <3696> <3699> <36CF>]
+<0AC5> <0AC6> <3761>
+<0AC7> <0AC8> <376B>
+<0AC9> <0ADB> [<3775> <378D> <37C1> <37E2> <37E8> <37F4> <37FD> <3800> <382F> <
+3836> <3840> <385C> <3861> <38FA> <3917> <391A> <396F> <3A6E> <3A73>]
+<0ADC> <0ADD> <3AD6>
+<0ADE> <0AE4> [<3AEA> <3B0E> <3B1A> <3B1C> <3B22> <3B6D> <3B77>]
+<0AE5> <0AE6> <3B87>
+<0AE7> <0AFF> [<3B8D> <3BA4> <3BB6> <3BC3> <3BCD> <3BF0> <3C0F> <3C26> <3CC3> <
+3CD2> <3D11> <3D1E> <3D64> <3D9A> <3DC0> <3DD4> <3E05> <3E3F> <3E60> <3E66> <3E
+68> <3E83> <3E94> <3F57> <3F72>]
+<0B00> <0B4C> [<3F75> <3F77> <3FAE> <3FC9> <3FD7> <4039> <4058> <4093> <4105> <
+4148> <414F> <4163> <41B4> <41BF> <41E6> <41EE> <41F3> <4207> <420E> <4264> <42
+C6> <42D6> <42DD> <4302> <432B> <4343> <43EE> <43F0> <4408> <4417> <441C> <4422
+> <4453> <445B> <4476> <447A> <4491> <44B3> <44BE> <44D4> <4508> <450D> <4525> 
+<4543> <459D> <45B8> <45E5> <45EA> <460F> <4641> <4665> <46A1> <46AF> <470C> <4
+764> <47FD> <4816> <4844> <484E> <48B5> <49B0> <49E7> <49FA> <4A04> <4A29> <4AB
+C> <4B3B> <4BC2> <4BCA> <4BD2> <4BE8> <4C17> <4C20> <4CC4> <4CD1> <4D07> <4D77>
+]
+<0B4D> <0B50> <4E00>
+<0B53> <0B57> <4E07>
+<0B59> <0B5E> <4E0D>
+<0B5F> <0B64> <4E14>
+endbfrange
+2 beginbfchar
+<0B65> <4E1E>
+<0B67> <4E21>
+endbfchar
+14 beginbfrange
+<0B6A> <0B6A> [<4E26>]
+<0B6B> <0B75> <4E28>
+<0B77> <0B77> [<4E36>]
+<0B78> <0B79> <4E38>
+<0B7A> <0B7B> <4E3B>
+<0B7C> <0B7D> <4E3F>
+<0B7F> <0B80> <4E42>
+<0B82> <0B82> [<4E45>]
+<0B83> <0B84> <4E47>
+<0B85> <0B85> [<4E4B>]
+<0B86> <0B88> <4E4D>
+<0B89> <0B89> [<4E51>]
+<0B8A> <0B8F> <4E55>
+<0B91> <0B93> <4E5D>
+endbfrange
+1 beginbfchar
+<0B94> <4E62>
+endbfchar
+1 beginbfrange
+<0B97> <0B99> [<4E69> <4E71> <4E73>]
+endbfrange
+1 beginbfchar
+<0B9D> <4E7E>
+endbfchar
+18 beginbfrange
+<0B9F> <0BA0> [<4E80> <4E82>]
+<0BA1> <0BA2> <4E85>
+<0BA3> <0BA9> <4E88>
+<0BAA> <0BAB> <4E91>
+<0BAC> <0BAD> <4E94>
+<0BB0> <0BB1> <4E98>
+<0BB2> <0BB9> <4E9B>
+<0BBA> <0BBC> <4EA4>
+<0BBD> <0BBD> [<4EA8>]
+<0BBE> <0BC1> <4EAB>
+<0BC3> <0BC5> [<4EB0> <4EB3> <4EB6>]
+<0BC6> <0BC9> <4EB9>
+<0BCA> <0BCE> <4EC0>
+<0BCF> <0BD1> <4EC6>
+<0BD2> <0BD3> <4ECA>
+<0BD4> <0BD7> <4ECD>
+<0BD8> <0BDE> <4ED4>
+<0BE1> <0BE2> <4EDE>
+endbfrange
+1 beginbfchar
+<0BE4> <4EE1>
+endbfchar
+5 beginbfrange
+<0BE6> <0BE8> <4EE3>
+<0BEA> <0BEA> [<4EEB>]
+<0BEB> <0BEC> <4EED>
+<0BEE> <0BF0> <4EF0>
+<0BF2> <0BF4> <4EF5>
+endbfrange
+2 beginbfchar
+<0BF5> <4EFB>
+<0BF7> <4EFD>
+endbfchar
+2 beginbfrange
+<0BF9> <0BF9> <4EFF>
+<0BFA> <0BFB> <4F00>
+endbfrange
+1 beginbfchar
+<0BFD> <4F03>
+endbfchar
+3 beginbfrange
+<0BFF> <0BFF> <4F09>
+<0C00> <0C01> <4F0A>
+<0C03> <0C07> <4F0D>
+endbfrange
+1 beginbfchar
+<0C0A> <4F16>
+endbfchar
+3 beginbfrange
+<0C0D> <0C0D> [<4F1A>]
+<0C0E> <0C0F> <4F1C>
+<0C11> <0C12> <4F2F>
+endbfrange
+1 beginbfchar
+<0C15> <4F34>
+endbfchar
+1 beginbfrange
+<0C17> <0C19> <4F36>
+endbfrange
+1 beginbfchar
+<0C1B> <4F3A>
+endbfchar
+7 beginbfrange
+<0C1D> <0C1F> <4F3C>
+<0C22> <0C22> [<4F43>]
+<0C23> <0C26> <4F46>
+<0C29> <0C2D> <4F4D>
+<0C2F> <0C3C> <4F53>
+<0C3E> <0C3E> [<4F64>]
+<0C3F> <0C40> <4F69>
+endbfrange
+1 beginbfchar
+<0C41> <4F6C>
+endbfchar
+6 beginbfrange
+<0C43> <0C44> <4F6F>
+<0C46> <0C46> [<4F73>]
+<0C47> <0C4A> <4F75>
+<0C4C> <0C51> <4F7A>
+<0C53> <0C54> <4F82>
+<0C56> <0C57> <4F85>
+endbfrange
+1 beginbfchar
+<0C58> <4F88>
+endbfchar
+1 beginbfrange
+<0C5A> <0C5B> <4F8A>
+endbfrange
+2 beginbfchar
+<0C5D> <4F8D>
+<0C5F> <4F8F>
+endbfchar
+4 beginbfrange
+<0C61> <0C62> <4F91>
+<0C64> <0C64> [<4F94>]
+<0C65> <0C67> <4F96>
+<0C69> <0C6A> <4F9A>
+endbfrange
+1 beginbfchar
+<0C6B> <4F9D>
+endbfchar
+19 beginbfrange
+<0C6E> <0C6F> <4FA0>
+<0C70> <0C70> [<4FAB>]
+<0C71> <0C73> <4FAD>
+<0C74> <0C74> [<4FB2>]
+<0C75> <0C76> <4FB5>
+<0C7C> <0C7D> <4FBE>
+<0C80> <0C83> <4FC2>
+<0C86> <0C88> <4FC9>
+<0C8B> <0C8F> <4FCE>
+<0C90> <0C90> [<4FD4>]
+<0C91> <0C92> <4FD7>
+<0C93> <0C94> <4FDA>
+<0C96> <0C96> [<4FDD>]
+<0C97> <0C99> <4FDF>
+<0C9B> <0C9E> <4FE3>
+<0C9F> <0CA0> <4FEE>
+<0CA2> <0CA4> <4FF1>
+<0CA5> <0CA6> <4FF5>
+<0CA7> <0CA8> [<4FF8> <4FFA>]
+endbfrange
+1 beginbfchar
+<0CAB> <4FFE>
+endbfchar
+2 beginbfrange
+<0CAD> <0CAF> <5000>
+<0CB1> <0CB2> <5005>
+endbfrange
+2 beginbfchar
+<0CB4> <5009>
+<0CB6> <500B>
+endbfchar
+1 beginbfrange
+<0CB8> <0CBF> <500D>
+endbfrange
+1 beginbfchar
+<0CC0> <5016>
+endbfchar
+1 beginbfrange
+<0CC2> <0CC4> <5018>
+endbfrange
+1 beginbfchar
+<0CC6> <501C>
+endbfchar
+12 beginbfrange
+<0CC8> <0CC9> <501E>
+<0CCA> <0CD7> <5021>
+<0CDC> <0CDE> [<5036> <5039> <503B>]
+<0CDF> <0CE2> <5040>
+<0CE4> <0CE7> <5046>
+<0CEA> <0CEC> <504E>
+<0CEF> <0CEF> [<5053>]
+<0CF0> <0CF2> <5055>
+<0CF4> <0CF5> [<505A> <505C>]
+<0CF9> <0CF9> [<5063>]
+<0CFA> <0CFB> <5065>
+<0CFD> <0CFE> [<506A> <506C>]
+endbfrange
+1 beginbfchar
+<0D00> <5070>
+endbfchar
+3 beginbfrange
+<0D02> <0D02> [<5072>]
+<0D03> <0D05> <5074>
+<0D06> <0D08> [<5078> <507D> <5080>]
+endbfrange
+3 beginbfchar
+<0D0C> <5085>
+<0D0E> <5088>
+<0D10> <508D>
+endbfchar
+2 beginbfrange
+<0D14> <0D19> <5091>
+<0D1A> <0D1C> <5098>
+endbfrange
+1 beginbfchar
+<0D1E> <509C>
+endbfchar
+3 beginbfrange
+<0D24> <0D25> [<50A3> <50AA>]
+<0D26> <0D27> <50AC>
+<0D2A> <0D2E> <50B1>
+endbfrange
+1 beginbfchar
+<0D2F> <50B7>
+endbfchar
+1 beginbfrange
+<0D31> <0D32> <50BA>
+endbfrange
+2 beginbfchar
+<0D34> <50BE>
+<0D36> <50C2>
+endbfchar
+6 beginbfrange
+<0D38> <0D39> <50C4>
+<0D3A> <0D3A> [<50C7>]
+<0D3B> <0D3C> <50C9>
+<0D3D> <0D42> <50CC>
+<0D44> <0D46> <50D4>
+<0D48> <0D49> <50D9>
+endbfrange
+3 beginbfchar
+<0D4C> <50DE>
+<0D4E> <50E1>
+<0D50> <50E3>
+endbfchar
+4 beginbfrange
+<0D52> <0D54> <50E5>
+<0D56> <0D56> [<50E9>]
+<0D57> <0D58> <50ED>
+<0D5B> <0D5C> <50F2>
+endbfrange
+3 beginbfchar
+<0D5E> <50F5>
+<0D60> <50F9>
+<0D62> <50FB>
+endbfchar
+1 beginbfrange
+<0D64> <0D68> <5100>
+endbfrange
+1 beginbfchar
+<0D69> <5106>
+endbfchar
+1 beginbfrange
+<0D6B> <0D6C> <5108>
+endbfrange
+1 beginbfchar
+<0D6D> <510B>
+endbfchar
+4 beginbfrange
+<0D72> <0D72> [<5112>]
+<0D73> <0D77> <5114>
+<0D79> <0D7A> <511A>
+<0D7D> <0D7E> <511E>
+endbfrange
+3 beginbfchar
+<0D7F> <5121>
+<0D83> <512A>
+<0D88> <5132>
+endbfchar
+6 beginbfrange
+<0D8B> <0D8C> [<5135> <5137>]
+<0D8F> <0D91> <513A>
+<0D92> <0D94> <513F>
+<0D96> <0DA1> <5143>
+<0DA3> <0DA4> [<5150> <5152>]
+<0DA6> <0DA7> <5154>
+endbfrange
+1 beginbfchar
+<0DA8> <5157>
+endbfchar
+2 beginbfrange
+<0DAA> <0DAB> [<515A> <515C>]
+<0DAD> <0DAE> [<5160> <5162>]
+endbfrange
+1 beginbfchar
+<0DB0> <5165>
+endbfchar
+17 beginbfrange
+<0DB2> <0DB8> <5168>
+<0DB9> <0DBA> [<5171> <5173>]
+<0DBB> <0DBE> <5175>
+<0DBF> <0DC0> <517B>
+<0DC2> <0DC2> [<5180>]
+<0DC3> <0DC4> <5182>
+<0DC6> <0DC7> <5185>
+<0DC8> <0DCC> <5189>
+<0DCE> <0DD2> <518F>
+<0DD3> <0DD7> <5195>
+<0DD8> <0DD9> [<519D> <51A0>]
+<0DDB> <0DDF> <51A2>
+<0DE0> <0DE5> <51A8>
+<0DE6> <0DED> <51B0>
+<0DF0> <0DF1> <51BC>
+<0DF5> <0DF8> <51C3>
+<0DFA> <0DFE> <51C9>
+endbfrange
+1 beginbfchar
+<0E04> <51D6>
+endbfchar
+14 beginbfrange
+<0E06> <0E09> <51DB>
+<0E0A> <0E0C> <51E0>
+<0E0E> <0E0F> <51E6>
+<0E10> <0E11> <51E9>
+<0E13> <0E14> <51ED>
+<0E15> <0E16> <51F0>
+<0E18> <0E1B> <51F3>
+<0E1D> <0E1F> <51F8>
+<0E20> <0E21> <51FD>
+<0E22> <0E26> <5200>
+<0E28> <0E2A> <5206>
+<0E2B> <0E2C> <520A>
+<0E2D> <0E2D> [<520E>]
+<0E2E> <0E34> <5211>
+endbfrange
+1 beginbfchar
+<0E36> <521D>
+endbfchar
+1 beginbfrange
+<0E38> <0E39> <5224>
+endbfrange
+1 beginbfchar
+<0E3A> <5227>
+endbfchar
+2 beginbfrange
+<0E3C> <0E3D> <5229>
+<0E3E> <0E3F> [<522E> <5230>]
+endbfrange
+1 beginbfchar
+<0E42> <5233>
+endbfchar
+10 beginbfrange
+<0E44> <0E49> <5236>
+<0E4B> <0E4C> <5243>
+<0E4E> <0E4E> [<5247>]
+<0E4F> <0E53> <5249>
+<0E54> <0E54> [<524F>]
+<0E55> <0E58> <5254>
+<0E5B> <0E5E> <525B>
+<0E61> <0E61> [<5261>]
+<0E62> <0E64> <5263>
+<0E66> <0E67> <5269>
+endbfrange
+1 beginbfchar
+<0E68> <526C>
+endbfchar
+1 beginbfrange
+<0E6A> <0E70> <526F>
+endbfrange
+1 beginbfchar
+<0E71> <5277>
+endbfchar
+5 beginbfrange
+<0E74> <0E75> [<527D> <527F>]
+<0E77> <0E79> <5282>
+<0E7B> <0E7D> <5287>
+<0E80> <0E80> [<528D>]
+<0E81> <0E84> <5291>
+endbfrange
+2 beginbfchar
+<0E88> <5298>
+<0E8A> <529B>
+endbfchar
+2 beginbfrange
+<0E8C> <0E8D> <529F>
+<0E8E> <0E8F> <52A3>
+endbfrange
+1 beginbfchar
+<0E91> <52A6>
+endbfchar
+1 beginbfrange
+<0E93> <0E97> <52A9>
+endbfrange
+1 beginbfchar
+<0E98> <52AF>
+endbfchar
+3 beginbfrange
+<0E9A> <0E9A> [<52B1>]
+<0E9B> <0E9C> <52B4>
+<0EA0> <0EA3> <52B9>
+endbfrange
+1 beginbfchar
+<0EA5> <52BE>
+endbfchar
+1 beginbfrange
+<0EA7> <0EA8> [<52C1> <52C3>]
+endbfrange
+1 beginbfchar
+<0EAA> <52C5>
+endbfchar
+4 beginbfrange
+<0EAC> <0EAF> <52C7>
+<0EB0> <0EB1> <52CC>
+<0EB3> <0EB5> <52D0>
+<0EB7> <0EBB> <52D5>
+endbfrange
+1 beginbfchar
+<0EBC> <52DB>
+endbfchar
+3 beginbfrange
+<0EBE> <0EC1> <52DD>
+<0EC3> <0EC5> <52E2>
+<0EC7> <0EC8> <52E6>
+endbfrange
+1 beginbfchar
+<0ECD> <52F0>
+endbfchar
+1 beginbfrange
+<0ECF> <0ED0> <52F2>
+endbfrange
+1 beginbfchar
+<0ED2> <52F5>
+endbfchar
+12 beginbfrange
+<0ED4> <0ED8> <52F7>
+<0ED9> <0EDA> <52FE>
+<0EDB> <0EDD> <5300>
+<0EDF> <0EE2> <5305>
+<0EE3> <0EE4> <530A>
+<0EE6> <0EE6> [<530D>]
+<0EE7> <0EE8> <530F>
+<0EEB> <0EED> <5315>
+<0EEF> <0EF0> <5319>
+<0EF2> <0EF3> <531C>
+<0EF6> <0EF7> <5320>
+<0EF8> <0EF9> <5323>
+endbfrange
+3 beginbfchar
+<0EFE> <532A>
+<0F02> <532F>
+<0F04> <5331>
+endbfchar
+7 beginbfrange
+<0F06> <0F07> [<5333> <5335>]
+<0F08> <0F0B> <5338>
+<0F0E> <0F13> <533E>
+<0F14> <0F19> <5345>
+<0F1C> <0F1C> [<534D>]
+<0F1D> <0F20> <5351>
+<0F21> <0F22> <5357>
+endbfrange
+1 beginbfchar
+<0F24> <535A>
+endbfchar
+2 beginbfrange
+<0F26> <0F27> [<535C> <535E>]
+<0F28> <0F29> <5360>
+endbfrange
+1 beginbfchar
+<0F2A> <5363>
+endbfchar
+6 beginbfrange
+<0F2C> <0F2D> <5366>
+<0F2E> <0F2F> [<5369> <536C>]
+<0F31> <0F34> <536E>
+<0F36> <0F38> <5373>
+<0F39> <0F3A> <5377>
+<0F3C> <0F3D> <537A>
+endbfrange
+1 beginbfchar
+<0F3E> <537D>
+endbfchar
+1 beginbfrange
+<0F40> <0F41> [<537F> <5382>]
+endbfrange
+2 beginbfchar
+<0F43> <5384>
+<0F47> <5393>
+endbfchar
+9 beginbfrange
+<0F49> <0F4A> [<5396> <5398>]
+<0F4C> <0F4D> [<539A> <539D>]
+<0F4E> <0F4F> <539F>
+<0F51> <0F53> <53A4>
+<0F54> <0F55> <53A8>
+<0F58> <0F59> <53AD>
+<0F5B> <0F5B> [<53B0>]
+<0F5C> <0F5E> <53B2>
+<0F60> <0F61> <53B6>
+endbfrange
+1 beginbfchar
+<0F64> <53BB>
+endbfchar
+5 beginbfrange
+<0F66> <0F66> [<53C0>]
+<0F67> <0F68> <53C2>
+<0F6A> <0F70> <53C8>
+<0F74> <0F77> <53D4>
+<0F78> <0F7A> <53D9>
+endbfrange
+1 beginbfchar
+<0F7D> <53DF>
+endbfchar
+15 beginbfrange
+<0F7F> <0F83> <53E1>
+<0F86> <0F96> <53E8>
+<0F97> <0F98> [<53FA> <5401>]
+<0F9A> <0F9B> <5403>
+<0F9C> <0FA6> <5408>
+<0FA9> <0FA9> [<541B>]
+<0FAA> <0FAD> <541D>
+<0FAF> <0FAF> [<5424>]
+<0FB0> <0FB3> <5426>
+<0FB5> <0FB8> <542B>
+<0FBD> <0FBD> [<5436>]
+<0FBE> <0FBF> <5438>
+<0FC0> <0FC3> <543B>
+<0FC4> <0FC4> [<5440>]
+<0FC5> <0FC6> <5442>
+endbfrange
+1 beginbfchar
+<0FC8> <5446>
+endbfchar
+4 beginbfrange
+<0FCA> <0FCC> <5448>
+<0FCD> <0FCE> <544D>
+<0FD0> <0FD1> [<5451> <5455>]
+<0FD3> <0FD4> [<545F> <5462>]
+endbfrange
+2 beginbfchar
+<0FD6> <5466>
+<0FD8> <5468>
+endbfchar
+5 beginbfrange
+<0FDA> <0FDC> <546A>
+<0FDF> <0FE0> <5470>
+<0FE1> <0FE5> <5473>
+<0FE6> <0FE8> <547B>
+<0FE9> <0FEA> <547F>
+endbfrange
+1 beginbfchar
+<0FED> <5484>
+endbfchar
+4 beginbfrange
+<0FEF> <0FF0> [<5486> <5488>]
+<0FF2> <0FF8> <548A>
+<0FFA> <0FFA> [<5492>]
+<0FFB> <0FFC> <5495>
+endbfrange
+1 beginbfchar
+<0FFD> <549C>
+endbfchar
+7 beginbfrange
+<0FFF> <0FFF> <54A0>
+<1000> <1001> <54A1>
+<1002> <1004> <54A4>
+<1006> <1007> <54A8>
+<1009> <100D> <54AB>
+<100F> <1010> <54B2>
+<1011> <1012> <54B7>
+endbfrange
+1 beginbfchar
+<1014> <54BA>
+endbfchar
+2 beginbfrange
+<1016> <101E> <54BC>
+<101F> <1022> <54C6>
+endbfrange
+1 beginbfchar
+<1026> <54D8>
+endbfchar
+5 beginbfrange
+<1028> <1029> <54E1>
+<102A> <102B> <54E5>
+<102C> <102D> <54E8>
+<102F> <1032> <54EC>
+<1033> <1035> <54F1>
+endbfrange
+2 beginbfchar
+<1037> <54FA>
+<1039> <54FD>
+endbfchar
+2 beginbfrange
+<103B> <103B> <54FF>
+<103C> <103D> <5500>
+endbfrange
+1 beginbfchar
+<103E> <5504>
+endbfchar
+1 beginbfrange
+<1040> <1041> <5506>
+endbfrange
+1 beginbfchar
+<1043> <5509>
+endbfchar
+1 beginbfrange
+<1046> <1048> <550E>
+endbfrange
+2 beginbfchar
+<1049> <5514>
+<104B> <5516>
+endbfchar
+2 beginbfrange
+<104D> <104D> [<552B>]
+<104E> <104F> <552E>
+endbfrange
+1 beginbfchar
+<1050> <5531>
+endbfchar
+2 beginbfrange
+<1052> <1053> [<5533> <5535>]
+<1055> <1056> <5538>
+endbfrange
+1 beginbfchar
+<1058> <553C>
+endbfchar
+13 beginbfrange
+<105A> <105A> [<553E>]
+<105B> <105C> <5540>
+<105D> <1060> <5544>
+<1062> <1063> [<554A> <554C>]
+<1065> <1066> <554F>
+<1068> <1068> [<5553>]
+<1069> <106A> <5556>
+<106E> <1070> <555C>
+<1071> <1072> <5560>
+<1073> <1074> <5563>
+<1076> <1079> <557B>
+<107B> <107F> <5580>
+<1080> <1085> <5586>
+endbfrange
+2 beginbfchar
+<1086> <558E>
+<1088> <5591>
+endbfchar
+3 beginbfrange
+<108D> <108F> <5598>
+<1090> <1093> <559C>
+<1096> <109D> <55A7>
+endbfrange
+1 beginbfchar
+<109E> <55B0>
+endbfchar
+5 beginbfrange
+<10A0> <10A1> [<55B6> <55BF>]
+<10A4> <10A5> <55C4>
+<10A7> <10A8> [<55C7> <55C9>]
+<10AA> <10AB> [<55CC> <55CE>]
+<10AC> <10AD> <55D1>
+endbfrange
+2 beginbfchar
+<10AF> <55D4>
+<10B2> <55DA>
+endbfchar
+3 beginbfrange
+<10B4> <10B5> <55DC>
+<10B7> <10B7> [<55DF>]
+<10B8> <10BA> <55E2>
+endbfrange
+1 beginbfchar
+<10BB> <55E9>
+endbfchar
+3 beginbfrange
+<10BD> <10BE> [<55F7> <55F9>]
+<10BF> <10C0> <55FD>
+<10C3> <10C6> <5606>
+endbfrange
+2 beginbfchar
+<10C9> <560E>
+<10CB> <5610>
+endbfchar
+5 beginbfrange
+<10CE> <10CE> [<5614>]
+<10CF> <10D1> <5616>
+<10D3> <10D3> [<561B>]
+<10D4> <10D5> <5628>
+<10D7> <10DA> <562F>
+endbfrange
+1 beginbfchar
+<10DC> <5634>
+endbfchar
+1 beginbfrange
+<10DE> <10E0> <5636>
+endbfrange
+1 beginbfchar
+<10E2> <563B>
+endbfchar
+2 beginbfrange
+<10E4> <10E4> [<563D>]
+<10E5> <10E6> <563F>
+endbfrange
+1 beginbfchar
+<10E8> <5642>
+endbfchar
+1 beginbfrange
+<10EC> <10ED> [<5647> <5649>]
+endbfrange
+2 beginbfchar
+<10EF> <564C>
+<10F1> <564E>
+endbfchar
+6 beginbfrange
+<10F3> <10F4> [<5650> <5653>]
+<10F6> <10F8> [<565B> <565E> <5660>]
+<10FC> <10FE> [<5664> <5666> <5668>]
+<1100> <1103> <566A>
+<1104> <1104> [<566F>]
+<1105> <1106> <5671>
+endbfrange
+1 beginbfchar
+<1107> <5674>
+endbfchar
+2 beginbfrange
+<1109> <110C> [<5676> <5678> <567A> <5680>]
+<110F> <1111> <5686>
+endbfrange
+1 beginbfchar
+<1112> <568A>
+endbfchar
+8 beginbfrange
+<1114> <1115> [<568C> <568F>]
+<1116> <1117> <5694>
+<1118> <1119> <5699>
+<111A> <111B> <569D>
+<111D> <111F> [<56A0> <56A2> <56A5>]
+<1122> <1123> <56A8>
+<1125> <1127> <56AC>
+<1129> <112B> <56B2>
+endbfrange
+2 beginbfchar
+<112C> <56B6>
+<112E> <56BC>
+endbfchar
+8 beginbfrange
+<1130> <1133> <56C0>
+<1134> <1134> [<56C5>]
+<1135> <1137> <56C8>
+<113A> <113B> <56CD>
+<113E> <113F> [<56D1> <56D3>]
+<1140> <1141> <56D7>
+<1143> <1144> <56DA>
+<1147> <1149> <56DE>
+endbfrange
+2 beginbfchar
+<114B> <56E3>
+<1150> <56E8>
+endbfchar
+6 beginbfrange
+<1153> <1154> [<56EE> <56F0>]
+<1156> <1157> <56F2>
+<1158> <1159> <56F6>
+<115A> <115B> <56F9>
+<115C> <115C> [<56FD>]
+<115D> <115D> <56FF>
+endbfrange
+1 beginbfchar
+<115E> <5700>
+endbfchar
+5 beginbfrange
+<1161> <1162> <5703>
+<1164> <1167> <5708>
+<1169> <116A> [<570D> <570F>]
+<116C> <116D> <5712>
+<116E> <116F> <5715>
+endbfrange
+5 beginbfchar
+<1170> <5718>
+<1173> <571C>
+<1175> <571F>
+<1177> <5721>
+<1179> <5723>
+endbfchar
+1 beginbfrange
+<117C> <117F> <5726>
+endbfrange
+1 beginbfchar
+<1182> <572D>
+endbfchar
+3 beginbfrange
+<1184> <1185> <572F>
+<1186> <1187> <5733>
+<1188> <1189> <5737>
+endbfrange
+1 beginbfchar
+<118A> <573B>
+endbfchar
+4 beginbfrange
+<118E> <118F> [<5740> <5742>]
+<1190> <1192> <5745>
+<1193> <1193> [<574A>]
+<1194> <1199> <574C>
+endbfrange
+3 beginbfchar
+<119C> <5761>
+<119E> <5764>
+<11A0> <5766>
+endbfchar
+3 beginbfrange
+<11A2> <11A4> <5768>
+<11A8> <11A9> <576F>
+<11AB> <11AD> <5773>
+endbfrange
+1 beginbfchar
+<11AE> <5777>
+endbfchar
+1 beginbfrange
+<11B1> <11B2> <577B>
+endbfrange
+2 beginbfchar
+<11B4> <577F>
+<11B6> <5782>
+endbfchar
+1 beginbfrange
+<11B8> <11B9> <5788>
+endbfrange
+2 beginbfchar
+<11BA> <578B>
+<11BC> <5793>
+endbfchar
+2 beginbfrange
+<11C1> <11C1> [<579A>]
+<11C2> <11C4> <579C>
+endbfrange
+1 beginbfchar
+<11C6> <57A0>
+endbfchar
+1 beginbfrange
+<11C8> <11CA> <57A2>
+endbfrange
+1 beginbfchar
+<11CC> <57A8>
+endbfchar
+7 beginbfrange
+<11CE> <11D2> [<57AA> <57AC> <57B0> <57B3> <57B8>]
+<11D4> <11D5> [<57C0> <57C3>]
+<11D6> <11D8> <57C6>
+<11D9> <11DA> <57CB>
+<11DB> <11DC> <57CE>
+<11DD> <11DF> <57D2>
+<11E1> <11E2> <57D6>
+endbfrange
+1 beginbfchar
+<11E3> <57DC>
+endbfchar
+2 beginbfrange
+<11E5> <11E7> <57DE>
+<11E9> <11EA> <57E3>
+endbfrange
+1 beginbfchar
+<11EB> <57E6>
+endbfchar
+10 beginbfrange
+<11EE> <11EF> [<57ED> <57F0>]
+<11F0> <11F9> <57F4>
+<11FB> <11FB> <57FF>
+<11FC> <11FD> [<5800> <5802>]
+<11FF> <11FF> <5804>
+<1200> <1201> <5805>
+<1203> <1205> <5809>
+<1208> <1209> [<5815> <5819>]
+<120B> <120C> <581D>
+<120E> <120F> <5820>
+endbfrange
+1 beginbfchar
+<1210> <5824>
+endbfchar
+4 beginbfrange
+<1212> <1213> [<5827> <582A>]
+<1215> <1218> <582F>
+<1219> <121A> <5834>
+<121B> <121C> <5839>
+endbfrange
+1 beginbfchar
+<121D> <583D>
+endbfchar
+3 beginbfrange
+<121F> <1220> <5840>
+<1221> <1224> <5849>
+<1228> <1229> <5851>
+endbfrange
+1 beginbfchar
+<122A> <5854>
+endbfchar
+1 beginbfrange
+<122C> <122F> <5857>
+endbfrange
+1 beginbfchar
+<1230> <585E>
+endbfchar
+16 beginbfrange
+<1232> <1233> <5861>
+<1234> <1235> [<5864> <5867>]
+<1237> <123B> [<5869> <586B> <5870> <5872> <5875>]
+<123D> <123F> [<5879> <587C> <587E>]
+<1243> <1244> [<5883> <5885>]
+<1247> <1249> <5889>
+<124B> <124B> [<588D>]
+<124C> <124D> <588F>
+<124E> <124F> <5893>
+<1251> <1251> [<5897>]
+<1252> <1255> <589C>
+<125A> <125D> <58A8>
+<125E> <125F> [<58AE> <58B1>]
+<1261> <1261> [<58B3>]
+<1262> <1265> <58B8>
+<1267> <1268> [<58BE> <58C1>]
+endbfrange
+1 beginbfchar
+<126A> <58C3>
+endbfchar
+5 beginbfrange
+<126C> <126D> [<58C5> <58C7>]
+<126F> <126F> [<58CA>]
+<1270> <1272> <58CC>
+<1274> <1278> <58D1>
+<127A> <127D> <58D7>
+endbfrange
+1 beginbfchar
+<127E> <58DC>
+endbfchar
+14 beginbfrange
+<1280> <1282> <58DE>
+<1284> <1284> [<58E2>]
+<1285> <1286> <58E4>
+<1287> <1287> [<58E9>]
+<1288> <1289> <58EB>
+<128A> <1290> <58EE>
+<1291> <1291> [<58F7>]
+<1292> <1296> <58F9>
+<1297> <1297> [<5902>]
+<1298> <1299> <5905>
+<129A> <129E> <5909>
+<129F> <12A0> <590F>
+<12A3> <12A5> <5914>
+<12A6> <12AA> <5918>
+endbfrange
+1 beginbfchar
+<12AD> <5922>
+endbfchar
+1 beginbfrange
+<12AF> <12B0> <5924>
+endbfrange
+1 beginbfchar
+<12B1> <5927>
+endbfchar
+10 beginbfrange
+<12B3> <12B8> <5929>
+<12BB> <12BC> <5931>
+<12C0> <12C1> <5937>
+<12C2> <12C3> <593D>
+<12C6> <12C6> [<5944>]
+<12C7> <12CA> <5946>
+<12CB> <12CE> <594E>
+<12D1> <12D2> <5954>
+<12D3> <12D4> <5957>
+<12D6> <12D7> <595A>
+endbfrange
+1 beginbfchar
+<12D8> <595D>
+endbfchar
+1 beginbfrange
+<12DA> <12DB> <595F>
+endbfrange
+1 beginbfchar
+<12DD> <5962>
+endbfchar
+4 beginbfrange
+<12DF> <12DF> [<5965>]
+<12E0> <12E3> <5967>
+<12E5> <12E7> <596C>
+<12EA> <12ED> <5973>
+endbfrange
+1 beginbfchar
+<12EE> <5978>
+endbfchar
+3 beginbfrange
+<12F1> <12F2> <597C>
+<12F3> <12F6> <5981>
+<12F7> <12F8> <598A>
+endbfrange
+1 beginbfchar
+<12FA> <598D>
+endbfchar
+1 beginbfrange
+<12FC> <12FD> <5992>
+endbfrange
+1 beginbfchar
+<12FF> <5996>
+endbfchar
+3 beginbfrange
+<1301> <1304> [<5999> <599B> <599D> <599F>]
+<1305> <1307> <59A3>
+<1309> <130A> [<59A8> <59AC>]
+endbfrange
+3 beginbfchar
+<130C> <59AE>
+<130F> <59B2>
+<1312> <59B9>
+endbfchar
+1 beginbfrange
+<1314> <1315> <59BB>
+endbfrange
+2 beginbfchar
+<1316> <59BE>
+<1318> <59C3>
+endbfchar
+8 beginbfrange
+<131A> <131A> [<59C6>]
+<131B> <131C> <59C8>
+<131E> <131F> [<59CB> <59CD>]
+<1320> <1324> <59D0>
+<1325> <1326> <59D9>
+<1327> <1329> <59DC>
+<132B> <1330> <59E3>
+<1331> <1332> <59EA>
+endbfrange
+2 beginbfchar
+<1333> <59EE>
+<1338> <59F6>
+endbfchar
+4 beginbfrange
+<133A> <133C> [<59F8> <59FB> <59FF>]
+<133E> <133F> [<5A01> <5A03>]
+<1341> <1341> [<5A09>]
+<1342> <1343> <5A0C>
+endbfrange
+1 beginbfchar
+<1345> <5A11>
+endbfchar
+4 beginbfrange
+<1347> <1347> [<5A13>]
+<1348> <1349> <5A17>
+<134A> <134B> [<5A1A> <5A1C>]
+<134D> <134E> <5A1F>
+endbfrange
+1 beginbfchar
+<134F> <5A23>
+endbfchar
+1 beginbfrange
+<1351> <1352> [<5A25> <5A27>]
+endbfrange
+1 beginbfchar
+<1354> <5A29>
+endbfchar
+4 beginbfrange
+<1356> <1357> [<5A2D> <5A2F>]
+<1359> <135A> <5A35>
+<135B> <135B> [<5A3C>]
+<135C> <135D> <5A40>
+endbfrange
+2 beginbfchar
+<1360> <5A46>
+<1363> <5A49>
+endbfchar
+1 beginbfrange
+<1366> <1367> [<5A55> <5A5A>]
+endbfrange
+1 beginbfchar
+<1369> <5A62>
+endbfchar
+6 beginbfrange
+<136B> <136D> <5A65>
+<136E> <136E> [<5A6A>]
+<136F> <1370> <5A6C>
+<1371> <1372> [<5A77> <5A7A>]
+<1374> <1375> <5A7E>
+<1376> <1377> [<5A84> <5A8B>]
+endbfrange
+1 beginbfchar
+<1379> <5A92>
+endbfchar
+3 beginbfrange
+<137D> <137F> <5A9A>
+<1380> <1382> <5A9E>
+<1383> <1384> [<5AA2> <5AA7>]
+endbfrange
+1 beginbfchar
+<1386> <5AB1>
+endbfchar
+1 beginbfrange
+<1388> <1389> [<5AB3> <5AB5>]
+endbfrange
+1 beginbfchar
+<138B> <5ABA>
+endbfchar
+2 beginbfrange
+<138D> <1390> <5ABC>
+<1391> <1392> <5AC1>
+endbfrange
+1 beginbfchar
+<1393> <5AC4>
+endbfchar
+8 beginbfrange
+<1396> <1396> [<5AC9>]
+<1397> <1398> <5ACB>
+<139A> <139A> [<5AD0>]
+<139B> <139C> <5AD6>
+<139D> <139E> [<5ADA> <5ADC>]
+<139F> <13A0> <5AE0>
+<13A1> <13A1> [<5AE3>]
+<13A2> <13A3> <5AE5>
+endbfrange
+1 beginbfchar
+<13A4> <5AE9>
+endbfchar
+2 beginbfrange
+<13A6> <13A8> [<5AEE> <5AF0> <5AF5>]
+<13AA> <13AB> <5AFA>
+endbfrange
+1 beginbfchar
+<13AD> <5B00>
+endbfchar
+3 beginbfrange
+<13AF> <13B0> <5B08>
+<13B1> <13B2> <5B0B>
+<13B3> <13B4> <5B16>
+endbfrange
+1 beginbfchar
+<13B5> <5B19>
+endbfchar
+13 beginbfrange
+<13B9> <13BB> [<5B22> <5B25> <5B2A>]
+<13BC> <13BD> <5B2C>
+<13BE> <13C1> [<5B30> <5B32> <5B34> <5B36>]
+<13C3> <13C3> [<5B3E>]
+<13C4> <13C5> <5B40>
+<13C6> <13C7> [<5B43> <5B45>]
+<13C9> <13C9> [<5B4C>]
+<13CA> <13CC> <5B50>
+<13CD> <13D1> <5B54>
+<13D2> <13D5> <5B5A>
+<13D7> <13D7> [<5B5F>]
+<13D8> <13DB> <5B63>
+<13DC> <13DD> <5B68>
+endbfrange
+1 beginbfchar
+<13DE> <5B6B>
+endbfchar
+7 beginbfrange
+<13E0> <13E2> <5B6F>
+<13E3> <13E6> [<5B73> <5B75> <5B78> <5B7A>]
+<13E7> <13E8> <5B7C>
+<13EA> <13EC> <5B7F>
+<13ED> <13EF> <5B83>
+<13F1> <13F3> <5B87>
+<13F5> <13F7> <5B8B>
+endbfrange
+2 beginbfchar
+<13F9> <5B8F>
+<13FC> <5B93>
+endbfchar
+4 beginbfrange
+<13FE> <13FF> <5B95>
+<1400> <1406> <5B97>
+<1407> <1407> [<5B9F>]
+<1408> <140C> <5BA2>
+endbfrange
+3 beginbfchar
+<140F> <5BAC>
+<1411> <5BAE>
+<1413> <5BB0>
+endbfchar
+5 beginbfrange
+<1416> <1419> <5BB3>
+<141B> <141C> <5BB8>
+<141F> <1420> <5BBF>
+<1422> <1427> <5BC2>
+<1428> <1429> [<5BC9> <5BCC>]
+endbfrange
+1 beginbfchar
+<142B> <5BCE>
+endbfchar
+2 beginbfrange
+<142D> <142D> [<5BD0>]
+<142E> <1430> <5BD2>
+endbfrange
+2 beginbfchar
+<1431> <5BD6>
+<1433> <5BD8>
+endbfchar
+5 beginbfrange
+<1436> <1436> [<5BDB>]
+<1437> <1439> <5BDD>
+<143B> <143C> <5BE1>
+<143D> <1442> <5BE4>
+<1443> <1444> <5BEB>
+endbfrange
+1 beginbfchar
+<1445> <5BEE>
+endbfchar
+1 beginbfrange
+<1447> <1448> <5BF0>
+endbfrange
+1 beginbfchar
+<1449> <5BF3>
+endbfchar
+6 beginbfrange
+<144B> <144C> <5BF5>
+<144D> <144E> [<5BF8> <5BFA>]
+<144F> <1451> <5BFD>
+<1452> <145C> <5C01>
+<145E> <1460> <5C0D>
+<1461> <1463> <5C11>
+endbfrange
+1 beginbfchar
+<1464> <5C16>
+endbfchar
+4 beginbfrange
+<1466> <1467> [<5C1A> <5C1E>]
+<1469> <1469> [<5C20>]
+<146A> <146C> <5C22>
+<146E> <146F> <5C28>
+endbfrange
+2 beginbfchar
+<1470> <5C2B>
+<1472> <5C2D>
+endbfchar
+7 beginbfrange
+<1474> <1475> <5C30>
+<1479> <1482> <5C38>
+<1483> <1484> <5C45>
+<1485> <1485> [<5C48>]
+<1486> <1487> <5C4A>
+<1488> <148C> <5C4D>
+<148D> <148E> [<5C53> <5C55>]
+endbfrange
+1 beginbfchar
+<1491> <5C5B>
+endbfchar
+2 beginbfrange
+<1493> <149A> <5C5E>
+<149B> <149D> <5C67>
+endbfrange
+1 beginbfchar
+<149E> <5C6C>
+endbfchar
+3 beginbfrange
+<14A0> <14A3> <5C6E>
+<14A6> <14A6> [<5C76>]
+<14A7> <14A8> <5C79>
+endbfrange
+1 beginbfchar
+<14AA> <5C7C>
+endbfchar
+2 beginbfrange
+<14AD> <14AF> [<5C88> <5C8A> <5C8C>]
+<14B0> <14B2> <5C8F>
+endbfrange
+1 beginbfchar
+<14B4> <5C94>
+endbfchar
+2 beginbfrange
+<14B6> <14BA> <5C9F>
+<14BB> <14C2> <5CA6>
+endbfrange
+2 beginbfchar
+<14C3> <5CB1>
+<14C5> <5CB3>
+endbfchar
+3 beginbfrange
+<14C7> <14CA> <5CB5>
+<14CB> <14CD> <5CBA>
+<14CE> <14D4> [<5CBE> <5CC5> <5CC7> <5CC9> <5CCB> <5CD0> <5CD2>]
+endbfrange
+1 beginbfchar
+<14D6> <5CD9>
+endbfchar
+2 beginbfrange
+<14D8> <14D9> <5CE0>
+<14DA> <14DC> <5CE8>
+endbfrange
+1 beginbfchar
+<14DD> <5CED>
+endbfchar
+1 beginbfrange
+<14DF> <14E0> <5CEF>
+endbfrange
+1 beginbfchar
+<14E3> <5CF4>
+endbfchar
+2 beginbfrange
+<14E5> <14E5> [<5CF6>]
+<14E6> <14E7> <5CFA>
+endbfrange
+1 beginbfchar
+<14E8> <5CFD>
+endbfchar
+7 beginbfrange
+<14EA> <14EB> <5D06>
+<14EC> <14EC> [<5D0B>]
+<14ED> <14EE> <5D0D>
+<14EF> <14F0> <5D10>
+<14F2> <14F9> <5D14>
+<14FA> <14FA> [<5D1D>]
+<14FB> <14FC> <5D1F>
+endbfrange
+1 beginbfchar
+<14FD> <5D22>
+endbfchar
+3 beginbfrange
+<14FF> <14FF> [<5D24>]
+<1500> <1501> <5D26>
+<1502> <1504> [<5D29> <5D2B> <5D31>]
+endbfrange
+2 beginbfchar
+<1506> <5D39>
+<1509> <5D42>
+endbfchar
+4 beginbfrange
+<150B> <150C> <5D46>
+<150E> <1510> <5D4A>
+<1511> <1512> [<5D4E> <5D50>]
+<1514> <1515> <5D52>
+endbfrange
+2 beginbfchar
+<1518> <5D5C>
+<151B> <5D61>
+endbfchar
+9 beginbfrange
+<151E> <151F> <5D69>
+<1520> <1521> <5D6C>
+<1522> <1523> <5D6F>
+<1524> <1525> [<5D73> <5D76>]
+<152A> <152B> <5D81>
+<152D> <152D> [<5D84>]
+<152E> <152F> <5D87>
+<1531> <1532> <5D8B>
+<1533> <1534> [<5D90> <5D92>]
+endbfrange
+1 beginbfchar
+<1536> <5D94>
+endbfchar
+1 beginbfrange
+<1538> <1539> [<5D97> <5D99>]
+endbfrange
+1 beginbfchar
+<153B> <5D9D>
+endbfchar
+13 beginbfrange
+<153D> <1540> [<5DA0> <5DA2> <5DA4> <5DA7>]
+<1542> <1546> [<5DAC> <5DAE> <5DB0> <5DB2> <5DB4>]
+<1547> <154A> <5DB7>
+<154B> <154C> <5DBC>
+<154F> <154F> [<5DC9>]
+<1550> <1552> <5DCB>
+<1555> <1557> <5DD1>
+<1558> <155A> <5DD6>
+<155C> <155C> [<5DDB>]
+<155D> <155E> <5DDD>
+<155F> <1568> <5DE0>
+<1569> <156A> [<5DEB> <5DEE>]
+<156B> <156F> <5DF1>
+endbfrange
+1 beginbfchar
+<1570> <5DF7>
+endbfchar
+4 beginbfrange
+<1573> <1573> [<5DFB>]
+<1574> <1575> <5DFD>
+<1576> <1576> [<5E00>]
+<1577> <1578> <5E02>
+endbfrange
+1 beginbfchar
+<1579> <5E06>
+endbfchar
+5 beginbfrange
+<157B> <157C> <5E0B>
+<157E> <157F> <5E11>
+<1580> <1582> <5E14>
+<1583> <1586> <5E18>
+<1587> <1588> [<5E1D> <5E1F>]
+endbfrange
+1 beginbfchar
+<158A> <5E25>
+endbfchar
+2 beginbfrange
+<158C> <158C> [<5E2B>]
+<158D> <1590> <5E2D>
+endbfrange
+1 beginbfchar
+<1592> <5E33>
+endbfchar
+28 beginbfrange
+<1594> <1596> <5E36>
+<1597> <1598> <5E3D>
+<1599> <1599> [<5E40>]
+<159A> <159C> <5E43>
+<159D> <159E> [<5E47> <5E49>]
+<15A0> <15A1> [<5E4C> <5E4E>]
+<15A4> <15A8> <5E54>
+<15AB> <15AC> <5E5E>
+<15AD> <15B0> <5E61>
+<15B3> <15B6> <5E6B>
+<15B8> <15C5> <5E72>
+<15C7> <15C7> [<5E81>]
+<15C8> <15C9> <5E83>
+<15CA> <15CB> [<5E87> <5E8A>]
+<15CE> <15CE> [<5E8F>]
+<15CF> <15D1> <5E95>
+<15D2> <15D4> [<5E9A> <5E9C> <5EA0>]
+<15D7> <15D9> <5EA5>
+<15DB> <15DE> <5EAA>
+<15E1> <15E5> <5EB5>
+<15E7> <15E8> <5EBE>
+<15E9> <15EB> <5EC1>
+<15EC> <15EC> [<5EC6>]
+<15ED> <15F0> <5EC8>
+<15F3> <15F4> <5ECF>
+<15F6> <15F7> <5ED2>
+<15FA> <15FA> [<5ED6>]
+<15FB> <15FD> <5ED9>
+endbfrange
+1 beginbfchar
+<15FF> <5EDD>
+endbfchar
+10 beginbfrange
+<1601> <1605> <5EDF>
+<1607> <1608> <5EE8>
+<160A> <160A> [<5EEC>]
+<160B> <160C> <5EF0>
+<160D> <160E> <5EF3>
+<160F> <1618> <5EF6>
+<1619> <161D> <5F00>
+<161F> <1629> <5F07>
+<162A> <162F> <5F13>
+<1631> <1635> <5F1B>
+endbfrange
+1 beginbfchar
+<1638> <5F23>
+endbfchar
+1 beginbfrange
+<163A> <163C> <5F25>
+endbfrange
+3 beginbfchar
+<163E> <5F29>
+<1641> <5F2D>
+<1643> <5F2F>
+endbfchar
+7 beginbfrange
+<1645> <1645> [<5F31>]
+<1646> <164A> <5F34>
+<164C> <164E> <5F3C>
+<1650> <1651> <5F40>
+<1653> <1653> [<5F45>]
+<1654> <1655> <5F47>
+<1656> <1657> [<5F4A> <5F4C>]
+endbfrange
+1 beginbfchar
+<1659> <5F4E>
+endbfchar
+8 beginbfrange
+<165B> <165B> [<5F51>]
+<165C> <165D> <5F53>
+<165E> <1661> <5F56>
+<1663> <1664> <5F5C>
+<1666> <1669> <5F61>
+<166A> <166B> <5F66>
+<166C> <1670> <5F69>
+<1672> <1675> <5F70>
+endbfrange
+2 beginbfchar
+<1678> <5F77>
+<167A> <5F79>
+endbfchar
+4 beginbfrange
+<167C> <1685> <5F7C>
+<1686> <168B> <5F87>
+<168D> <1691> <5F8F>
+<1693> <1695> <5F97>
+endbfrange
+1 beginbfchar
+<1696> <5F9C>
+endbfchar
+9 beginbfrange
+<1698> <1698> [<5F9E>]
+<1699> <169B> <5FA0>
+<169C> <169C> [<5FA4>]
+<169D> <16A0> <5FA7>
+<16A3> <16A5> <5FAD>
+<16A8> <16AA> <5FB3>
+<16AB> <16AD> <5FB7>
+<16AE> <16AF> <5FBC>
+<16B0> <16B2> <5FC3>
+endbfrange
+1 beginbfchar
+<16B3> <5FC7>
+endbfchar
+6 beginbfrange
+<16B5> <16B5> [<5FC9>]
+<16B6> <16B8> <5FCB>
+<16BB> <16BD> <5FD2>
+<16BE> <16C1> <5FD6>
+<16C2> <16C4> <5FDC>
+<16C5> <16C7> <5FE0>
+endbfrange
+3 beginbfchar
+<16C8> <5FE4>
+<16CA> <5FE9>
+<16CC> <5FEB>
+endbfchar
+2 beginbfrange
+<16CF> <16D2> <5FEE>
+<16D4> <16D5> [<5FF3> <5FF5>]
+endbfrange
+1 beginbfchar
+<16D7> <5FF8>
+endbfchar
+1 beginbfrange
+<16D9> <16DB> <5FFB>
+endbfrange
+1 beginbfchar
+<16DC> <5FFF>
+endbfchar
+1 beginbfrange
+<16DF> <16E2> <600D>
+endbfrange
+1 beginbfchar
+<16E3> <6012>
+endbfchar
+5 beginbfrange
+<16E5> <16EA> <6014>
+<16EC> <16EE> <601B>
+<16F0> <16F2> <6020>
+<16F3> <16FA> <6024>
+<16FC> <16FF> [<602F> <6031> <6033> <6035>]
+endbfrange
+1 beginbfchar
+<1700> <603A>
+endbfchar
+3 beginbfrange
+<1702> <1704> <6041>
+<1705> <1706> <6046>
+<1709> <170C> <604A>
+endbfrange
+3 beginbfchar
+<170D> <6050>
+<170F> <6052>
+<1711> <6055>
+endbfchar
+9 beginbfrange
+<1714> <1715> <6059>
+<1717> <1718> <605F>
+<171A> <171D> <6062>
+<171F> <1724> <6068>
+<1725> <1726> <606F>
+<1728> <1729> [<6075> <6077>]
+<172B> <172C> [<607F> <6081>]
+<172E> <172F> <6083>
+<1733> <1737> <6089>
+endbfrange
+1 beginbfchar
+<173A> <6092>
+endbfchar
+3 beginbfrange
+<173C> <173F> <6094>
+<1741> <1742> <609A>
+<1743> <1746> <609D>
+endbfrange
+1 beginbfchar
+<1748> <60A3>
+endbfchar
+2 beginbfrange
+<174B> <174F> <60A6>
+<1750> <1756> <60B0>
+endbfrange
+1 beginbfchar
+<1758> <60B8>
+endbfchar
+2 beginbfrange
+<175A> <175C> <60BC>
+<175F> <1762> <60C5>
+endbfrange
+1 beginbfchar
+<1765> <60CB>
+endbfchar
+4 beginbfrange
+<1768> <1768> [<60D1>]
+<1769> <176B> <60D3>
+<176C> <1771> <60D8>
+<1773> <1775> <60DF>
+endbfrange
+1 beginbfchar
+<1777> <60E3>
+endbfchar
+8 beginbfrange
+<1779> <177A> <60E7>
+<177B> <177B> [<60EE>]
+<177C> <1787> <60F0>
+<178A> <178B> <6100>
+<178D> <178E> [<6103> <6106>]
+<1790> <1791> <6108>
+<1794> <1797> <610D>
+<1799> <179A> <6112>
+endbfrange
+1 beginbfchar
+<179C> <6115>
+endbfchar
+2 beginbfrange
+<179F> <17A2> <6119>
+<17A3> <17A4> <611E>
+endbfrange
+1 beginbfchar
+<17A6> <6121>
+endbfchar
+2 beginbfrange
+<17A8> <17A9> <6127>
+<17AB> <17AC> <612B>
+endbfrange
+3 beginbfchar
+<17AD> <6130>
+<17AF> <6134>
+<17B2> <6137>
+endbfchar
+3 beginbfrange
+<17B4> <17B4> [<613A>]
+<17B5> <17B8> <613C>
+<17B9> <17BA> <6141>
+endbfrange
+1 beginbfchar
+<17BB> <6144>
+endbfchar
+4 beginbfrange
+<17BD> <17BF> <6146>
+<17C1> <17C5> <614A>
+<17C6> <17C7> [<6153> <6155>]
+<17C8> <17CA> <6158>
+endbfrange
+1 beginbfchar
+<17CB> <615D>
+endbfchar
+4 beginbfrange
+<17CD> <17CE> <615F>
+<17CF> <17D0> <6162>
+<17D1> <17D1> [<6165>]
+<17D2> <17D3> <6167>
+endbfrange
+1 beginbfchar
+<17D4> <616B>
+endbfchar
+3 beginbfrange
+<17D6> <17D9> <616E>
+<17DB> <17DF> <6173>
+<17E2> <17E3> [<617C> <617E>]
+endbfrange
+1 beginbfchar
+<17E7> <6182>
+endbfchar
+14 beginbfrange
+<17EA> <17EB> [<6187> <618A>]
+<17ED> <17EE> <618D>
+<17EF> <17F3> <6190>
+<17F4> <17F8> <6196>
+<17FD> <17FE> <61A4>
+<17FF> <17FF> <61A7>
+<1800> <1801> <61A8>
+<1803> <1806> <61AB>
+<1807> <1808> [<61B2> <61B6>]
+<180A> <180B> <61B9>
+<180C> <180D> [<61BC> <61BE>]
+<1811> <1811> [<61C3>]
+<1812> <1819> <61C6>
+<181C> <181D> [<61D0> <61D5>]
+endbfrange
+4 beginbfchar
+<181F> <61DD>
+<1821> <61DF>
+<1824> <61E3>
+<1826> <61E6>
+endbfchar
+4 beginbfrange
+<182C> <182C> [<61F2>]
+<182D> <1831> <61F4>
+<1832> <1832> [<61FA>]
+<1833> <1836> <61FC>
+endbfrange
+1 beginbfchar
+<1837> <6200>
+endbfchar
+7 beginbfrange
+<183C> <183E> <6208>
+<183F> <1841> <620C>
+<1842> <1844> <6210>
+<1846> <1848> <6214>
+<1849> <184A> <621A>
+<184C> <184E> <621D>
+<1850> <1852> <6221>
+endbfrange
+1 beginbfchar
+<1853> <6226>
+endbfchar
+3 beginbfrange
+<1855> <1856> <6229>
+<1858> <185A> <622E>
+<185B> <185D> <6232>
+endbfrange
+2 beginbfchar
+<185E> <6238>
+<1860> <623B>
+endbfchar
+1 beginbfrange
+<1862> <1865> <623E>
+endbfrange
+1 beginbfchar
+<1867> <6243>
+endbfchar
+20 beginbfrange
+<1869> <186C> <6246>
+<186D> <1870> <624B>
+<1872> <1874> <6251>
+<1876> <1877> <6255>
+<1878> <1878> [<6258>]
+<1879> <187A> <625A>
+<187C> <187C> [<625E>]
+<187D> <187E> <6260>
+<187F> <1880> <6263>
+<1881> <1881> [<6268>]
+<1882> <1884> <626D>
+<1885> <1888> [<6271> <6273> <6276> <6279>]
+<188A> <188B> <627B>
+<188D> <188F> <627E>
+<1890> <1893> <6282>
+<1894> <1895> <6289>
+<189A> <18A2> <6291>
+<18A3> <18A4> <629B>
+<18A5> <18A6> [<629E> <62A6>]
+<18A8> <18A9> <62AB>
+endbfrange
+3 beginbfchar
+<18AA> <62B1>
+<18AC> <62B5>
+<18AF> <62B9>
+endbfchar
+8 beginbfrange
+<18B1> <18B3> <62BB>
+<18B6> <18B6> [<62C2>]
+<18B7> <18BD> <62C4>
+<18BE> <18BF> <62CC>
+<18C1> <18CB> <62CF>
+<18CD> <18CF> <62DB>
+<18D0> <18D1> <62E0>
+<18D3> <18D6> <62EC>
+endbfrange
+2 beginbfchar
+<18D7> <62F1>
+<18D9> <62F3>
+endbfchar
+9 beginbfrange
+<18DB> <18DD> <62F5>
+<18DE> <18E1> <62FC>
+<18E2> <18E4> <6301>
+<18E6> <18E9> <6307>
+<18EB> <18EC> <630C>
+<18ED> <18EE> <6310>
+<18F1> <18F2> <6318>
+<18F3> <18F3> [<631F>]
+<18F4> <18F5> <6327>
+endbfrange
+1 beginbfchar
+<18F8> <632B>
+endbfchar
+3 beginbfrange
+<18FA> <18FC> [<632F> <6332> <6335>]
+<18FE> <18FF> <6339>
+<1900> <1904> <633B>
+endbfrange
+1 beginbfchar
+<1905> <6341>
+endbfchar
+1 beginbfrange
+<1907> <1908> <6343>
+endbfrange
+1 beginbfchar
+<190A> <6349>
+endbfchar
+2 beginbfrange
+<190D> <1911> <634C>
+<1915> <1916> [<6355> <6357>]
+endbfrange
+1 beginbfchar
+<1918> <6359>
+endbfchar
+3 beginbfrange
+<191A> <191B> [<635C> <6365>]
+<191D> <191F> <6367>
+<1920> <1921> <636B>
+endbfrange
+2 beginbfchar
+<1923> <636E>
+<1925> <6372>
+endbfchar
+2 beginbfrange
+<1928> <1929> <6376>
+<192B> <192D> <637A>
+endbfrange
+1 beginbfchar
+<1930> <6380>
+endbfchar
+7 beginbfrange
+<1932> <1933> <6383>
+<1935> <1936> <6388>
+<1938> <1938> [<638C>]
+<1939> <193A> <638E>
+<193C> <193D> [<6392> <6394>]
+<193F> <193F> [<6396>]
+<1940> <1941> <6398>
+endbfrange
+1 beginbfchar
+<1943> <639B>
+endbfchar
+1 beginbfrange
+<1945> <1949> <639F>
+endbfrange
+1 beginbfchar
+<194B> <63A5>
+endbfchar
+5 beginbfrange
+<194D> <1952> <63A7>
+<1956> <1956> [<63B2>]
+<1957> <1958> <63B4>
+<1959> <1959> [<63BB>]
+<195A> <195B> <63BD>
+endbfrange
+1 beginbfchar
+<195C> <63C0>
+endbfchar
+1 beginbfrange
+<195E> <195F> <63C3>
+endbfrange
+2 beginbfchar
+<1961> <63C6>
+<1963> <63C9>
+endbfchar
+1 beginbfrange
+<1965> <1966> <63CF>
+endbfrange
+1 beginbfchar
+<1968> <63D2>
+endbfchar
+5 beginbfrange
+<196A> <196C> <63D4>
+<196D> <196F> <63DA>
+<1970> <1971> <63E0>
+<1972> <1974> [<63E3> <63E5> <63E9>]
+<1976> <1979> <63EB>
+endbfrange
+1 beginbfchar
+<197A> <63F2>
+endbfchar
+7 beginbfrange
+<197C> <197F> <63F4>
+<1982> <1984> [<63FA> <6406> <6409>]
+<1986> <1986> [<640D>]
+<1987> <1988> <640F>
+<198A> <198B> <6413>
+<198C> <198D> <6416>
+<198F> <1990> [<641C> <641E>]
+endbfrange
+1 beginbfchar
+<1992> <6422>
+endbfchar
+3 beginbfrange
+<1994> <1995> <6425>
+<1996> <1997> <6428>
+<1999> <199A> <642C>
+endbfrange
+2 beginbfchar
+<199B> <642F>
+<199D> <6434>
+endbfchar
+1 beginbfrange
+<199F> <19A0> [<6436> <643A>]
+endbfrange
+4 beginbfchar
+<19A2> <643E>
+<19A4> <6442>
+<19A6> <644E>
+<19A8> <6451>
+endbfchar
+2 beginbfrange
+<19AC> <19AC> [<6458>]
+<19AD> <19AE> <645A>
+endbfrange
+2 beginbfchar
+<19B0> <645D>
+<19B2> <6460>
+endbfchar
+6 beginbfrange
+<19B5> <19B9> [<6467> <6469> <646D> <646F> <6473>]
+<19BB> <19BB> [<6476>]
+<19BC> <19BE> <6478>
+<19C0> <19C1> [<647D> <6483>]
+<19C3> <19C4> <6487>
+<19C7> <19C9> <6491>
+endbfrange
+2 beginbfchar
+<19CA> <6495>
+<19CD> <649A>
+endbfchar
+10 beginbfrange
+<19CF> <19D1> <649D>
+<19D4> <19D5> <64A4>
+<19D8> <19D9> [<64A9> <64AB>]
+<19DB> <19DC> <64AD>
+<19DD> <19DE> [<64B0> <64B2>]
+<19E0> <19E0> [<64B9>]
+<19E1> <19E2> <64BB>
+<19E4> <19E5> <64BE>
+<19E6> <19E7> <64C1>
+<19E8> <19E9> <64C4>
+endbfrange
+1 beginbfchar
+<19EA> <64C7>
+endbfchar
+1 beginbfrange
+<19EC> <19F0> <64CA>
+endbfrange
+1 beginbfchar
+<19F1> <64D0>
+endbfchar
+5 beginbfrange
+<19F3> <19F3> [<64D2>]
+<19F4> <19F5> <64D4>
+<19F6> <19F7> <64D7>
+<19F8> <19F8> [<64DA>]
+<19F9> <19FF> <64E0>
+endbfrange
+3 beginbfchar
+<1A00> <64E7>
+<1A03> <64EC>
+<1A05> <64EF>
+endbfchar
+1 beginbfrange
+<1A07> <1A08> <64F1>
+endbfrange
+1 beginbfchar
+<1A09> <64F4>
+endbfchar
+3 beginbfrange
+<1A0B> <1A0C> <64F6>
+<1A0D> <1A0E> <64FA>
+<1A0F> <1A11> <64FD>
+endbfrange
+1 beginbfchar
+<1A12> <6500>
+endbfchar
+1 beginbfrange
+<1A14> <1A15> <6504>
+endbfrange
+1 beginbfchar
+<1A19> <650F>
+endbfchar
+4 beginbfrange
+<1A1B> <1A1D> [<6514> <6516> <6518>]
+<1A20> <1A22> <651C>
+<1A24> <1A26> <6522>
+<1A28> <1A2B> <6529>
+endbfrange
+1 beginbfchar
+<1A2D> <652F>
+endbfchar
+2 beginbfrange
+<1A2F> <1A2F> [<6532>]
+<1A30> <1A35> <6534>
+endbfrange
+1 beginbfchar
+<1A37> <653B>
+endbfchar
+2 beginbfrange
+<1A3A> <1A3B> <653E>
+<1A3D> <1A3E> <6544>
+endbfrange
+4 beginbfchar
+<1A40> <6548>
+<1A42> <654D>
+<1A44> <654F>
+<1A46> <6551>
+endbfchar
+8 beginbfrange
+<1A48> <1A4D> <6554>
+<1A4E> <1A4F> <655D>
+<1A52> <1A53> <6562>
+<1A54> <1A55> <6566>
+<1A56> <1A57> <656B>
+<1A58> <1A59> [<6570> <6572>]
+<1A5A> <1A5B> <6574>
+<1A5C> <1A5D> <6577>
+endbfrange
+1 beginbfchar
+<1A5E> <657A>
+endbfchar
+4 beginbfrange
+<1A60> <1A64> <6581>
+<1A65> <1A68> <6587>
+<1A69> <1A6A> [<658C> <658E>]
+<1A6B> <1A6C> <6590>
+endbfrange
+1 beginbfchar
+<1A6F> <6597>
+endbfchar
+2 beginbfrange
+<1A71> <1A71> [<6599>]
+<1A72> <1A74> <659B>
+endbfrange
+2 beginbfchar
+<1A75> <659F>
+<1A77> <65A1>
+endbfchar
+4 beginbfrange
+<1A79> <1A7A> <65A4>
+<1A7C> <1A7C> [<65A7>]
+<1A7D> <1A7F> <65AB>
+<1A81> <1A82> <65AF>
+endbfrange
+1 beginbfchar
+<1A83> <65B2>
+endbfchar
+7 beginbfrange
+<1A86> <1A86> [<65B5>]
+<1A87> <1A89> <65B7>
+<1A8A> <1A8B> <65BC>
+<1A8C> <1A8C> [<65BF>]
+<1A8D> <1A92> <65C1>
+<1A94> <1A94> [<65C9>]
+<1A95> <1A96> <65CB>
+endbfrange
+1 beginbfchar
+<1A98> <65CF>
+endbfchar
+1 beginbfrange
+<1A9A> <1A9B> [<65D2> <65D4>]
+endbfrange
+1 beginbfchar
+<1A9D> <65D7>
+endbfchar
+9 beginbfrange
+<1A9F> <1AA0> [<65D9> <65DB>]
+<1AA2> <1AA4> <65E0>
+<1AA5> <1AA9> <65E5>
+<1AAA> <1AAB> <65EC>
+<1AAD> <1AAE> <65F1>
+<1AB1> <1AB4> <65F9>
+<1AB7> <1AB7> [<6600>]
+<1AB8> <1ABA> <6602>
+<1ABB> <1ABF> <6606>
+endbfrange
+1 beginbfchar
+<1AC0> <660C>
+endbfchar
+2 beginbfrange
+<1AC2> <1AC3> <660E>
+<1AC6> <1AC8> <6613>
+endbfrange
+1 beginbfchar
+<1ACA> <661C>
+endbfchar
+4 beginbfrange
+<1ACC> <1AD0> <661E>
+<1AD2> <1AD3> <6624>
+<1AD5> <1AD6> <6627>
+<1AD8> <1AD9> <662A>
+endbfrange
+1 beginbfchar
+<1ADB> <662D>
+endbfchar
+2 beginbfrange
+<1ADD> <1ADF> <662F>
+<1AE0> <1AE3> <6633>
+endbfrange
+1 beginbfchar
+<1AE6> <663A>
+endbfchar
+6 beginbfrange
+<1AE8> <1AE9> [<663C> <663F>]
+<1AEB> <1AEF> <6641>
+<1AF1> <1AF2> <6648>
+<1AF4> <1AF5> <664B>
+<1AF6> <1AF7> <664E>
+<1AF8> <1AF9> <6651>
+endbfrange
+1 beginbfchar
+<1AFA> <6657>
+endbfchar
+12 beginbfrange
+<1AFC> <1AFE> <6659>
+<1B00> <1B02> <665D>
+<1B04> <1B13> <6661>
+<1B14> <1B15> <6673>
+<1B17> <1B19> <6676>
+<1B1B> <1B1C> <667A>
+<1B20> <1B21> <6680>
+<1B22> <1B23> <6683>
+<1B24> <1B26> <6687>
+<1B29> <1B2A> <668D>
+<1B2B> <1B2D> <6690>
+<1B2E> <1B31> <6696>
+endbfrange
+1 beginbfchar
+<1B35> <669D>
+endbfchar
+8 beginbfrange
+<1B37> <1B38> [<66A0> <66A2>]
+<1B3A> <1B3B> [<66A6> <66AB>]
+<1B3C> <1B3D> <66AD>
+<1B3E> <1B3F> <66B1>
+<1B40> <1B41> <66B4>
+<1B42> <1B43> <66B8>
+<1B44> <1B45> <66BB>
+<1B46> <1B47> <66BE>
+endbfrange
+1 beginbfchar
+<1B49> <66C1>
+endbfchar
+6 beginbfrange
+<1B4C> <1B4C> [<66C4>]
+<1B4D> <1B50> <66C6>
+<1B55> <1B55> [<66D6>]
+<1B56> <1B5A> <66D9>
+<1B5C> <1B5D> [<66E0> <66E6>]
+<1B5E> <1B5F> <66E8>
+endbfrange
+1 beginbfchar
+<1B61> <66EC>
+endbfchar
+23 beginbfrange
+<1B63> <1B63> [<66F0>]
+<1B64> <1B67> <66F2>
+<1B68> <1B70> <66F7>
+<1B71> <1B72> <6700>
+<1B73> <1B74> [<6703> <6705>]
+<1B76> <1B77> <6708>
+<1B78> <1B79> [<670B> <670D>]
+<1B7B> <1B7B> [<670F>]
+<1B7C> <1B81> <6712>
+<1B82> <1B83> [<6719> <671B>]
+<1B85> <1B87> <671D>
+<1B8A> <1B8C> <6726>
+<1B8D> <1B91> <672A>
+<1B92> <1B92> [<6731>]
+<1B93> <1B94> <6733>
+<1B95> <1B97> <6736>
+<1B98> <1B99> [<673A> <673D>]
+<1B9B> <1B9C> [<673F> <6741>]
+<1B9E> <1BA1> <6746>
+<1BA2> <1BA7> <674C>
+<1BA8> <1BA9> <6753>
+<1BAB> <1BAC> [<6756> <6759>]
+<1BAD> <1BB7> <675C>
+endbfrange
+2 beginbfchar
+<1BB8> <676A>
+<1BBA> <676D>
+endbfchar
+3 beginbfrange
+<1BBC> <1BC4> <676F>
+<1BC5> <1BC6> <677B>
+<1BC7> <1BC8> <677E>
+endbfrange
+1 beginbfchar
+<1BC9> <6781>
+endbfchar
+2 beginbfrange
+<1BCB> <1BCD> [<6785> <6787> <6789>]
+<1BCE> <1BCF> <678B>
+endbfrange
+1 beginbfchar
+<1BD2> <6790>
+endbfchar
+1 beginbfrange
+<1BD4> <1BD5> <6792>
+endbfrange
+1 beginbfchar
+<1BD6> <6795>
+endbfchar
+7 beginbfrange
+<1BD8> <1BD9> <6797>
+<1BDB> <1BDE> <679A>
+<1BDF> <1BE1> <67A0>
+<1BE2> <1BE3> [<67A6> <67A9>]
+<1BE4> <1BE5> <67AF>
+<1BE7> <1BE9> <67B2>
+<1BEB> <1BEE> <67B6>
+endbfrange
+1 beginbfchar
+<1BEF> <67BB>
+endbfchar
+28 beginbfrange
+<1BF2> <1BF3> <67C0>
+<1BF5> <1BF6> <67C3>
+<1BF8> <1BF9> [<67C6> <67C8>]
+<1BFB> <1BFB> [<67CA>]
+<1BFC> <1BFF> <67CE>
+<1C00> <1C02> <67D2>
+<1C03> <1C07> <67D7>
+<1C09> <1C0A> <67DD>
+<1C0C> <1C0D> [<67E2> <67E4>]
+<1C0F> <1C11> [<67E7> <67E9> <67EC>]
+<1C12> <1C15> <67EE>
+<1C17> <1C19> <67F3>
+<1C1B> <1C1C> [<67F7> <67F9>]
+<1C1D> <1C1E> <67FB>
+<1C1F> <1C20> <67FE>
+<1C21> <1C24> <6801>
+<1C25> <1C26> [<6810> <6813>]
+<1C28> <1C2A> <6816>
+<1C2C> <1C2E> <681D>
+<1C2F> <1C30> <6821>
+<1C33> <1C37> <6829>
+<1C3A> <1C3D> <6831>
+<1C3E> <1C3F> <6838>
+<1C40> <1C43> <683B>
+<1C45> <1C4B> <6840>
+<1C4C> <1C4D> <6848>
+<1C4F> <1C51> <684C>
+<1C52> <1C57> <6850>
+endbfrange
+1 beginbfchar
+<1C58> <6857>
+endbfchar
+5 beginbfrange
+<1C5A> <1C5A> [<6859>]
+<1C5B> <1C5D> <685B>
+<1C5E> <1C62> [<685F> <6863> <6867> <686B> <686E>]
+<1C66> <1C66> [<6872>]
+<1C67> <1C6A> <6874>
+endbfrange
+1 beginbfchar
+<1C6C> <687A>
+endbfchar
+3 beginbfrange
+<1C6E> <1C6E> [<687C>]
+<1C6F> <1C70> <687E>
+<1C71> <1C73> <6881>
+endbfrange
+1 beginbfchar
+<1C75> <6885>
+endbfchar
+8 beginbfrange
+<1C78> <1C78> [<688D>]
+<1C79> <1C7A> <688F>
+<1C7B> <1C7C> <6893>
+<1C7D> <1C84> <6896>
+<1C85> <1C86> <689F>
+<1C88> <1C89> <68A2>
+<1C8A> <1C8D> <68A5>
+<1C8F> <1C90> <68AA>
+endbfrange
+1 beginbfchar
+<1C91> <68AD>
+endbfchar
+5 beginbfrange
+<1C93> <1C9A> <68AF>
+<1C9B> <1C9E> <68B9>
+<1C9F> <1CA2> <68C3>
+<1CA3> <1CA8> <68C8>
+<1CA9> <1CAA> <68CF>
+endbfrange
+1 beginbfchar
+<1CAC> <68D2>
+endbfchar
+11 beginbfrange
+<1CAE> <1CB4> <68D4>
+<1CB7> <1CB9> <68DF>
+<1CBA> <1CBC> <68E3>
+<1CBD> <1CBE> <68E7>
+<1CC1> <1CC7> <68EC>
+<1CCA> <1CCA> [<68F7>]
+<1CCB> <1CCE> <68F9>
+<1CD0> <1CD1> <6900>
+<1CD2> <1CD4> <6903>
+<1CD6> <1CD7> <6907>
+<1CD9> <1CDE> <690A>
+endbfrange
+1 beginbfchar
+<1CE1> <6912>
+endbfchar
+17 beginbfrange
+<1CE5> <1CE8> <6919>
+<1CE9> <1CEB> <6921>
+<1CEC> <1CED> <6925>
+<1CEE> <1CF0> [<6928> <692A> <6930>]
+<1CF3> <1CF5> <6934>
+<1CF7> <1CFB> [<6939> <693B> <693D> <693F> <6942>]
+<1CFD> <1CFD> [<6946>]
+<1CFE> <1CFF> <6949>
+<1D01> <1D03> <6953>
+<1D04> <1D04> [<6957>]
+<1D05> <1D06> <6959>
+<1D08> <1D0A> <695C>
+<1D0B> <1D0F> <6960>
+<1D12> <1D19> <6968>
+<1D1C> <1D1F> <6972>
+<1D20> <1D23> <6977>
+<1D25> <1D2B> <697C>
+endbfrange
+1 beginbfchar
+<1D2C> <698A>
+endbfchar
+5 beginbfrange
+<1D2E> <1D2E> [<698E>]
+<1D2F> <1D30> <6991>
+<1D31> <1D33> <6994>
+<1D34> <1D34> [<6998>]
+<1D35> <1D36> <699B>
+endbfrange
+1 beginbfchar
+<1D37> <69A0>
+endbfchar
+6 beginbfrange
+<1D39> <1D3B> <69A5>
+<1D3E> <1D3F> <69AD>
+<1D41> <1D43> <69B0>
+<1D44> <1D45> [<69B4> <69B7>]
+<1D47> <1D49> <69BA>
+<1D4A> <1D4D> <69BE>
+endbfrange
+2 beginbfchar
+<1D4E> <69C3>
+<1D50> <69C7>
+endbfchar
+10 beginbfrange
+<1D52> <1D59> <69CA>
+<1D5A> <1D5B> [<69D3> <69D6>]
+<1D5D> <1D5E> <69D8>
+<1D5F> <1D60> <69DD>
+<1D61> <1D62> <69E2>
+<1D64> <1D68> <69E7>
+<1D69> <1D6B> <69ED>
+<1D6D> <1D71> <69F2>
+<1D72> <1D73> [<69F9> <69FB>]
+<1D74> <1D76> <69FD>
+endbfrange
+1 beginbfchar
+<1D79> <6A02>
+endbfchar
+15 beginbfrange
+<1D7B> <1D7B> [<6A05>]
+<1D7C> <1D7E> <6A0A>
+<1D7F> <1D7F> [<6A0F>]
+<1D80> <1D84> <6A11>
+<1D85> <1D85> [<6A17>]
+<1D86> <1D88> <6A19>
+<1D89> <1D8B> <6A1D>
+<1D8D> <1D8F> <6A21>
+<1D92> <1D94> <6A29>
+<1D95> <1D96> [<6A2E> <6A30>]
+<1D97> <1D9B> <6A32>
+<1D9D> <1DA0> <6A38>
+<1DA1> <1DA3> <6A3D>
+<1DA4> <1DA9> <6A44>
+<1DAB> <1DAD> [<6A4B> <6A4E> <6A50>]
+endbfrange
+1 beginbfchar
+<1DAF> <6A52>
+endbfchar
+5 beginbfrange
+<1DB1> <1DB1> [<6A56>]
+<1DB2> <1DB3> <6A58>
+<1DB4> <1DB5> [<6A5B> <6A5F>]
+<1DB6> <1DB7> <6A61>
+<1DB8> <1DB9> [<6A64> <6A66>]
+endbfrange
+1 beginbfchar
+<1DBC> <6A6B>
+endbfchar
+11 beginbfrange
+<1DBE> <1DBF> <6A72>
+<1DC0> <1DC1> [<6A78> <6A7A>]
+<1DC2> <1DC4> <6A7E>
+<1DC6> <1DC7> <6A83>
+<1DCA> <1DCB> [<6A89> <6A8B>]
+<1DCC> <1DCD> <6A8D>
+<1DCE> <1DCF> <6A90>
+<1DD0> <1DD1> [<6A94> <6A97>]
+<1DD3> <1DDA> <6A9C>
+<1DDB> <1DDB> [<6AA5>]
+<1DDC> <1DDE> <6AAA>
+endbfrange
+2 beginbfchar
+<1DDF> <6AAE>
+<1DE3> <6AB3>
+endbfchar
+2 beginbfrange
+<1DE5> <1DE7> [<6AB8> <6ABB> <6ABD>]
+<1DEA> <1DEC> <6AC1>
+endbfrange
+1 beginbfchar
+<1DED> <6AC6>
+endbfchar
+8 beginbfrange
+<1DF1> <1DF2> <6AD0>
+<1DF3> <1DF4> <6AD3>
+<1DF7> <1DFC> <6ADA>
+<1DFE> <1DFE> [<6AE4>]
+<1DFF> <1DFF> <6AE7>
+<1E00> <1E02> [<6AE8> <6AEA> <6AEC>]
+<1E04> <1E06> <6AF1>
+<1E07> <1E08> <6AFA>
+endbfrange
+1 beginbfchar
+<1E0A> <6AFD>
+endbfchar
+6 beginbfrange
+<1E0D> <1E0E> <6B04>
+<1E12> <1E13> <6B0A>
+<1E14> <1E17> <6B0F>
+<1E18> <1E19> <6B16>
+<1E1A> <1E1A> [<6B1B>]
+<1E1B> <1E1F> <6B1D>
+endbfrange
+2 beginbfchar
+<1E20> <6B23>
+<1E22> <6B27>
+endbfchar
+6 beginbfrange
+<1E25> <1E28> [<6B2C> <6B2F> <6B32> <6B35>]
+<1E2A> <1E2D> <6B37>
+<1E2F> <1E30> <6B3D>
+<1E32> <1E32> [<6B43>]
+<1E33> <1E34> <6B46>
+<1E35> <1E36> <6B49>
+endbfrange
+1 beginbfchar
+<1E37> <6B4C>
+endbfchar
+4 beginbfrange
+<1E39> <1E3A> [<6B4E> <6B50>]
+<1E3C> <1E3D> <6B53>
+<1E3E> <1E3E> [<6B56>]
+<1E3F> <1E40> <6B58>
+endbfrange
+1 beginbfchar
+<1E41> <6B5B>
+endbfchar
+2 beginbfrange
+<1E43> <1E4B> <6B5F>
+<1E4C> <1E4D> <6B69>
+endbfrange
+2 beginbfchar
+<1E4F> <6B6C>
+<1E51> <6B6F>
+endbfchar
+8 beginbfrange
+<1E53> <1E55> <6B73>
+<1E56> <1E5A> <6B77>
+<1E5D> <1E62> <6B7F>
+<1E64> <1E64> [<6B86>]
+<1E65> <1E67> <6B89>
+<1E68> <1E68> [<6B8D>]
+<1E69> <1E6A> <6B95>
+<1E6C> <1E6E> [<6B98> <6B9B> <6B9E>]
+endbfrange
+1 beginbfchar
+<1E73> <6BA4>
+endbfchar
+3 beginbfrange
+<1E75> <1E77> <6BA9>
+<1E79> <1E7B> <6BAD>
+<1E7D> <1E81> <6BB1>
+endbfrange
+1 beginbfchar
+<1E82> <6BB7>
+endbfchar
+2 beginbfrange
+<1E85> <1E8B> <6BBA>
+<1E8E> <1E92> <6BC5>
+endbfrange
+1 beginbfchar
+<1E93> <6BCB>
+endbfchar
+4 beginbfrange
+<1E95> <1E97> <6BCD>
+<1E98> <1E9A> <6BD2>
+<1E9B> <1E9D> <6BD6>
+<1E9E> <1E9F> <6BDA>
+endbfrange
+1 beginbfchar
+<1EA0> <6BDF>
+endbfchar
+5 beginbfrange
+<1EA3> <1EA4> <6BE6>
+<1EA5> <1EA6> <6BEB>
+<1EA7> <1EA8> <6BEE>
+<1EA9> <1EAA> [<6BF1> <6BF3>]
+<1EAD> <1EAD> [<6BFF>]
+endbfrange
+1 beginbfchar
+<1EAE> <6C02>
+endbfchar
+1 beginbfrange
+<1EB0> <1EB1> [<6C05> <6C08>]
+endbfrange
+1 beginbfchar
+<1EB3> <6C0A>
+endbfchar
+2 beginbfrange
+<1EB5> <1EB8> <6C0E>
+<1EBA> <1EBB> <6C13>
+endbfrange
+2 beginbfchar
+<1EBC> <6C17>
+<1EBE> <6C1B>
+endbfchar
+2 beginbfrange
+<1EC0> <1EC1> <6C23>
+<1EC7> <1ECC> <6C33>
+endbfrange
+1 beginbfchar
+<1ECD> <6C3A>
+endbfchar
+2 beginbfrange
+<1ECF> <1ED3> <6C3E>
+<1ED6> <1ED7> <6C4D>
+endbfrange
+1 beginbfchar
+<1ED9> <6C50>
+endbfchar
+4 beginbfrange
+<1EDC> <1EDD> [<6C55> <6C57>]
+<1EDE> <1EE5> <6C59>
+<1EE6> <1EE6> [<6C62>]
+<1EE7> <1EE8> <6C67>
+endbfrange
+2 beginbfchar
+<1EE9> <6C6A>
+<1EEB> <6C6D>
+endbfchar
+2 beginbfrange
+<1EED> <1EED> [<6C70>]
+<1EEE> <1EF0> <6C72>
+endbfrange
+2 beginbfchar
+<1EF1> <6C76>
+<1EF4> <6C7A>
+endbfchar
+10 beginbfrange
+<1EF6> <1EF7> <6C7D>
+<1EF8> <1EFD> <6C81>
+<1EFF> <1EFF> <6C88>
+<1F00> <1F00> [<6C89>]
+<1F01> <1F02> <6C8C>
+<1F03> <1F03> [<6C90>]
+<1F04> <1F0E> <6C92>
+<1F10> <1F11> <6CA1>
+<1F12> <1F13> <6CAA>
+<1F14> <1F15> <6CAD>
+endbfrange
+2 beginbfchar
+<1F17> <6CB1>
+<1F19> <6CB3>
+endbfchar
+4 beginbfrange
+<1F1B> <1F22> <6CB8>
+<1F23> <1F24> <6CC1>
+<1F25> <1F27> <6CC4>
+<1F28> <1F29> <6CC9>
+endbfrange
+2 beginbfchar
+<1F2A> <6CCC>
+<1F2D> <6CD0>
+endbfchar
+3 beginbfrange
+<1F30> <1F34> <6CD3>
+<1F35> <1F39> <6CD9>
+<1F3A> <1F3D> <6CE0>
+endbfrange
+1 beginbfchar
+<1F3E> <6CE5>
+endbfchar
+1 beginbfrange
+<1F40> <1F49> <6CE8>
+endbfrange
+1 beginbfchar
+<1F4B> <6CF3>
+endbfchar
+2 beginbfrange
+<1F4D> <1F4F> [<6CFB> <6D00> <6D04>]
+<1F51> <1F53> <6D0A>
+endbfrange
+2 beginbfchar
+<1F54> <6D0E>
+<1F57> <6D12>
+endbfchar
+12 beginbfrange
+<1F59> <1F5A> [<6D17> <6D19>]
+<1F5C> <1F5C> [<6D1B>]
+<1F5D> <1F5E> <6D1E>
+<1F5F> <1F62> <6D24>
+<1F64> <1F66> <6D29>
+<1F67> <1F68> <6D2E>
+<1F69> <1F6E> <6D31>
+<1F6F> <1F70> <6D38>
+<1F71> <1F75> <6D3B>
+<1F76> <1F76> [<6D41>]
+<1F77> <1F78> <6D44>
+<1F7A> <1F7E> <6D58>
+endbfrange
+2 beginbfchar
+<1F7F> <6D5E>
+<1F81> <6D60>
+endbfchar
+9 beginbfrange
+<1F83> <1F86> <6D63>
+<1F88> <1F89> <6D69>
+<1F8A> <1F8B> [<6D6C> <6D6E>]
+<1F8D> <1F8E> [<6D70> <6D74>]
+<1F8F> <1F91> <6D77>
+<1F93> <1F95> <6D80>
+<1F96> <1F96> [<6D85>]
+<1F97> <1F9A> <6D87>
+<1F9B> <1F9D> <6D8C>
+endbfrange
+1 beginbfchar
+<1F9E> <6D91>
+endbfchar
+7 beginbfrange
+<1FA0> <1FA2> <6D93>
+<1FA5> <1FA6> <6D98>
+<1FA7> <1FA8> <6D9B>
+<1FA9> <1FAB> <6DAA>
+<1FAC> <1FAD> <6DAE>
+<1FAE> <1FAE> [<6DB2>]
+<1FAF> <1FB0> <6DB4>
+endbfrange
+2 beginbfchar
+<1FB2> <6DB8>
+<1FB4> <6DBC>
+endbfchar
+8 beginbfrange
+<1FB6> <1FB7> <6DBF>
+<1FB8> <1FB8> [<6DC2>]
+<1FB9> <1FBD> <6DC4>
+<1FBF> <1FC0> <6DCB>
+<1FC1> <1FC5> <6DCE>
+<1FC6> <1FC7> <6DD5>
+<1FC8> <1FCB> <6DD8>
+<1FCC> <1FCE> <6DDD>
+endbfrange
+2 beginbfchar
+<1FD0> <6DE1>
+<1FD2> <6DE4>
+endbfchar
+2 beginbfrange
+<1FD4> <1FD4> [<6DE6>]
+<1FD5> <1FD9> <6DE8>
+endbfrange
+3 beginbfchar
+<1FDA> <6DEE>
+<1FDD> <6DF1>
+<1FDF> <6DF3>
+endbfchar
+11 beginbfrange
+<1FE1> <1FE3> <6DF5>
+<1FE5> <1FE8> <6DF9>
+<1FEB> <1FEB> [<6E05>]
+<1FEC> <1FF0> <6E07>
+<1FF1> <1FF3> [<6E13> <6E15> <6E17>]
+<1FF4> <1FF6> <6E19>
+<1FF7> <1FFF> <6E1D>
+<2000> <2001> <6E26>
+<2002> <2002> [<6E29>]
+<2003> <2007> <6E2B>
+<2008> <200B> [<6E32> <6E34> <6E36> <6E38>]
+endbfrange
+1 beginbfchar
+<200D> <6E3A>
+endbfchar
+3 beginbfrange
+<200F> <2010> [<6E3C> <6E3E>]
+<2011> <2012> <6E43>
+<2014> <201B> <6E48>
+endbfrange
+1 beginbfchar
+<201C> <6E51>
+endbfchar
+7 beginbfrange
+<201E> <201F> <6E53>
+<2020> <2022> <6E56>
+<2023> <2024> <6E5B>
+<2026> <2027> <6E5E>
+<2029> <202A> [<6E63> <6E67>]
+<202C> <202C> [<6E6B>]
+<202D> <202E> <6E6E>
+endbfrange
+2 beginbfchar
+<202F> <6E72>
+<2031> <6E76>
+endbfchar
+5 beginbfrange
+<2034> <2036> <6E7E>
+<2037> <2038> [<6E82> <6E8C>]
+<203A> <203B> <6E8F>
+<203C> <203E> [<6E93> <6E96> <6E98>]
+<2040> <2041> <6E9C>
+endbfrange
+1 beginbfchar
+<2042> <6E9F>
+endbfchar
+6 beginbfrange
+<2044> <2046> [<6EA2> <6EA5> <6EA7>]
+<2047> <2048> <6EAA>
+<204B> <204B> [<6EAF>]
+<204C> <204D> <6EB1>
+<204F> <204F> [<6EB4>]
+<2050> <2051> <6EB6>
+endbfrange
+1 beginbfchar
+<2052> <6EBA>
+endbfchar
+2 beginbfrange
+<2054> <2055> [<6EBD> <6EBF>]
+<2057> <205B> <6EC1>
+endbfrange
+1 beginbfchar
+<205C> <6EC7>
+endbfchar
+1 beginbfrange
+<205E> <2061> <6EC9>
+endbfrange
+1 beginbfchar
+<2063> <6ECE>
+endbfchar
+7 beginbfrange
+<2065> <2065> [<6ED1>]
+<2066> <2068> <6ED3>
+<2069> <2069> [<6ED9>]
+<206A> <206B> <6EDD>
+<206C> <206D> <6EEB>
+<2070> <2072> [<6EEF> <6EF2> <6EF4>]
+<2073> <2075> <6EF7>
+endbfrange
+1 beginbfchar
+<2076> <6EFB>
+endbfchar
+2 beginbfrange
+<2078> <2079> <6EFE>
+<207A> <207B> <6F01>
+endbfrange
+1 beginbfchar
+<207D> <6F06>
+endbfchar
+1 beginbfrange
+<207F> <2080> <6F09>
+endbfrange
+1 beginbfchar
+<2081> <6F0C>
+endbfchar
+5 beginbfrange
+<2083> <2085> <6F0F>
+<2086> <2088> <6F13>
+<208A> <208B> [<6F18> <6F1A>]
+<208D> <208D> [<6F20>]
+<208E> <208F> <6F22>
+endbfrange
+1 beginbfchar
+<2090> <6F25>
+endbfchar
+1 beginbfrange
+<2093> <2095> <6F2A>
+endbfrange
+1 beginbfchar
+<2097> <6F2F>
+endbfchar
+2 beginbfrange
+<2099> <209B> <6F31>
+<209C> <209D> <6F35>
+endbfrange
+1 beginbfchar
+<209E> <6F38>
+endbfchar
+13 beginbfrange
+<20A0> <20A0> [<6F3C>]
+<20A1> <20A2> <6F3E>
+<20A3> <20A4> [<6F41> <6F45>]
+<20A6> <20A7> <6F51>
+<20A9> <20A9> [<6F54>]
+<20AA> <20AF> <6F57>
+<20B1> <20B5> <6F5E>
+<20B6> <20B8> [<6F64> <6F66> <6F68>]
+<20BA> <20BD> <6F6D>
+<20BE> <20C0> [<6F74> <6F78> <6F7A>]
+<20C1> <20C3> <6F7C>
+<20C4> <20C6> <6F80>
+<20C8> <20C9> [<6F84> <6F86>]
+endbfrange
+1 beginbfchar
+<20CB> <6F88>
+endbfchar
+6 beginbfrange
+<20CD> <20CF> <6F8C>
+<20D0> <20D1> <6F90>
+<20D4> <20D4> [<6F94>]
+<20D5> <20D7> <6F96>
+<20D9> <20DB> <6F9F>
+<20DC> <20DE> <6FA3>
+endbfrange
+3 beginbfchar
+<20E0> <6FA7>
+<20E2> <6FAA>
+<20E4> <6FAF>
+endbfchar
+9 beginbfrange
+<20E6> <20E7> [<6FB1> <6FB3>]
+<20E8> <20E9> <6FB5>
+<20EA> <20EC> [<6FB9> <6FBC> <6FBE>]
+<20ED> <20F0> <6FC0>
+<20F2> <20F6> <6FC6>
+<20F7> <20F8> <6FD4>
+<20F9> <20F9> [<6FD8>]
+<20FA> <20FB> <6FDA>
+<20FC> <20FF> <6FDE>
+endbfrange
+1 beginbfchar
+<2100> <6FE4>
+endbfchar
+6 beginbfrange
+<2102> <2102> [<6FE9>]
+<2103> <2104> <6FEB>
+<2105> <2108> <6FEE>
+<2109> <2109> [<6FF3>]
+<210A> <210B> <6FF5>
+<210C> <210D> <6FF9>
+endbfrange
+1 beginbfchar
+<210E> <6FFC>
+endbfchar
+10 beginbfrange
+<2110> <2110> [<6FFE>]
+<2111> <2112> <7000>
+<2113> <2115> <7005>
+<2116> <2118> <7009>
+<211A> <211C> [<700F> <7011> <7015>]
+<211E> <211E> [<7018>]
+<211F> <2120> <701A>
+<2121> <2123> <701D>
+<2125> <2125> [<7023>]
+<2126> <2128> <7026>
+endbfrange
+1 beginbfchar
+<2129> <702C>
+endbfchar
+3 beginbfrange
+<212B> <212C> [<7030> <7032>]
+<212F> <2130> <7039>
+<2131> <2133> [<703C> <703E> <7043>]
+endbfrange
+1 beginbfchar
+<2135> <7047>
+endbfchar
+15 beginbfrange
+<2138> <213A> <704A>
+<213B> <213D> [<704E> <7051> <7054>]
+<213F> <213F> [<7058>]
+<2140> <2141> <705D>
+<2142> <2144> <7063>
+<2145> <2145> [<7069>]
+<2146> <2147> <706B>
+<2148> <214A> <706E>
+<214B> <214C> <7075>
+<214D> <214D> [<7078>]
+<214E> <2150> <707C>
+<2151> <2151> [<7081>]
+<2152> <2153> <7085>
+<2154> <2155> <7089>
+<2156> <2157> [<708E> <7092>]
+endbfrange
+3 beginbfchar
+<2159> <7095>
+<215B> <7097>
+<215D> <7099>
+endbfchar
+20 beginbfrange
+<215F> <2160> [<709F> <70A4>]
+<2161> <2165> <70AB>
+<2167> <2168> [<70B1> <70B3>]
+<216A> <216E> <70B7>
+<216F> <216F> [<70C8>]
+<2170> <2171> <70CA>
+<2172> <2173> [<70CF> <70D1>]
+<2174> <2175> <70D3>
+<2178> <2179> <70D8>
+<217A> <217B> <70DC>
+<217C> <2180> [<70DF> <70E4> <70EC> <70F1> <70F9>]
+<2182> <2182> [<70FD>]
+<2183> <2184> <7103>
+<2186> <2189> <7106>
+<218B> <218D> [<710C> <710F> <7114>]
+<218E> <218F> <7119>
+<2190> <2191> [<711C> <711E>]
+<2192> <2193> <7120>
+<2194> <2195> [<7126> <712B>]
+<2197> <219A> <712E>
+endbfrange
+2 beginbfchar
+<219B> <7136>
+<219D> <713C>
+endbfchar
+5 beginbfrange
+<21A0> <21A1> <7146>
+<21A2> <21A3> <7149>
+<21A5> <21A6> [<714C> <714E>]
+<21A7> <21AA> <7150>
+<21AB> <21AC> <7155>
+endbfrange
+1 beginbfchar
+<21AE> <7159>
+endbfchar
+6 beginbfrange
+<21B0> <21B3> [<715C> <715E> <7160> <7162>]
+<21B4> <21B9> <7164>
+<21BA> <21BB> [<716C> <716E>]
+<21BD> <21BE> [<717D> <7180>]
+<21BF> <21C0> <7184>
+<21C1> <21C2> <7187>
+endbfrange
+1 beginbfchar
+<21C3> <718A>
+endbfchar
+2 beginbfrange
+<21C5> <21C6> [<718F> <7192>]
+<21C7> <21C9> <7194>
+endbfrange
+1 beginbfchar
+<21CA> <7199>
+endbfchar
+4 beginbfrange
+<21CC> <21CC> [<719B>]
+<21CD> <21CE> <719F>
+<21CF> <21D1> [<71A2> <71A8> <71AC>]
+<21D2> <21D3> <71AE>
+endbfrange
+1 beginbfchar
+<21D5> <71B1>
+endbfchar
+2 beginbfrange
+<21D7> <21D7> [<71B3>]
+<21D8> <21D9> <71B9>
+endbfrange
+1 beginbfchar
+<21DA> <71BE>
+endbfchar
+3 beginbfrange
+<21DD> <21DD> [<71C1>]
+<21DE> <21DF> <71C3>
+<21E0> <21E1> <71C8>
+endbfrange
+1 beginbfchar
+<21E2> <71CB>
+endbfchar
+7 beginbfrange
+<21E4> <21E5> [<71CE> <71D0>]
+<21E6> <21E9> <71D2>
+<21EB> <21EC> [<71D7> <71D9>]
+<21EE> <21EE> [<71DC>]
+<21EF> <21F0> <71DF>
+<21F1> <21F3> <71E5>
+<21F4> <21F6> <71EC>
+endbfrange
+1 beginbfchar
+<21F7> <71F5>
+endbfchar
+5 beginbfrange
+<21F9> <21F9> [<71F9>]
+<21FA> <21FB> <71FB>
+<21FC> <21FD> <71FE>
+<21FE> <21FE> [<7200>]
+<21FF> <21FF> <7206>
+endbfrange
+1 beginbfchar
+<2200> <7207>
+endbfchar
+1 beginbfrange
+<2203> <2204> [<720D> <7210>]
+endbfrange
+2 beginbfchar
+<2206> <7215>
+<2209> <721B>
+endbfchar
+5 beginbfrange
+<220D> <220D> [<7228>]
+<220E> <2211> <722A>
+<2213> <2214> [<7230> <7232>]
+<2215> <2217> <7234>
+<2218> <2220> <7238>
+endbfrange
+1 beginbfchar
+<2222> <7242>
+endbfchar
+4 beginbfrange
+<2225> <2227> <7246>
+<2228> <2229> <724B>
+<222D> <222E> <7252>
+<222F> <2233> <7255>
+endbfrange
+3 beginbfchar
+<2235> <725B>
+<2237> <725D>
+<2239> <725F>
+endbfchar
+1 beginbfrange
+<223B> <223D> <7261>
+endbfrange
+2 beginbfchar
+<223E> <7267>
+<2240> <7269>
+endbfchar
+4 beginbfrange
+<2242> <2243> <726E>
+<2245> <2246> [<7272> <7274>]
+<2248> <2249> <7278>
+<224C> <2251> <727D>
+endbfrange
+1 beginbfchar
+<2253> <7287>
+endbfchar
+1 beginbfrange
+<2255> <2256> <728D>
+endbfrange
+1 beginbfchar
+<2257> <7292>
+endbfchar
+4 beginbfrange
+<2259> <225D> [<7296> <729B> <72A0> <72A2> <72A7>]
+<225F> <2265> <72AC>
+<2267> <2269> [<72B6> <72B9> <72BE>]
+<226A> <226E> <72C0>
+endbfrange
+1 beginbfchar
+<226F> <72C6>
+endbfchar
+1 beginbfrange
+<2272> <2275> [<72CC> <72CE> <72D0> <72D2>]
+endbfrange
+1 beginbfchar
+<2278> <72D7>
+endbfchar
+4 beginbfrange
+<227A> <227B> [<72D9> <72DB>]
+<227D> <227F> <72E0>
+<2281> <2281> [<72E9>]
+<2282> <2283> <72EC>
+endbfrange
+1 beginbfchar
+<2284> <72F3>
+endbfchar
+2 beginbfrange
+<2286> <228C> <72F7>
+<2291> <2292> [<7307> <730A>]
+endbfrange
+1 beginbfchar
+<2295> <7312>
+endbfchar
+2 beginbfrange
+<2297> <229A> <7316>
+<229B> <229D> <731B>
+endbfrange
+1 beginbfchar
+<229F> <731F>
+endbfchar
+3 beginbfrange
+<22A2> <22A2> [<7325>]
+<22A3> <22A8> <7327>
+<22A9> <22AA> <732E>
+endbfrange
+1 beginbfchar
+<22AB> <7331>
+endbfchar
+2 beginbfrange
+<22AD> <22AE> <7333>
+<22B0> <22B1> <7336>
+endbfrange
+1 beginbfchar
+<22B2> <7339>
+endbfchar
+3 beginbfrange
+<22B5> <22B7> <733D>
+<22B9> <22BA> <7344>
+<22BC> <22BE> <734E>
+endbfrange
+2 beginbfchar
+<22BF> <7352>
+<22C1> <7357>
+endbfchar
+1 beginbfrange
+<22C7> <22C8> [<7363> <7366>]
+endbfrange
+1 beginbfchar
+<22CA> <7368>
+endbfchar
+5 beginbfrange
+<22CC> <22CE> <736A>
+<22CF> <22D3> <736E>
+<22D4> <22D4> [<7375>]
+<22D5> <22D6> <7377>
+<22D8> <22DA> <737A>
+endbfrange
+1 beginbfchar
+<22DC> <7381>
+endbfchar
+9 beginbfrange
+<22DE> <22DF> <7384>
+<22E1> <22E1> [<7387>]
+<22E2> <22E4> <7389>
+<22E8> <22EA> <7394>
+<22EC> <22ED> [<7398> <739C>]
+<22EE> <22F0> <739E>
+<22F1> <22F1> [<73A2>]
+<22F2> <22F3> <73A5>
+<22F4> <22F5> <73A8>
+endbfrange
+1 beginbfchar
+<22F7> <73AB>
+endbfchar
+14 beginbfrange
+<22F9> <22FA> <73B2>
+<22FB> <22FD> [<73B5> <73B7> <73B9>]
+<22FE> <22FF> <73BB>
+<2301> <2302> <73BF>
+<2303> <2304> [<73C2> <73C5>]
+<2306> <2309> <73C8>
+<230B> <230D> <73CD>
+<2310> <2311> [<73D6> <73D9>]
+<2313> <2313> [<73DE>]
+<2314> <2315> <73E0>
+<2316> <2317> [<73E3> <73E5>]
+<2319> <2319> [<73E7>]
+<231A> <231B> <73E9>
+<231C> <231D> <73ED>
+endbfrange
+1 beginbfchar
+<231E> <73F1>
+endbfchar
+1 beginbfrange
+<2322> <2324> <73F8>
+endbfrange
+1 beginbfchar
+<2327> <73FE>
+endbfchar
+7 beginbfrange
+<232A> <232B> [<7401> <7403>]
+<232D> <232F> <7405>
+<2330> <2331> <7409>
+<2333> <2333> [<7413>]
+<2334> <2335> <741A>
+<2336> <2336> [<7422>]
+<2337> <2339> <7424>
+endbfrange
+1 beginbfchar
+<233A> <7428>
+endbfchar
+12 beginbfrange
+<233C> <233E> <742A>
+<2340> <2348> <742E>
+<2349> <234A> <7439>
+<234B> <234D> <743F>
+<234E> <234F> <7443>
+<2350> <2351> <7446>
+<2352> <2353> [<744B> <744D>]
+<2355> <2356> <7452>
+<2357> <2358> [<7455> <7457>]
+<2359> <2360> <7459>
+<2361> <2363> <7462>
+<2367> <2369> <7469>
+endbfrange
+1 beginbfchar
+<236A> <746D>
+endbfchar
+4 beginbfrange
+<236C> <236E> <746F>
+<2370> <2372> [<7473> <7476> <747E>]
+<2374> <2375> [<7481> <7483>]
+<2376> <237A> <7485>
+endbfrange
+2 beginbfchar
+<237B> <748B>
+<237D> <7490>
+endbfchar
+5 beginbfrange
+<237F> <237F> [<7492>]
+<2380> <2382> <7497>
+<2384> <2384> [<749C>]
+<2385> <238A> <749E>
+<238B> <2391> <74A5>
+endbfrange
+1 beginbfchar
+<2394> <74B0>
+endbfchar
+4 beginbfrange
+<2397> <2397> [<74B5>]
+<2398> <239A> <74B9>
+<239B> <239C> [<74BD> <74BF>]
+<239D> <239F> <74C8>
+endbfrange
+1 beginbfchar
+<23A1> <74CF>
+endbfchar
+5 beginbfrange
+<23A4> <23A7> [<74D4> <74D6> <74D8> <74DA>]
+<23A9> <23AA> [<74DC> <74DE>]
+<23AC> <23AC> [<74E0>]
+<23AD> <23AE> <74E2>
+<23B0> <23B1> <74E6>
+endbfrange
+1 beginbfchar
+<23B3> <74E9>
+endbfchar
+3 beginbfrange
+<23B5> <23B5> [<74EB>]
+<23B6> <23BA> <74EE>
+<23BC> <23BE> <74F6>
+endbfrange
+1 beginbfchar
+<23BF> <74FA>
+endbfchar
+4 beginbfrange
+<23C2> <23C2> [<74FF>]
+<23C3> <23C3> [<7501>]
+<23C4> <23C6> <7503>
+<23C8> <23CA> <750C>
+endbfrange
+1 beginbfchar
+<23CB> <7511>
+endbfchar
+5 beginbfrange
+<23CD> <23CE> [<7513> <7515>]
+<23D0> <23D1> <7517>
+<23D2> <23D3> [<751A> <751C>]
+<23D4> <23D6> <751E>
+<23D8> <23DB> <7523>
+endbfrange
+1 beginbfchar
+<23DD> <7528>
+endbfchar
+4 beginbfrange
+<23DF> <23E1> <752A>
+<23E2> <23E6> <752F>
+<23E8> <23E9> <7537>
+<23EB> <23EF> <753A>
+endbfrange
+1 beginbfchar
+<23F1> <7540>
+endbfchar
+4 beginbfrange
+<23F3> <23F4> [<7544> <7546>]
+<23F6> <23FF> <7548>
+<2400> <2401> [<7552> <7554>]
+<2403> <2407> <7559>
+endbfrange
+1 beginbfchar
+<240A> <7560>
+endbfchar
+11 beginbfrange
+<240C> <240C> [<7562>]
+<240D> <2410> <7564>
+<2411> <2415> <7569>
+<2416> <241B> <756F>
+<241C> <2420> <7576>
+<2423> <2425> <757D>
+<2426> <2427> <7581>
+<2429> <242A> <7586>
+<242B> <242E> <7589>
+<242F> <2430> <758E>
+<2432> <2433> <7591>
+endbfrange
+2 beginbfchar
+<2435> <7594>
+<2438> <759A>
+endbfchar
+9 beginbfrange
+<243A> <243A> [<759D>]
+<243B> <243C> <75A2>
+<243E> <243F> [<75A5> <75AB>]
+<2440> <2443> <75B0>
+<2445> <2445> [<75B5>]
+<2446> <2448> <75B7>
+<244A> <244E> <75BC>
+<2450> <2451> <75C2>
+<2453> <2455> <75C5>
+endbfrange
+1 beginbfchar
+<2456> <75CA>
+endbfchar
+3 beginbfrange
+<2458> <245A> <75CD>
+<245B> <245E> <75D2>
+<2460> <2461> <75D8>
+endbfrange
+1 beginbfchar
+<2462> <75DB>
+endbfchar
+9 beginbfrange
+<2464> <2467> <75DD>
+<2469> <246B> <75E2>
+<246C> <246F> [<75E7> <75E9> <75EC> <75EE>]
+<2471> <2475> <75F0>
+<2476> <2477> <75F9>
+<2478> <2478> [<75FC>]
+<2479> <247A> <75FE>
+<247B> <247E> <7600>
+<2480> <2482> <7607>
+endbfrange
+1 beginbfchar
+<2484> <760B>
+endbfchar
+15 beginbfrange
+<2486> <2487> [<760D> <760F>]
+<2489> <2489> [<7613>]
+<248A> <248B> <7615>
+<248C> <248D> <7618>
+<248E> <248F> <761B>
+<2491> <2495> <761E>
+<2497> <249B> <7624>
+<249D> <249E> [<762D> <7630>]
+<24A0> <24A2> <7633>
+<24A6> <24A7> <763B>
+<24A9> <24AB> <7641>
+<24AE> <24B1> <7646>
+<24B3> <24B4> <764B>
+<24B5> <24B5> [<7652>]
+<24B6> <24B7> <7655>
+endbfrange
+2 beginbfchar
+<24B8> <7658>
+<24BA> <765C>
+endbfchar
+9 beginbfrange
+<24BC> <24BD> <7661>
+<24BE> <24BF> <7664>
+<24C0> <24C3> <7667>
+<24C4> <24CA> <766C>
+<24CC> <24CD> [<7676> <7678>]
+<24CE> <24D2> <767A>
+<24D3> <24D4> <7680>
+<24D6> <24D7> <7683>
+<24D9> <24DB> <7686>
+endbfrange
+1 beginbfchar
+<24DC> <768B>
+endbfchar
+5 beginbfrange
+<24DF> <24E1> [<768E> <7690> <7693>]
+<24E2> <24E3> <7695>
+<24E4> <24E9> <7699>
+<24EB> <24EC> <76A0>
+<24F1> <24F3> <76A6>
+endbfrange
+1 beginbfchar
+<24F4> <76AA>
+endbfchar
+3 beginbfrange
+<24F6> <24F8> <76AE>
+<24F9> <24F9> [<76B4>]
+<24FA> <24FE> <76B6>
+endbfrange
+1 beginbfchar
+<2500> <76BF>
+endbfchar
+12 beginbfrange
+<2502> <2503> <76C2>
+<2504> <2505> <76C5>
+<2506> <2508> <76C8>
+<250A> <250C> <76CC>
+<250D> <250E> [<76D2> <76D4>]
+<250F> <2510> <76D6>
+<2512> <2513> <76DB>
+<2514> <2515> <76DE>
+<2517> <2517> [<76E1>]
+<2518> <251D> <76E3>
+<251E> <2520> [<76EA> <76EC> <76EE>]
+<2522> <2523> <76F1>
+endbfrange
+2 beginbfchar
+<2524> <76F4>
+<2526> <76F8>
+endbfchar
+1 beginbfrange
+<2528> <2529> <76FB>
+endbfrange
+1 beginbfchar
+<252A> <76FE>
+endbfchar
+9 beginbfrange
+<252C> <252D> [<7701> <7704>]
+<252F> <2534> <7707>
+<2539> <2539> [<7717>]
+<253A> <253C> <7719>
+<253E> <2540> <771E>
+<2542> <2544> <7724>
+<2546> <2547> [<7729> <772D>]
+<254A> <254E> <7734>
+<2550> <2551> [<773A> <773C>]
+endbfrange
+1 beginbfchar
+<2554> <7740>
+endbfchar
+8 beginbfrange
+<2557> <2558> <7746>
+<255A> <255B> <774D>
+<2560> <2560> [<7758>]
+<2561> <2563> <775A>
+<2565> <2569> <775F>
+<256B> <256C> <7765>
+<256E> <256E> [<7768>]
+<256F> <2570> <776A>
+endbfrange
+1 beginbfchar
+<2573> <7772>
+endbfchar
+2 beginbfrange
+<2576> <2577> <7779>
+<2578> <257C> <777C>
+endbfrange
+1 beginbfchar
+<257E> <778B>
+endbfchar
+7 beginbfrange
+<2581> <2583> [<778E> <7791> <7794>]
+<2586> <2586> [<779A>]
+<2587> <2589> <779E>
+<258A> <258A> [<77A2>]
+<258B> <258C> <77A4>
+<258E> <258F> <77A9>
+<2590> <2591> <77AC>
+endbfrange
+2 beginbfchar
+<2594> <77B0>
+<2596> <77B3>
+endbfchar
+2 beginbfrange
+<2598> <2599> [<77B6> <77B9>]
+<259A> <259C> <77BB>
+endbfrange
+4 beginbfchar
+<259E> <77BF>
+<25A0> <77C7>
+<25A2> <77CD>
+<25A6> <77D7>
+endbfchar
+13 beginbfrange
+<25A8> <25AA> <77DA>
+<25AB> <25AD> <77DE>
+<25AE> <25B3> <77E2>
+<25B4> <25B5> <77E9>
+<25B6> <25BA> <77EC>
+<25BC> <25BD> <77F3>
+<25BF> <25C0> <77FB>
+<25C1> <25C1> [<7802>]
+<25C2> <25C3> <7805>
+<25C4> <25C4> [<7809>]
+<25C5> <25C6> <780C>
+<25C9> <25C9> [<7812>]
+<25CA> <25CB> <7814>
+endbfrange
+1 beginbfchar
+<25CC> <7819>
+endbfchar
+7 beginbfrange
+<25CE> <25CF> <7820>
+<25D2> <25D4> <7825>
+<25D5> <25D6> <782C>
+<25D9> <25DA> [<7832> <7834>]
+<25DD> <25DF> [<783A> <783F> <7843>]
+<25E1> <25E2> [<7845> <7847>]
+<25E5> <25E6> <784E>
+endbfrange
+2 beginbfchar
+<25E7> <7851>
+<25EA> <785D>
+endbfchar
+4 beginbfrange
+<25EF> <25F0> [<7864> <7868>]
+<25F1> <25F3> <786A>
+<25F4> <25F5> <786E>
+<25F6> <25F7> [<7872> <7874>]
+endbfrange
+1 beginbfchar
+<25F9> <787C>
+endbfchar
+7 beginbfrange
+<25FB> <25FB> [<7881>]
+<25FC> <25FD> <7886>
+<25FE> <25FE> [<788A>]
+<25FF> <25FF> <788C>
+<2600> <2601> <788D>
+<2603> <2603> [<7891>]
+<2604> <2606> <7893>
+endbfrange
+1 beginbfchar
+<2607> <7897>
+endbfchar
+3 beginbfrange
+<2609> <2609> [<789A>]
+<260A> <260C> <789D>
+<260E> <260F> <78A3>
+endbfrange
+1 beginbfchar
+<2610> <78A7>
+endbfchar
+5 beginbfrange
+<2612> <2613> <78A9>
+<2615> <2615> [<78AD>]
+<2616> <2617> <78AF>
+<261B> <261B> [<78B5>]
+<261C> <261E> <78BA>
+endbfrange
+1 beginbfchar
+<2620> <78BE>
+endbfchar
+2 beginbfrange
+<2622> <2622> [<78C1>]
+<2623> <2624> <78C5>
+endbfrange
+1 beginbfchar
+<2626> <78C8>
+endbfchar
+4 beginbfrange
+<2628> <262A> <78CA>
+<262B> <262B> [<78CE>]
+<262C> <262D> <78D0>
+<2630> <2631> <78D4>
+endbfrange
+1 beginbfchar
+<2633> <78DA>
+endbfchar
+4 beginbfrange
+<2636> <2637> <78E0>
+<2638> <2638> [<78E4>]
+<2639> <263B> <78E6>
+<263D> <263F> [<78EC> <78EF> <78F2>]
+endbfrange
+1 beginbfchar
+<2641> <78F4>
+endbfchar
+4 beginbfrange
+<2643> <2643> [<78F7>]
+<2644> <2646> <78F9>
+<2647> <2648> <78FD>
+<264A> <264B> <7900>
+endbfrange
+1 beginbfchar
+<264D> <7907>
+endbfchar
+2 beginbfrange
+<264F> <264F> [<790E>]
+<2650> <2652> <7910>
+endbfrange
+1 beginbfchar
+<2653> <7919>
+endbfchar
+5 beginbfrange
+<2655> <2656> <791B>
+<265A> <265B> <7925>
+<265E> <2660> <792A>
+<2662> <2662> [<792E>]
+<2663> <2664> <7930>
+endbfrange
+1 beginbfchar
+<2665> <7934>
+endbfchar
+1 beginbfrange
+<2667> <2669> <793A>
+endbfrange
+1 beginbfchar
+<266B> <793E>
+endbfchar
+2 beginbfrange
+<266D> <266E> <7940>
+<2670> <2675> <7945>
+endbfrange
+2 beginbfchar
+<2678> <7950>
+<267A> <7953>
+endbfchar
+8 beginbfrange
+<267C> <267F> <7955>
+<2680> <2686> <795A>
+<2687> <2688> [<7962> <7965>]
+<2689> <268A> <7967>
+<268D> <268F> [<796D> <7972> <7977>]
+<2690> <2691> <7979>
+<2695> <2697> <797F>
+<2698> <2699> <7984>
+endbfrange
+1 beginbfchar
+<269A> <798A>
+endbfchar
+6 beginbfrange
+<269D> <269F> <798D>
+<26A2> <26A4> <7994>
+<26A5> <26A6> [<7998> <799B>]
+<26A8> <26A9> [<799D> <79A1>]
+<26AA> <26AB> <79A6>
+<26AD> <26AE> <79A9>
+endbfrange
+1 beginbfchar
+<26B0> <79AE>
+endbfchar
+7 beginbfrange
+<26B2> <26B3> <79B0>
+<26B4> <26B5> <79B3>
+<26B6> <26B9> <79B8>
+<26BA> <26BF> <79BD>
+<26C1> <26C7> <79C7>
+<26C9> <26CA> <79D1>
+<26CB> <26CD> <79D4>
+endbfrange
+1 beginbfchar
+<26CE> <79D8>
+endbfchar
+1 beginbfrange
+<26D1> <26D2> <79DE>
+endbfrange
+1 beginbfchar
+<26D4> <79E1>
+endbfchar
+2 beginbfrange
+<26D6> <26D7> <79E3>
+<26D9> <26DA> <79E6>
+endbfrange
+1 beginbfchar
+<26DB> <79E9>
+endbfchar
+1 beginbfrange
+<26DD> <26DF> <79EB>
+endbfrange
+5 beginbfchar
+<26E0> <79F0>
+<26E3> <79FB>
+<26E5> <7A00>
+<26E7> <7A03>
+<26E9> <7A08>
+endbfchar
+7 beginbfrange
+<26EB> <26EC> <7A0A>
+<26EE> <26EF> <7A0D>
+<26F0> <26F0> [<7A11>]
+<26F1> <26F2> <7A14>
+<26F3> <26F8> <7A17>
+<26F9> <26FB> <7A1E>
+<26FF> <26FF> <7A2D>
+endbfrange
+1 beginbfchar
+<2700> <7A2E>
+endbfchar
+16 beginbfrange
+<2703> <2704> <7A31>
+<2707> <2709> <7A37>
+<270B> <2710> <7A3B>
+<2711> <2712> <7A42>
+<2715> <2716> <7A46>
+<2718> <2718> [<7A49>]
+<2719> <271D> <7A4C>
+<271F> <2720> <7A56>
+<2721> <2721> [<7A59>]
+<2722> <2723> <7A5C>
+<2724> <2728> <7A5F>
+<272A> <272A> [<7A67>]
+<272B> <272D> <7A69>
+<272E> <272F> [<7A6D> <7A70>]
+<2730> <2732> <7A74>
+<2733> <2735> <7A78>
+endbfrange
+2 beginbfchar
+<2736> <7A7D>
+<2738> <7A7F>
+endbfchar
+2 beginbfrange
+<273A> <273E> <7A81>
+<2740> <2741> [<7A88> <7A8A>]
+endbfrange
+1 beginbfchar
+<2743> <7A90>
+endbfchar
+7 beginbfrange
+<2745> <2746> <7A92>
+<2748> <274B> <7A95>
+<274D> <274E> <7A9F>
+<274F> <274F> [<7AA3>]
+<2750> <2751> <7AA9>
+<2752> <2752> [<7AAC>]
+<2753> <2755> <7AAE>
+endbfrange
+1 beginbfchar
+<2756> <7AB3>
+endbfchar
+17 beginbfrange
+<2758> <2758> [<7AB6>]
+<2759> <275C> <7AB9>
+<275D> <275E> <7ABE>
+<275F> <2761> <7AC3>
+<2763> <2764> <7AC7>
+<2766> <276B> <7ACA>
+<276C> <276E> <7AD1>
+<276F> <276F> [<7AD5>]
+<2770> <2771> <7AD9>
+<2773> <2774> <7ADC>
+<2775> <2779> <7ADF>
+<277A> <277D> <7AE5>
+<277F> <2780> <7AEA>
+<2782> <2782> [<7AED>]
+<2783> <2784> <7AEF>
+<2786> <2787> [<7AF4> <7AF6>]
+<2788> <278A> <7AF8>
+endbfrange
+1 beginbfchar
+<278C> <7AFD>
+endbfchar
+8 beginbfrange
+<278E> <278E> [<7AFF>]
+<278F> <2790> [<7B02> <7B04>]
+<2791> <2793> <7B06>
+<2794> <2795> <7B0A>
+<2796> <2796> [<7B0F>]
+<2797> <2798> <7B11>
+<279A> <279B> <7B18>
+<279C> <279D> [<7B1B> <7B1E>]
+endbfrange
+1 beginbfchar
+<279F> <7B20>
+endbfchar
+1 beginbfrange
+<27A1> <27A4> <7B25>
+endbfrange
+1 beginbfchar
+<27A6> <7B2A>
+endbfchar
+10 beginbfrange
+<27A8> <27AB> <7B2C>
+<27AD> <27AE> [<7B31> <7B33>]
+<27B0> <27B1> <7B35>
+<27B2> <27B4> [<7B39> <7B3B> <7B3D>]
+<27B7> <27B7> [<7B41>]
+<27B8> <27BC> <7B45>
+<27BD> <27C4> <7B4B>
+<27C5> <27C7> <7B54>
+<27C8> <27C9> [<7B5D> <7B60>]
+<27CA> <27CD> <7B64>
+endbfrange
+1 beginbfchar
+<27CE> <7B69>
+endbfchar
+2 beginbfrange
+<27D0> <27D9> <7B6C>
+<27DB> <27DC> <7B79>
+endbfrange
+1 beginbfchar
+<27DD> <7B7F>
+endbfchar
+5 beginbfrange
+<27DF> <27E0> <7B86>
+<27E2> <27E3> [<7B8B> <7B8D>]
+<27E5> <27E8> <7B8F>
+<27E9> <27EA> <7B94>
+<27EC> <27F4> <7B97>
+endbfrange
+2 beginbfchar
+<27F6> <7BA1>
+<27F8> <7BAA>
+endbfchar
+1 beginbfrange
+<27FA> <27FB> [<7BAD> <7BAF>]
+endbfrange
+1 beginbfchar
+<27FD> <7BB1>
+endbfchar
+1 beginbfrange
+<27FF> <27FF> <7BB4>
+endbfrange
+3 beginbfchar
+<2800> <7BB5>
+<2802> <7BB8>
+<2805> <7BBC>
+endbfchar
+10 beginbfrange
+<2807> <2808> <7BC0>
+<280A> <280D> <7BC4>
+<280F> <2812> <7BC9>
+<2813> <2814> [<7BCF> <7BD4>]
+<2815> <2816> <7BD6>
+<2817> <2818> <7BD9>
+<281A> <281B> [<7BDD> <7BE0>]
+<281C> <281E> <7BE4>
+<2820> <2821> <7BE9>
+<2822> <2823> [<7BED> <7BF0>]
+endbfrange
+1 beginbfchar
+<2825> <7BF3>
+endbfchar
+2 beginbfrange
+<2828> <2829> <7BF6>
+<282F> <2830> <7C00>
+endbfrange
+3 beginbfchar
+<2832> <7C03>
+<2835> <7C07>
+<2837> <7C0B>
+endbfchar
+2 beginbfrange
+<2839> <283B> <7C0D>
+<283C> <283F> <7C11>
+endbfrange
+1 beginbfchar
+<2840> <7C17>
+endbfchar
+1 beginbfrange
+<2843> <2846> <7C1E>
+endbfrange
+1 beginbfchar
+<2847> <7C23>
+endbfchar
+9 beginbfrange
+<2849> <284A> <7C26>
+<284C> <284D> <7C2A>
+<284F> <2850> [<7C31> <7C33>]
+<2852> <2854> <7C36>
+<2857> <285A> <7C3D>
+<285B> <285C> [<7C43> <7C45>]
+<285E> <285E> [<7C4A>]
+<285F> <2860> <7C4C>
+<2861> <2863> <7C4F>
+endbfrange
+1 beginbfchar
+<2866> <7C54>
+endbfchar
+13 beginbfrange
+<2868> <286B> <7C56>
+<2870> <2873> <7C5E>
+<2875> <2876> <7C64>
+<2878> <2878> [<7C69>]
+<2879> <287D> <7C6C>
+<287F> <2881> [<7C73> <7C75> <7C79>]
+<2884> <2884> [<7C7E>]
+<2885> <2887> <7C81>
+<288A> <288C> [<7C89> <7C8B> <7C8D>]
+<288D> <288E> <7C8F>
+<288F> <288F> [<7C92>]
+<2890> <2891> <7C94>
+<2892> <2893> <7C97>
+endbfrange
+1 beginbfchar
+<2894> <7C9B>
+endbfchar
+6 beginbfrange
+<2896> <2899> <7C9F>
+<289A> <289E> <7CA4>
+<289F> <289F> [<7CAB>]
+<28A0> <28A1> <7CAD>
+<28A3> <28A5> <7CB1>
+<28A6> <28A7> <7CB6>
+endbfrange
+1 beginbfchar
+<28A8> <7CB9>
+endbfchar
+3 beginbfrange
+<28AB> <28AF> <7CBC>
+<28B0> <28B0> [<7CC2>]
+<28B1> <28B2> <7CC4>
+endbfrange
+1 beginbfchar
+<28B4> <7CC8>
+endbfchar
+2 beginbfrange
+<28B6> <28B6> [<7CCA>]
+<28B7> <28B8> <7CCD>
+endbfrange
+1 beginbfchar
+<28BA> <7CD2>
+endbfchar
+10 beginbfrange
+<28BD> <28C1> <7CD5>
+<28C3> <28C7> <7CDC>
+<28C8> <28C8> [<7CE2>]
+<28C9> <28CA> <7CE6>
+<28CC> <28CE> [<7CEB> <7CEF> <7CF2>]
+<28CF> <28D1> <7CF4>
+<28D2> <28D2> [<7CF8>]
+<28D3> <28D4> <7CFA>
+<28D5> <28D6> [<7CFE> <7D00>]
+<28D7> <28E0> <7D02>
+endbfrange
+2 beginbfchar
+<28E1> <7D0D>
+<28E3> <7D10>
+endbfchar
+14 beginbfrange
+<28E5> <28E8> <7D12>
+<28EA> <28F1> <7D17>
+<28F2> <28F5> <7D20>
+<28F8> <28F9> <7D2B>
+<28FB> <28FF> <7D2E>
+<2900> <2901> [<7D33> <7D35>]
+<2902> <2903> <7D39>
+<2905> <2910> <7D3D>
+<2911> <2912> <7D4B>
+<2914> <2916> <7D4E>
+<2918> <2919> [<7D53> <7D56>]
+<291B> <291E> <7D59>
+<2920> <2920> [<7D5E>]
+<2921> <2923> <7D61>
+endbfrange
+1 beginbfchar
+<2925> <7D66>
+endbfchar
+5 beginbfrange
+<2927> <2929> [<7D68> <7D6A> <7D6E>]
+<292A> <292D> <7D70>
+<292E> <292F> <7D75>
+<2931> <2932> <7D79>
+<2934> <2935> [<7D7D> <7D7F>]
+endbfrange
+1 beginbfchar
+<2938> <7D83>
+endbfchar
+3 beginbfrange
+<293A> <293A> [<7D86>]
+<293B> <293C> <7D88>
+<293D> <293E> <7D8B>
+endbfrange
+2 beginbfchar
+<2940> <7D8F>
+<2942> <7D93>
+endbfchar
+9 beginbfrange
+<2944> <2944> [<7D97>]
+<2945> <2949> <7D99>
+<294B> <294C> <7D9F>
+<294D> <294E> <7DA2>
+<294F> <2950> <7DA6>
+<2951> <2959> <7DAA>
+<295B> <295F> <7DB4>
+<2961> <2962> <7DBA>
+<2963> <2966> <7DBD>
+endbfrange
+1 beginbfchar
+<2967> <7DC2>
+endbfchar
+10 beginbfrange
+<296C> <296C> [<7DC7>]
+<296D> <296F> <7DCA>
+<2972> <2972> [<7DCF>]
+<2973> <2974> <7DD1>
+<2975> <297A> <7DD5>
+<297B> <297D> <7DDC>
+<297E> <297F> <7DE0>
+<2981> <2982> <7DE3>
+<2984> <2984> [<7DE6>]
+<2985> <2986> <7DE8>
+endbfrange
+1 beginbfchar
+<2989> <7DEC>
+endbfchar
+2 beginbfrange
+<298B> <298B> [<7DEF>]
+<298C> <298D> <7DF1>
+endbfrange
+3 beginbfchar
+<298E> <7DF4>
+<2991> <7DF9>
+<2993> <7DFB>
+endbfchar
+8 beginbfrange
+<2995> <2995> [<7E01>]
+<2996> <2997> <7E04>
+<2998> <299B> <7E08>
+<299C> <299E> <7E10>
+<299F> <29A1> [<7E15> <7E17> <7E1B>]
+<29A3> <29A9> <7E1D>
+<29AA> <29AC> <7E26>
+<29AD> <29AE> <7E2B>
+endbfrange
+1 beginbfchar
+<29B0> <7E2E>
+endbfchar
+1 beginbfrange
+<29B2> <29B3> <7E31>
+endbfrange
+1 beginbfchar
+<29B5> <7E35>
+endbfchar
+6 beginbfrange
+<29B7> <29B7> [<7E37>]
+<29B8> <29BA> <7E39>
+<29BB> <29BC> <7E3D>
+<29BE> <29BF> [<7E41> <7E43>]
+<29C1> <29C3> <7E45>
+<29C4> <29C5> <7E4A>
+endbfrange
+1 beginbfchar
+<29C6> <7E4D>
+endbfchar
+4 beginbfrange
+<29C9> <29C9> [<7E52>]
+<29CA> <29CC> <7E54>
+<29CE> <29CF> <7E59>
+<29D0> <29D1> <7E5D>
+endbfrange
+1 beginbfchar
+<29D3> <7E61>
+endbfchar
+2 beginbfrange
+<29D6> <29D7> <7E66>
+<29D8> <29DA> <7E69>
+endbfrange
+1 beginbfchar
+<29DB> <7E6D>
+endbfchar
+10 beginbfrange
+<29DE> <29E0> [<7E70> <7E73> <7E75>]
+<29E2> <29E2> [<7E79>]
+<29E3> <29E7> <7E7B>
+<29E9> <29EA> <7E82>
+<29EB> <29EF> <7E86>
+<29F0> <29F8> <7E8C>
+<29FA> <29FB> [<7E96> <7E98>]
+<29FC> <29FE> <7E9A>
+<2A01> <2A02> [<7F36> <7F38>]
+<2A03> <2A05> <7F3A>
+endbfrange
+1 beginbfchar
+<2A07> <7F3E>
+endbfchar
+4 beginbfrange
+<2A09> <2A0B> <7F43>
+<2A0C> <2A0C> [<7F47>]
+<2A0D> <2A13> <7F4C>
+<2A15> <2A16> <7F54>
+endbfrange
+1 beginbfchar
+<2A17> <7F58>
+endbfchar
+4 beginbfrange
+<2A1B> <2A1D> <7F5F>
+<2A1E> <2A1F> <7F63>
+<2A22> <2A26> <7F67>
+<2A27> <2A28> <7F6D>
+endbfrange
+1 beginbfchar
+<2A29> <7F70>
+endbfchar
+5 beginbfrange
+<2A2B> <2A2C> [<7F72> <7F75>]
+<2A2D> <2A2F> <7F77>
+<2A30> <2A31> <7F7D>
+<2A34> <2A35> <7F82>
+<2A36> <2A39> <7F85>
+endbfrange
+3 beginbfchar
+<2A3A> <7F8A>
+<2A3C> <7F8C>
+<2A3E> <7F8E>
+endbfchar
+8 beginbfrange
+<2A40> <2A41> <7F90>
+<2A42> <2A42> [<7F94>]
+<2A43> <2A44> <7F96>
+<2A45> <2A45> [<7F9A>]
+<2A46> <2A48> <7F9C>
+<2A4B> <2A4C> <7FA3>
+<2A4E> <2A4F> <7FA8>
+<2A51> <2A53> <7FAD>
+endbfrange
+1 beginbfchar
+<2A54> <7FB2>
+endbfchar
+21 beginbfrange
+<2A56> <2A56> [<7FB6>]
+<2A57> <2A58> <7FB8>
+<2A5A> <2A5B> [<7FBD> <7FBF>]
+<2A5D> <2A5E> [<7FC1> <7FC3>]
+<2A5F> <2A60> <7FC5>
+<2A62> <2A63> [<7FCA> <7FCC>]
+<2A64> <2A65> <7FCE>
+<2A66> <2A66> [<7FD2>]
+<2A67> <2A68> <7FD4>
+<2A69> <2A69> [<7FDB>]
+<2A6A> <2A6C> <7FDF>
+<2A6D> <2A6D> [<7FE3>]
+<2A6E> <2A6F> <7FE5>
+<2A71> <2A71> [<7FE9>]
+<2A72> <2A73> <7FEB>
+<2A74> <2A76> <7FEE>
+<2A77> <2A78> <7FF2>
+<2A79> <2A7C> <7FF9>
+<2A80> <2A86> <8000>
+<2A88> <2A88> [<8008>]
+<2A89> <2A8B> <800A>
+endbfrange
+1 beginbfchar
+<2A8D> <800E>
+endbfchar
+2 beginbfrange
+<2A8F> <2A91> <8010>
+<2A93> <2A98> <8014>
+endbfrange
+1 beginbfchar
+<2A99> <801C>
+endbfchar
+4 beginbfrange
+<2A9E> <2AA2> [<8021> <8024> <8026> <8028> <802C>]
+<2AA4> <2AA5> [<8030> <8033>]
+<2AA7> <2AA9> <8035>
+<2AAC> <2AAE> <803B>
+endbfrange
+2 beginbfchar
+<2AB0> <803F>
+<2AB2> <8043>
+endbfchar
+23 beginbfrange
+<2AB4> <2AB9> [<8046> <804A> <8052> <8056> <8058> <805A>]
+<2ABA> <2ABB> <805E>
+<2ABD> <2ABE> <8061>
+<2AC0> <2AC1> [<8066> <8068>]
+<2AC3> <2ACB> <806F>
+<2ACC> <2ACD> [<8079> <807B>]
+<2ACE> <2AD0> <807D>
+<2AD2> <2AD5> <8084>
+<2AD7> <2AD7> [<8089>]
+<2AD8> <2AD9> <808B>
+<2ADB> <2ADC> [<8093> <8096>]
+<2ADD> <2AE2> <8098>
+<2AE4> <2AE5> <80A1>
+<2AE6> <2AE7> <80A4>
+<2AE9> <2AE9> [<80A7>]
+<2AEA> <2AEB> <80A9>
+<2AED> <2AEE> <80AC>
+<2AEF> <2AEF> [<80AF>]
+<2AF0> <2AF1> <80B1>
+<2AF2> <2AF3> [<80B4> <80B8>]
+<2AF5> <2AF5> [<80BA>]
+<2AF6> <2AF9> <80C3>
+<2AFB> <2AFC> [<80CA> <80CC>]
+endbfrange
+1 beginbfchar
+<2AFE> <80CE>
+endbfchar
+4 beginbfrange
+<2B02> <2B08> <80D5>
+<2B09> <2B0A> <80DD>
+<2B0B> <2B0C> <80E0>
+<2B0D> <2B0F> <80E4>
+endbfrange
+2 beginbfchar
+<2B12> <80EF>
+<2B14> <80F1>
+endbfchar
+1 beginbfrange
+<2B16> <2B18> <80F3>
+endbfrange
+1 beginbfchar
+<2B1A> <80F8>
+endbfchar
+1 beginbfrange
+<2B1D> <2B1F> <80FB>
+endbfrange
+1 beginbfchar
+<2B21> <8102>
+endbfchar
+4 beginbfrange
+<2B23> <2B28> <8105>
+<2B2A> <2B2B> [<810D> <8116>]
+<2B2D> <2B2D> [<8118>]
+<2B2E> <2B2F> <811A>
+endbfrange
+1 beginbfchar
+<2B31> <811E>
+endbfchar
+4 beginbfrange
+<2B33> <2B34> <8123>
+<2B35> <2B38> [<8127> <8129> <812C> <812F>]
+<2B3A> <2B3D> [<8131> <8133> <8135> <8139>]
+<2B40> <2B41> <813D>
+endbfrange
+1 beginbfchar
+<2B43> <8146>
+endbfchar
+9 beginbfrange
+<2B45> <2B46> <814A>
+<2B48> <2B48> [<814E>]
+<2B49> <2B4A> <8150>
+<2B4C> <2B4E> <8153>
+<2B50> <2B51> <815F>
+<2B53> <2B57> <8165>
+<2B58> <2B58> [<816B>]
+<2B59> <2B5A> <816D>
+<2B5C> <2B5D> <8170>
+endbfrange
+1 beginbfchar
+<2B5E> <8174>
+endbfchar
+3 beginbfrange
+<2B60> <2B62> <8178>
+<2B63> <2B69> <817F>
+<2B6B> <2B6C> [<8188> <818A>]
+endbfrange
+1 beginbfchar
+<2B6F> <818F>
+endbfchar
+3 beginbfrange
+<2B71> <2B72> [<8193> <8195>]
+<2B74> <2B75> [<8198> <819A>]
+<2B77> <2B78> <819C>
+endbfrange
+1 beginbfchar
+<2B7A> <81A0>
+endbfchar
+9 beginbfrange
+<2B7C> <2B7D> <81A3>
+<2B7E> <2B7F> <81A8>
+<2B81> <2B81> [<81B0>]
+<2B82> <2B83> <81B2>
+<2B85> <2B86> [<81B5> <81B8>]
+<2B87> <2B88> <81BA>
+<2B89> <2B8F> <81BD>
+<2B91> <2B91> [<81C6>]
+<2B92> <2B94> <81C8>
+endbfrange
+1 beginbfchar
+<2B96> <81CD>
+endbfchar
+5 beginbfrange
+<2B98> <2B9A> [<81CF> <81D1> <81D3>]
+<2B9C> <2BA1> <81D6>
+<2BA4> <2BA5> <81DF>
+<2BA7> <2BA9> <81E3>
+<2BAA> <2BAB> <81E7>
+endbfrange
+1 beginbfchar
+<2BAC> <81EA>
+endbfchar
+18 beginbfrange
+<2BAE> <2BAF> <81EC>
+<2BB3> <2BB4> <81F3>
+<2BB9> <2BBE> <81FA>
+<2BC0> <2BC1> <8201>
+<2BC3> <2BC4> <8204>
+<2BC5> <2BC8> <8207>
+<2BC9> <2BCB> <820C>
+<2BCD> <2BCE> [<8210> <8212>]
+<2BD1> <2BD4> <8216>
+<2BD6> <2BD7> <821B>
+<2BD9> <2BDA> <821E>
+<2BDB> <2BDC> <8221>
+<2BDE> <2BE1> <8229>
+<2BE2> <2BE2> [<822E>]
+<2BE3> <2BEA> <8232>
+<2BEC> <2BED> [<823C> <8240>]
+<2BF0> <2BF2> <8245>
+<2BF3> <2BF4> [<8249> <824B>]
+endbfrange
+1 beginbfchar
+<2BF6> <824F>
+endbfchar
+5 beginbfrange
+<2BF9> <2BFC> <8257>
+<2BFD> <2BFE> <825C>
+<2BFF> <2BFF> <825F>
+<2C00> <2C00> [<8260>]
+<2C01> <2C03> <8262>
+endbfrange
+1 beginbfchar
+<2C04> <8266>
+endbfchar
+7 beginbfrange
+<2C06> <2C06> [<8268>]
+<2C07> <2C08> <826A>
+<2C0A> <2C0B> <826E>
+<2C0C> <2C0D> <8271>
+<2C0E> <2C0E> [<8274>]
+<2C0F> <2C12> <8276>
+<2C14> <2C16> <827D>
+endbfrange
+1 beginbfchar
+<2C19> <8283>
+endbfchar
+3 beginbfrange
+<2C1D> <2C1E> <828A>
+<2C1F> <2C20> <828D>
+<2C22> <2C23> <8292>
+endbfrange
+1 beginbfchar
+<2C27> <8299>
+endbfchar
+13 beginbfrange
+<2C2A> <2C2B> [<829D> <829F>]
+<2C2D> <2C2D> [<82A1>]
+<2C2E> <2C34> <82A3>
+<2C36> <2C3A> <82AB>
+<2C3C> <2C3F> <82B1>
+<2C40> <2C48> <82B7>
+<2C49> <2C4A> <82C5>
+<2C4C> <2C50> <82D1>
+<2C51> <2C52> [<82D7> <82D9>]
+<2C54> <2C55> <82DB>
+<2C56> <2C57> <82DE>
+<2C59> <2C5B> <82E1>
+<2C5D> <2C60> <82E5>
+endbfrange
+1 beginbfchar
+<2C62> <82EB>
+endbfchar
+11 beginbfrange
+<2C65> <2C65> [<82F1>]
+<2C66> <2C67> <82F3>
+<2C69> <2C69> [<82F7>]
+<2C6A> <2C6C> <82F9>
+<2C6D> <2C6E> <82FD>
+<2C6F> <2C78> <8300>
+<2C7B> <2C7C> [<830C> <830E>]
+<2C7D> <2C7F> <8316>
+<2C80> <2C82> <831B>
+<2C86> <2C87> <8322>
+<2C88> <2C89> [<8328> <832B>]
+endbfrange
+1 beginbfchar
+<2C8B> <832D>
+endbfchar
+3 beginbfrange
+<2C8D> <2C90> <832F>
+<2C92> <2C94> <8334>
+<2C96> <2C98> <8338>
+endbfrange
+2 beginbfchar
+<2C99> <833C>
+<2C9B> <8340>
+endbfchar
+9 beginbfrange
+<2C9D> <2C9F> <8343>
+<2CA0> <2CA0> [<8347>]
+<2CA1> <2CA2> <8349>
+<2CA5> <2CA8> <834F>
+<2CAA> <2CAB> <8354>
+<2CAD> <2CAE> <8357>
+<2CAF> <2CB0> <8362>
+<2CB2> <2CB4> [<8373> <8375> <8377>]
+<2CB6> <2CB8> <837B>
+endbfrange
+1 beginbfchar
+<2CB9> <837F>
+endbfchar
+4 beginbfrange
+<2CBD> <2CBF> <8385>
+<2CC0> <2CC1> <8389>
+<2CC2> <2CC3> <838D>
+<2CC4> <2CC8> <8392>
+endbfrange
+1 beginbfchar
+<2CC9> <8398>
+endbfchar
+2 beginbfrange
+<2CCB> <2CCC> <839A>
+<2CCE> <2CD1> <839D>
+endbfrange
+1 beginbfchar
+<2CD2> <83A2>
+endbfchar
+11 beginbfrange
+<2CD4> <2CD8> <83A7>
+<2CDB> <2CDD> [<83B1> <83B5> <83BD>]
+<2CDF> <2CE1> <83BF>
+<2CE2> <2CE3> [<83C5> <83C7>]
+<2CE4> <2CE5> <83C9>
+<2CE6> <2CE6> [<83CC>]
+<2CE7> <2CEA> <83CE>
+<2CEB> <2CEC> <83D3>
+<2CED> <2CEE> [<83D6> <83D8>]
+<2CEF> <2CF0> <83DC>
+<2CF1> <2CF3> <83DF>
+endbfrange
+1 beginbfchar
+<2CF4> <83E5>
+endbfchar
+2 beginbfrange
+<2CF6> <2CF8> <83E9>
+<2CF9> <2CFC> <83EF>
+endbfrange
+2 beginbfchar
+<2CFD> <83F4>
+<2CFF> <83F7>
+endbfchar
+8 beginbfrange
+<2D01> <2D02> [<83F9> <83FB>]
+<2D04> <2D05> [<83FD> <8401>]
+<2D06> <2D07> <8403>
+<2D08> <2D09> <8406>
+<2D0A> <2D0F> <840A>
+<2D10> <2D13> [<8411> <8413> <8415> <8417>]
+<2D15> <2D16> [<8420> <8422>]
+<2D17> <2D18> <8429>
+endbfrange
+1 beginbfchar
+<2D19> <842C>
+endbfchar
+3 beginbfrange
+<2D1B> <2D1C> [<8431> <8435>]
+<2D1D> <2D1E> <8438>
+<2D1F> <2D20> <843C>
+endbfrange
+1 beginbfchar
+<2D22> <8446>
+endbfchar
+3 beginbfrange
+<2D24> <2D26> <8448>
+<2D28> <2D29> <844E>
+<2D2A> <2D2B> <8451>
+endbfrange
+1 beginbfchar
+<2D2D> <8457>
+endbfchar
+1 beginbfrange
+<2D2F> <2D32> <8459>
+endbfrange
+1 beginbfchar
+<2D33> <845F>
+endbfchar
+2 beginbfrange
+<2D35> <2D37> <8461>
+<2D39> <2D3A> <8465>
+endbfrange
+1 beginbfchar
+<2D3C> <8469>
+endbfchar
+1 beginbfrange
+<2D3E> <2D44> <846B>
+endbfrange
+1 beginbfchar
+<2D45> <8473>
+endbfchar
+1 beginbfrange
+<2D47> <2D4C> <8475>
+endbfrange
+1 beginbfchar
+<2D4D> <847C>
+endbfchar
+3 beginbfrange
+<2D4F> <2D50> <8481>
+<2D51> <2D52> <8484>
+<2D53> <2D54> [<848B> <8490>]
+endbfrange
+1 beginbfchar
+<2D57> <8494>
+endbfchar
+14 beginbfrange
+<2D59> <2D5B> [<8497> <8499> <849C>]
+<2D5C> <2D5D> <849E>
+<2D5E> <2D5F> [<84A1> <84A6>]
+<2D63> <2D64> [<84AD> <84AF>]
+<2D66> <2D67> [<84B2> <84B4>]
+<2D68> <2D6C> <84B8>
+<2D6E> <2D72> <84BE>
+<2D73> <2D74> [<84C4> <84C6>]
+<2D77> <2D79> <84C9>
+<2D7B> <2D7F> <84CD>
+<2D80> <2D81> [<84D3> <84D6>]
+<2D82> <2D83> <84D9>
+<2D84> <2D87> [<84DC> <84E7> <84EA> <84EC>]
+<2D88> <2D8B> <84EE>
+endbfrange
+2 beginbfchar
+<2D8D> <84F4>
+<2D8F> <84FA>
+endbfchar
+2 beginbfrange
+<2D91> <2D92> <84FC>
+<2D93> <2D93> <84FF>
+endbfrange
+3 beginbfchar
+<2D94> <8500>
+<2D97> <8506>
+<2D99> <850C>
+endbfchar
+5 beginbfrange
+<2D9C> <2D9C> [<8511>]
+<2D9D> <2D9F> <8513>
+<2DA0> <2DA1> <8517>
+<2DA2> <2DA3> <851A>
+<2DA5> <2DA6> <851E>
+endbfrange
+1 beginbfchar
+<2DA7> <8521>
+endbfchar
+6 beginbfrange
+<2DA9> <2DAC> <8523>
+<2DAF> <2DB1> <852B>
+<2DB2> <2DB3> [<852F> <8532>]
+<2DB5> <2DB6> <8534>
+<2DB8> <2DB9> <853D>
+<2DBB> <2DBC> <8540>
+endbfrange
+1 beginbfchar
+<2DBD> <8543>
+endbfchar
+2 beginbfrange
+<2DBF> <2DC2> <8548>
+<2DC3> <2DC4> <854E>
+endbfrange
+1 beginbfchar
+<2DC6> <8551>
+endbfchar
+2 beginbfrange
+<2DC8> <2DC9> [<8553> <8555>]
+<2DCB> <2DCE> <8557>
+endbfrange
+1 beginbfchar
+<2DD1> <855E>
+endbfchar
+5 beginbfrange
+<2DD4> <2DD7> <8561>
+<2DD8> <2DDA> <8568>
+<2DDC> <2DDE> [<856D> <856F> <8577>]
+<2DE0> <2DE1> <857A>
+<2DE2> <2DE6> <857D>
+endbfrange
+1 beginbfchar
+<2DE7> <8584>
+endbfchar
+1 beginbfrange
+<2DE9> <2DEB> <8586>
+endbfrange
+1 beginbfchar
+<2DED> <858A>
+endbfchar
+3 beginbfrange
+<2DEF> <2DEF> [<858C>]
+<2DF0> <2DF2> <858F>
+<2DF3> <2DF4> <8593>
+endbfrange
+1 beginbfchar
+<2DF5> <8597>
+endbfchar
+2 beginbfrange
+<2DF7> <2DF7> [<8599>]
+<2DF8> <2DFA> <859B>
+endbfrange
+1 beginbfchar
+<2DFB> <859F>
+endbfchar
+1 beginbfrange
+<2DFD> <2DFE> [<85A2> <85A4>]
+endbfrange
+1 beginbfchar
+<2E00> <85A6>
+endbfchar
+1 beginbfrange
+<2E02> <2E0A> <85A8>
+endbfrange
+1 beginbfchar
+<2E0D> <85B7>
+endbfchar
+1 beginbfrange
+<2E0F> <2E10> <85B9>
+endbfrange
+2 beginbfchar
+<2E11> <85BC>
+<2E15> <85C1>
+endbfchar
+6 beginbfrange
+<2E17> <2E17> [<85C7>]
+<2E18> <2E1A> <85C9>
+<2E1B> <2E1E> <85CD>
+<2E1F> <2E1F> [<85D5>]
+<2E20> <2E21> <85D8>
+<2E23> <2E24> <85DC>
+endbfrange
+1 beginbfchar
+<2E25> <85DF>
+endbfchar
+3 beginbfrange
+<2E27> <2E27> [<85E1>]
+<2E28> <2E2A> <85E4>
+<2E2C> <2E2D> <85E9>
+endbfrange
+1 beginbfchar
+<2E2E> <85ED>
+endbfchar
+8 beginbfrange
+<2E30> <2E31> <85F6>
+<2E32> <2E34> <85F9>
+<2E36> <2E37> <85FE>
+<2E38> <2E39> [<8600> <8602>]
+<2E3A> <2E3D> <8604>
+<2E3E> <2E3F> <860A>
+<2E42> <2E45> <8610>
+<2E46> <2E48> <8616>
+endbfrange
+1 beginbfchar
+<2E4A> <861A>
+endbfchar
+5 beginbfrange
+<2E4C> <2E4C> [<861E>]
+<2E4D> <2E4E> <8621>
+<2E4F> <2E52> [<8624> <8627> <8629> <862D>]
+<2E53> <2E54> <862F>
+<2E56> <2E57> <8638>
+endbfrange
+1 beginbfchar
+<2E59> <863C>
+endbfchar
+2 beginbfrange
+<2E5B> <2E5D> <863F>
+<2E60> <2E61> <864D>
+endbfrange
+1 beginbfchar
+<2E62> <8650>
+endbfchar
+3 beginbfrange
+<2E64> <2E68> <8653>
+<2E6B> <2E6D> <865A>
+<2E6F> <2E70> <865E>
+endbfrange
+2 beginbfchar
+<2E73> <8662>
+<2E76> <8667>
+endbfchar
+4 beginbfrange
+<2E78> <2E79> <866B>
+<2E7A> <2E7C> [<866F> <8671> <8675>]
+<2E7E> <2E7E> [<8677>]
+<2E7F> <2E81> <8679>
+endbfrange
+1 beginbfchar
+<2E82> <8687>
+endbfchar
+2 beginbfrange
+<2E84> <2E88> <8689>
+<2E89> <2E8B> [<8691> <8693> <8695>]
+endbfrange
+1 beginbfchar
+<2E8D> <8698>
+endbfchar
+4 beginbfrange
+<2E8F> <2E90> <869C>
+<2E92> <2E93> <86A3>
+<2E96> <2E99> <86A8>
+<2E9B> <2E9D> <86AF>
+endbfrange
+3 beginbfchar
+<2E9E> <86B3>
+<2EA1> <86B6>
+<2EA3> <86B8>
+endbfchar
+5 beginbfrange
+<2EA7> <2EA7> [<86C1>]
+<2EA8> <2EA9> <86C3>
+<2EAB> <2EAC> <86C6>
+<2EAD> <2EAE> [<86C9> <86CB>]
+<2EAF> <2EB0> <86CD>
+endbfrange
+1 beginbfchar
+<2EB1> <86D1>
+endbfchar
+2 beginbfrange
+<2EB3> <2EB4> <86D4>
+<2EB5> <2EB6> [<86D7> <86D9>]
+endbfrange
+1 beginbfchar
+<2EB8> <86DB>
+endbfchar
+2 beginbfrange
+<2EBA> <2EBB> <86DE>
+<2EBD> <2EBE> <86E3>
+endbfrange
+1 beginbfchar
+<2EC0> <86E6>
+endbfchar
+9 beginbfrange
+<2EC2> <2EC2> [<86E9>]
+<2EC3> <2EC6> <86EC>
+<2EC7> <2ECD> <86F8>
+<2ECE> <2ECE> [<8700>]
+<2ECF> <2ED0> <8702>
+<2ED2> <2ED8> <8705>
+<2ED9> <2EDA> <870D>
+<2EDC> <2EDF> <8710>
+<2EE1> <2EE3> <8718>
+endbfrange
+1 beginbfchar
+<2EE4> <871C>
+endbfchar
+1 beginbfrange
+<2EE6> <2EE9> [<871F> <8721> <8723> <8725>]
+endbfrange
+2 beginbfchar
+<2EEB> <8729>
+<2EEE> <8731>
+endbfchar
+3 beginbfrange
+<2EF0> <2EF1> [<8734> <8737>]
+<2EF3> <2EF4> <873A>
+<2EF7> <2EF9> <873E>
+endbfrange
+1 beginbfchar
+<2EFA> <8743>
+endbfchar
+11 beginbfrange
+<2EFC> <2EFC> [<8749>]
+<2EFD> <2EFE> <874B>
+<2F00> <2F03> [<874E> <8751> <8753> <8755>]
+<2F04> <2F06> <8757>
+<2F08> <2F09> <875F>
+<2F0B> <2F0E> <8763>
+<2F0F> <2F11> [<8768> <876A> <876E>]
+<2F13> <2F14> <8771>
+<2F15> <2F17> [<8774> <8776> <8778>]
+<2F19> <2F1B> [<877C> <877F> <8782>]
+<2F20> <2F22> <8787>
+endbfrange
+3 beginbfchar
+<2F23> <878B>
+<2F25> <878D>
+<2F27> <8793>
+endbfchar
+1 beginbfrange
+<2F2D> <2F2E> <879F>
+endbfrange
+1 beginbfchar
+<2F2F> <87A2>
+endbfchar
+2 beginbfrange
+<2F31> <2F31> [<87A7>]
+<2F32> <2F34> <87AB>
+endbfrange
+1 beginbfchar
+<2F36> <87AF>
+endbfchar
+7 beginbfrange
+<2F38> <2F39> [<87B3> <87B5>]
+<2F3A> <2F3B> <87BA>
+<2F3C> <2F3D> <87BD>
+<2F3F> <2F40> <87C0>
+<2F41> <2F41> [<87C4>]
+<2F42> <2F43> <87C6>
+<2F47> <2F4A> [<87CB> <87CE> <87D0> <87D2>]
+endbfrange
+1 beginbfchar
+<2F4C> <87D6>
+endbfchar
+1 beginbfrange
+<2F50> <2F51> <87DF>
+endbfrange
+1 beginbfchar
+<2F53> <87E3>
+endbfchar
+2 beginbfrange
+<2F55> <2F56> <87E5>
+<2F57> <2F5A> <87EA>
+endbfrange
+2 beginbfchar
+<2F5B> <87EF>
+<2F5D> <87F2>
+endbfchar
+1 beginbfrange
+<2F5F> <2F61> <87F5>
+endbfrange
+1 beginbfchar
+<2F63> <87F9>
+endbfchar
+9 beginbfrange
+<2F65> <2F66> [<87FB> <87FE>]
+<2F68> <2F69> [<8801> <8803>]
+<2F6A> <2F6B> <8805>
+<2F6E> <2F6F> <880A>
+<2F70> <2F74> <880D>
+<2F76> <2F79> <8813>
+<2F80> <2F80> [<881F>]
+<2F81> <2F83> <8821>
+<2F84> <2F85> <8827>
+endbfrange
+1 beginbfchar
+<2F87> <882E>
+endbfchar
+3 beginbfrange
+<2F89> <2F8A> <8831>
+<2F8C> <2F8D> [<8836> <8839>]
+<2F8F> <2F90> <883B>
+endbfrange
+5 beginbfchar
+<2F91> <8840>
+<2F93> <8842>
+<2F95> <8844>
+<2F97> <8846>
+<2F9A> <884A>
+endbfchar
+3 beginbfrange
+<2F9C> <2F9D> <884C>
+<2FA0> <2FA1> <8852>
+<2FA4> <2FA6> <8857>
+endbfrange
+1 beginbfchar
+<2FA8> <885B>
+endbfchar
+10 beginbfrange
+<2FAA> <2FAC> <885D>
+<2FAE> <2FB1> <8861>
+<2FB2> <2FB3> <8868>
+<2FB4> <2FB4> [<886B>]
+<2FB5> <2FB6> <886F>
+<2FB8> <2FBA> [<8872> <8875> <8877>]
+<2FBD> <2FBF> <887D>
+<2FC1> <2FC2> <8881>
+<2FC3> <2FC6> [<8888> <888B> <888D> <8892>]
+<2FC7> <2FCA> <8896>
+endbfrange
+1 beginbfchar
+<2FCE> <889E>
+endbfchar
+5 beginbfrange
+<2FD0> <2FD2> [<88A0> <88A2> <88A4>]
+<2FD4> <2FD5> <88AA>
+<2FD6> <2FD6> [<88AE>]
+<2FD7> <2FD8> <88B0>
+<2FD9> <2FDA> <88B4>
+endbfrange
+1 beginbfchar
+<2FDB> <88B7>
+endbfchar
+1 beginbfrange
+<2FDD> <2FE6> <88BC>
+endbfrange
+1 beginbfchar
+<2FE7> <88CA>
+endbfchar
+5 beginbfrange
+<2FEB> <2FEC> <88CE>
+<2FED> <2FF1> <88D1>
+<2FF2> <2FF3> <88D8>
+<2FF4> <2FF6> <88DB>
+<2FF8> <2FF9> [<88DF> <88E1>]
+endbfrange
+1 beginbfchar
+<2FFB> <88E8>
+endbfchar
+5 beginbfrange
+<2FFD> <2FFF> <88F0>
+<3000> <3002> <88F3>
+<3004> <3005> <88F8>
+<3006> <3008> <88FC>
+<3009> <300A> <8901>
+endbfrange
+1 beginbfchar
+<300B> <8904>
+endbfchar
+5 beginbfrange
+<300D> <300F> [<8907> <890A> <890C>]
+<3013> <3013> [<8910>]
+<3014> <3015> <8912>
+<3018> <301A> <8918>
+<301B> <301D> <891C>
+endbfrange
+2 beginbfchar
+<301F> <8925>
+<3021> <8927>
+endbfchar
+1 beginbfrange
+<3023> <3024> <892A>
+endbfrange
+2 beginbfchar
+<3025> <8930>
+<3027> <8932>
+endbfchar
+1 beginbfrange
+<3029> <302C> <8936>
+endbfrange
+1 beginbfchar
+<302E> <893B>
+endbfchar
+3 beginbfrange
+<3030> <3035> <8940>
+<3037> <3037> [<8949>]
+<3038> <3039> <894C>
+endbfrange
+1 beginbfchar
+<303C> <8956>
+endbfchar
+1 beginbfrange
+<3041> <3043> <895E>
+endbfrange
+1 beginbfchar
+<3045> <8962>
+endbfchar
+1 beginbfrange
+<3047> <3049> [<8964> <8966> <896A>]
+endbfrange
+5 beginbfchar
+<304B> <896D>
+<304D> <896F>
+<304F> <8972>
+<3051> <8974>
+<3053> <8977>
+endbfchar
+6 beginbfrange
+<3058> <305B> <897E>
+<305C> <305C> [<8983>]
+<305D> <3062> <8986>
+<3064> <3065> <898F>
+<3066> <3067> <8993>
+<3069> <306B> <8996>
+endbfrange
+3 beginbfchar
+<306C> <899A>
+<306F> <899F>
+<3071> <89A1>
+endbfchar
+9 beginbfrange
+<3073> <3074> <89A6>
+<3075> <3076> <89A9>
+<3077> <3077> [<89AC>]
+<3078> <3079> <89AF>
+<307A> <307B> <89B2>
+<307F> <3080> [<89B7> <89BA>]
+<3082> <3082> [<89BD>]
+<3083> <3084> <89BF>
+<3085> <3086> [<89D2> <89D4>]
+endbfrange
+1 beginbfchar
+<3088> <89D6>
+endbfchar
+4 beginbfrange
+<308A> <308B> [<89D8> <89DA>]
+<308C> <308D> <89DC>
+<308E> <308E> [<89E3>]
+<308F> <3091> <89E5>
+endbfrange
+1 beginbfchar
+<3093> <89EB>
+endbfchar
+10 beginbfrange
+<3095> <3095> [<89F1>]
+<3096> <3097> <89F3>
+<3098> <3099> [<89F6> <89F8>]
+<309B> <309B> [<89FD>]
+<309C> <309C> <89FF>
+<309D> <309D> [<8A00>]
+<309E> <309F> <8A02>
+<30A3> <30A6> [<8A08> <8A0A> <8A0C> <8A0E>]
+<30A8> <30B0> <8A10>
+<30B1> <30B2> [<8A1B> <8A1D>]
+endbfrange
+1 beginbfchar
+<30B4> <8A1F>
+endbfchar
+1 beginbfrange
+<30B6> <30B8> <8A21>
+endbfrange
+3 beginbfchar
+<30BA> <8A25>
+<30BC> <8A2A>
+<30BF> <8A2D>
+endbfchar
+3 beginbfrange
+<30C1> <30C1> [<8A31>]
+<30C2> <30C6> <8A33>
+<30C7> <30C9> <8A3A>
+endbfrange
+2 beginbfchar
+<30CB> <8A3E>
+<30CD> <8A41>
+endbfchar
+7 beginbfrange
+<30CF> <30D2> <8A45>
+<30D4> <30D5> <8A4D>
+<30D6> <30D8> <8A50>
+<30DA> <30DB> <8A54>
+<30DE> <30DF> [<8A58> <8A5B>]
+<30E1> <30E2> <8A5D>
+<30E3> <30E6> <8A60>
+endbfrange
+1 beginbfchar
+<30E8> <8A66>
+endbfchar
+3 beginbfrange
+<30EA> <30EA> [<8A69>]
+<30EB> <30EE> <8A6B>
+<30EF> <30F2> <8A70>
+endbfrange
+4 beginbfchar
+<30F3> <8A75>
+<30F6> <8A79>
+<30F9> <8A7C>
+<30FD> <8A82>
+endbfchar
+1 beginbfrange
+<30FF> <30FF> <8A84>
+endbfrange
+1 beginbfchar
+<3100> <8A85>
+endbfchar
+4 beginbfrange
+<3102> <3103> [<8A87> <8A89>]
+<3105> <3106> <8A8C>
+<3108> <3109> <8A90>
+<310B> <310C> [<8A93> <8A95>]
+endbfrange
+1 beginbfchar
+<310F> <8A98>
+endbfchar
+8 beginbfrange
+<3111> <3112> [<8A9A> <8A9E>]
+<3114> <3115> <8AA0>
+<3116> <311B> <8AA3>
+<311D> <311F> <8AAC>
+<3121> <3122> [<8AB0> <8AB2>]
+<3125> <3126> [<8AB7> <8AB9>]
+<3128> <3128> [<8ABC>]
+<3129> <312A> <8ABE>
+endbfrange
+3 beginbfchar
+<312B> <8AC2>
+<312D> <8AC4>
+<312F> <8AC7>
+endbfchar
+2 beginbfrange
+<3133> <3135> <8ACB>
+<3136> <3137> <8ACF>
+endbfrange
+1 beginbfchar
+<3139> <8AD2>
+endbfchar
+5 beginbfrange
+<313D> <313E> <8AD6>
+<313F> <3141> <8ADA>
+<3143> <3147> <8ADE>
+<3148> <3148> [<8AE4>]
+<3149> <314A> <8AE6>
+endbfrange
+1 beginbfchar
+<314B> <8AEB>
+endbfchar
+9 beginbfrange
+<314D> <314E> <8AED>
+<3150> <3150> [<8AF1>]
+<3151> <3152> <8AF3>
+<3154> <3156> <8AF6>
+<3157> <3159> [<8AFA> <8AFC> <8AFE>]
+<315B> <315D> <8B00>
+<315E> <315F> <8B04>
+<3161> <3162> [<8B07> <8B0A>]
+<3164> <3166> <8B0C>
+endbfrange
+1 beginbfchar
+<3167> <8B10>
+endbfchar
+6 beginbfrange
+<3169> <3169> [<8B14>]
+<316A> <316B> <8B16>
+<316C> <3170> <8B19>
+<3172> <3174> <8B1F>
+<3175> <3176> [<8B26> <8B28>]
+<3177> <3179> <8B2B>
+endbfrange
+2 beginbfchar
+<317B> <8B33>
+<317D> <8B39>
+endbfchar
+1 beginbfrange
+<317F> <3180> [<8B3E> <8B41>]
+endbfrange
+2 beginbfchar
+<3182> <8B43>
+<3185> <8B46>
+endbfchar
+2 beginbfrange
+<3187> <3188> [<8B49> <8B4C>]
+<318A> <318B> <8B4E>
+endbfrange
+1 beginbfchar
+<318C> <8B51>
+endbfchar
+8 beginbfrange
+<318F> <3190> [<8B54> <8B56>]
+<3191> <3195> <8B58>
+<3196> <3197> <8B5E>
+<3199> <319A> [<8B66> <8B69>]
+<319B> <319C> <8B6B>
+<319E> <31A1> <8B6F>
+<31A2> <31A2> [<8B74>]
+<31A3> <31A4> <8B76>
+endbfrange
+1 beginbfchar
+<31A8> <8B7D>
+endbfchar
+1 beginbfrange
+<31AA> <31AC> <8B7F>
+endbfrange
+1 beginbfchar
+<31AD> <8B83>
+endbfchar
+1 beginbfrange
+<31B0> <31B2> <8B8A>
+endbfrange
+1 beginbfchar
+<31B4> <8B8E>
+endbfchar
+4 beginbfrange
+<31B6> <31B6> [<8B90>]
+<31B7> <31BB> <8B92>
+<31BC> <31BD> <8B99>
+<31BE> <31C0> <8B9C>
+endbfrange
+1 beginbfchar
+<31C2> <8C37>
+endbfchar
+1 beginbfrange
+<31C4> <31C5> <8C39>
+endbfrange
+1 beginbfchar
+<31C6> <8C3D>
+endbfchar
+5 beginbfrange
+<31C8> <31C9> [<8C3F> <8C41>]
+<31CA> <31CF> <8C45>
+<31D1> <31D1> [<8C4C>]
+<31D2> <31D4> <8C4E>
+<31D7> <31D8> <8C54>
+endbfrange
+2 beginbfchar
+<31D9> <8C57>
+<31DC> <8C5A>
+endbfchar
+2 beginbfrange
+<31DF> <31E0> <8C61>
+<31E4> <31E9> <8C68>
+endbfrange
+1 beginbfchar
+<31EA> <8C73>
+endbfchar
+1 beginbfrange
+<31ED> <31EF> <8C78>
+endbfrange
+1 beginbfchar
+<31F1> <8C7C>
+endbfchar
+6 beginbfrange
+<31F3> <31F4> [<8C82> <8C85>]
+<31F7> <31F8> <8C89>
+<31FA> <31FC> <8C8C>
+<31FE> <31FF> <8C92>
+<3200> <3200> [<8C94>]
+<3201> <3202> <8C98>
+endbfrange
+1 beginbfchar
+<3203> <8C9B>
+endbfchar
+9 beginbfrange
+<3205> <3206> <8C9D>
+<3207> <3209> <8CA0>
+<320A> <320A> [<8CA4>]
+<320B> <3214> <8CA7>
+<3215> <3217> <8CB2>
+<3218> <321A> <8CB6>
+<321D> <321F> <8CBB>
+<3220> <3225> <8CBF>
+<3228> <3229> <8CC7>
+endbfrange
+1 beginbfchar
+<322B> <8CCA>
+endbfchar
+6 beginbfrange
+<322D> <322E> <8CCD>
+<3230> <3231> [<8CD1> <8CD3>]
+<3232> <3233> <8CD5>
+<3234> <3237> <8CD9>
+<3239> <3239> [<8CDE>]
+<323A> <323E> <8CE0>
+endbfrange
+3 beginbfchar
+<323F> <8CE6>
+<3241> <8CEA>
+<3243> <8CED>
+endbfchar
+1 beginbfrange
+<3245> <3246> <8CF0>
+endbfrange
+1 beginbfchar
+<3248> <8CF4>
+endbfchar
+6 beginbfrange
+<324B> <324B> [<8CF8>]
+<324C> <3250> <8CFA>
+<3254> <3255> <8D04>
+<3256> <325A> <8D07>
+<325B> <325E> <8D0D>
+<325F> <3261> <8D12>
+endbfrange
+1 beginbfchar
+<3262> <8D16>
+endbfchar
+5 beginbfrange
+<3264> <3265> [<8D1B> <8D64>]
+<3267> <3268> <8D66>
+<326A> <326C> <8D6B>
+<326E> <326F> <8D70>
+<3270> <3271> <8D73>
+endbfrange
+2 beginbfchar
+<3273> <8D77>
+<3275> <8D81>
+endbfchar
+1 beginbfrange
+<3277> <3278> <8D84>
+endbfrange
+1 beginbfchar
+<327A> <8D8A>
+endbfchar
+2 beginbfrange
+<327E> <327F> [<8D95> <8D99>]
+<3283> <3285> [<8DA3> <8DA6> <8DA8>]
+endbfrange
+7 beginbfchar
+<3288> <8DAF>
+<328A> <8DB3>
+<328E> <8DBA>
+<3291> <8DBE>
+<3293> <8DC2>
+<3295> <8DC6>
+<3297> <8DC8>
+endbfchar
+2 beginbfrange
+<3299> <329A> <8DCB>
+<329B> <329C> <8DCE>
+endbfrange
+1 beginbfchar
+<329D> <8DD1>
+endbfchar
+5 beginbfrange
+<32A0> <32A1> <8DD6>
+<32A2> <32A4> <8DD9>
+<32A5> <32A8> [<8DDD> <8DDF> <8DE1> <8DE3>]
+<32AC> <32AC> [<8DE8>]
+<32AD> <32AF> <8DEA>
+endbfrange
+2 beginbfchar
+<32B0> <8DEF>
+<32B4> <8DF3>
+endbfchar
+2 beginbfrange
+<32B6> <32B6> [<8DF5>]
+<32B7> <32B8> <8DFC>
+endbfrange
+1 beginbfchar
+<32B9> <8DFF>
+endbfchar
+13 beginbfrange
+<32BD> <32BD> [<8E06>]
+<32BE> <32C0> <8E08>
+<32C2> <32C2> [<8E0C>]
+<32C3> <32C4> <8E0F>
+<32C6> <32C7> [<8E14> <8E16>]
+<32C8> <32CE> <8E1D>
+<32D0> <32D2> [<8E27> <8E2A> <8E30>]
+<32D5> <32D7> <8E34>
+<32DA> <32DB> [<8E39> <8E3D>]
+<32DE> <32DF> [<8E42> <8E44>]
+<32E0> <32E5> <8E47>
+<32E9> <32E9> [<8E50>]
+<32EA> <32EB> <8E54>
+endbfrange
+1 beginbfchar
+<32EC> <8E59>
+endbfchar
+6 beginbfrange
+<32F1> <32F2> <8E5F>
+<32F4> <32F6> <8E62>
+<32F8> <32F9> <8E6C>
+<32FA> <32FB> <8E6F>
+<32FD> <32FF> [<8E72> <8E74> <8E76>]
+<3302> <3303> <8E7B>
+endbfrange
+1 beginbfchar
+<3304> <8E81>
+endbfchar
+1 beginbfrange
+<3307> <3308> <8E84>
+endbfrange
+1 beginbfchar
+<3309> <8E87>
+endbfchar
+1 beginbfrange
+<330B> <330C> <8E8A>
+endbfrange
+2 beginbfchar
+<330D> <8E8D>
+<330F> <8E91>
+endbfchar
+15 beginbfrange
+<3311> <3312> <8E93>
+<3314> <3315> <8E98>
+<3319> <331A> [<8E9E> <8EA1>]
+<331E> <3320> <8EAA>
+<3322> <3325> <8EAE>
+<3326> <3326> [<8EB3>]
+<3327> <3328> <8EB5>
+<332A> <332C> [<8EBB> <8EBE> <8EC0>]
+<3330> <3331> <8EC5>
+<3333> <3333> [<8EC8>]
+<3334> <3337> <8ECA>
+<3339> <333A> <8ED1>
+<333B> <333C> [<8ED4> <8EDB>]
+<333E> <333E> [<8EDF>]
+<333F> <3340> <8EE2>
+endbfrange
+1 beginbfchar
+<3342> <8EEB>
+endbfchar
+1 beginbfrange
+<3348> <334E> <8EF8>
+endbfrange
+1 beginbfchar
+<334F> <8F00>
+endbfchar
+2 beginbfrange
+<3351> <3352> [<8F03> <8F05>]
+<3354> <3356> <8F08>
+endbfrange
+1 beginbfchar
+<3357> <8F0C>
+endbfchar
+1 beginbfrange
+<335A> <335D> <8F12>
+endbfrange
+1 beginbfchar
+<335F> <8F17>
+endbfchar
+2 beginbfrange
+<3361> <3361> [<8F19>]
+<3362> <3366> <8F1B>
+endbfrange
+1 beginbfchar
+<336B> <8F26>
+endbfchar
+1 beginbfrange
+<336E> <3370> <8F29>
+endbfrange
+1 beginbfchar
+<3372> <8F2D>
+endbfchar
+1 beginbfrange
+<3374> <3375> [<8F2F> <8F33>]
+endbfrange
+1 beginbfchar
+<3378> <8F36>
+endbfchar
+3 beginbfrange
+<337A> <337B> <8F38>
+<337D> <337D> [<8F3B>]
+<337E> <3380> <8F3E>
+endbfrange
+1 beginbfchar
+<3382> <8F42>
+endbfchar
+3 beginbfrange
+<3384> <3386> <8F44>
+<3388> <3389> <8F49>
+<338A> <338C> <8F4C>
+endbfrange
+1 beginbfchar
+<3391> <8F54>
+endbfchar
+1 beginbfrange
+<3393> <3394> <8F57>
+endbfrange
+1 beginbfchar
+<3395> <8F5C>
+endbfchar
+9 beginbfrange
+<3398> <3398> [<8F5F>]
+<3399> <339C> <8F61>
+<339E> <339F> <8F9B>
+<33A1> <33A2> <8F9E>
+<33A5> <33A6> <8FA3>
+<33A8> <33AA> <8FA6>
+<33AB> <33B0> <8FAD>
+<33B1> <33B4> <8FB4>
+<33B6> <33B8> <8FBA>
+endbfrange
+1 beginbfchar
+<33BA> <8FBF>
+endbfchar
+2 beginbfrange
+<33BC> <33BD> <8FC1>
+<33BE> <33C0> <8FC4>
+endbfrange
+1 beginbfchar
+<33C1> <8FCA>
+endbfchar
+1 beginbfrange
+<33C3> <33C4> <8FCD>
+endbfrange
+1 beginbfchar
+<33C6> <8FD1>
+endbfchar
+7 beginbfrange
+<33C8> <33CA> <8FD3>
+<33CB> <33CD> [<8FDA> <8FE0> <8FE2>]
+<33CF> <33D1> <8FE4>
+<33D2> <33D5> <8FE8>
+<33D6> <33DA> <8FED>
+<33DB> <33DC> <8FF4>
+<33DE> <33E2> <8FF7>
+endbfrange
+1 beginbfchar
+<33E3> <8FFD>
+endbfchar
+8 beginbfrange
+<33E5> <33E8> <9000>
+<33EA> <33EB> <9005>
+<33EC> <33EC> [<9008>]
+<33ED> <33F3> <900B>
+<33F4> <33F8> <9013>
+<33FA> <33FB> <9019>
+<33FD> <33FF> <901D>
+<3400> <3403> <9020>
+endbfrange
+1 beginbfchar
+<3404> <9027>
+endbfchar
+14 beginbfrange
+<3409> <340A> <902D>
+<340C> <340D> <9031>
+<3410> <3414> <9035>
+<3415> <3416> [<903C> <903E>]
+<3418> <341C> <9041>
+<341D> <341D> [<9047>]
+<341E> <3420> <9049>
+<3422> <342B> <904D>
+<342C> <342D> <9058>
+<342F> <3431> <905C>
+<3432> <3433> <9060>
+<3435> <3436> [<9063> <9065>]
+<3439> <343A> <9068>
+<343C> <343E> <906D>
+endbfrange
+1 beginbfchar
+<3440> <9072>
+endbfchar
+5 beginbfrange
+<3442> <3445> <9075>
+<3447> <3447> [<907A>]
+<3448> <3449> <907C>
+<344A> <3450> <907F>
+<3451> <3454> <9087>
+endbfrange
+1 beginbfchar
+<3456> <908C>
+endbfchar
+6 beginbfrange
+<3458> <345A> <908F>
+<345B> <345C> [<9095> <9097>]
+<345E> <345F> [<9099> <909B>]
+<3461> <3463> <90A1>
+<3465> <3467> [<90A6> <90A8> <90AA>]
+<3468> <346A> <90AF>
+endbfrange
+1 beginbfchar
+<346C> <90B3>
+endbfchar
+1 beginbfrange
+<346E> <346F> <90B5>
+endbfrange
+1 beginbfchar
+<3470> <90B8>
+endbfchar
+3 beginbfrange
+<3472> <3473> [<90BE> <90C1>]
+<3474> <3476> <90C3>
+<3477> <3478> <90C7>
+endbfrange
+3 beginbfchar
+<3479> <90CA>
+<347B> <90CE>
+<347E> <90D7>
+endbfchar
+2 beginbfrange
+<3481> <3485> <90DB>
+<3486> <3487> <90E1>
+endbfrange
+1 beginbfchar
+<3488> <90E4>
+endbfchar
+5 beginbfrange
+<348A> <348D> [<90E8> <90EB> <90ED> <90EF>]
+<348F> <348F> [<90F2>]
+<3490> <3493> <90F4>
+<3494> <3496> <90FD>
+<3497> <3499> [<9100> <9102> <9104>]
+endbfrange
+1 beginbfchar
+<349B> <9106>
+endbfchar
+5 beginbfrange
+<349F> <349F> [<9112>]
+<34A0> <34A2> <9114>
+<34A4> <34A5> <9118>
+<34A7> <34A8> [<911C> <911E>]
+<34AA> <34AB> <9122>
+endbfrange
+2 beginbfchar
+<34AD> <9127>
+<34AF> <912D>
+endbfchar
+1 beginbfrange
+<34B1> <34B4> <912F>
+endbfrange
+1 beginbfchar
+<34B5> <9134>
+endbfchar
+2 beginbfrange
+<34B7> <34B7> [<9137>]
+<34B8> <34B9> <9139>
+endbfrange
+1 beginbfchar
+<34BB> <913D>
+endbfchar
+1 beginbfrange
+<34BD> <34C5> <9146>
+endbfrange
+1 beginbfchar
+<34C7> <9152>
+endbfchar
+5 beginbfrange
+<34C9> <34C9> [<9154>]
+<34CA> <34CD> <9156>
+<34CF> <34CF> [<915B>]
+<34D0> <34D4> <9161>
+<34D6> <34D7> <9169>
+endbfrange
+1 beginbfchar
+<34D8> <916C>
+endbfchar
+3 beginbfrange
+<34DA> <34DD> <9172>
+<34DE> <34E0> <9177>
+<34E4> <34E5> <9182>
+endbfrange
+1 beginbfchar
+<34E6> <9185>
+endbfchar
+3 beginbfrange
+<34E8> <34E9> [<9187> <9189>]
+<34EB> <34EB> [<918B>]
+<34EC> <34ED> <918D>
+endbfrange
+3 beginbfchar
+<34EE> <9190>
+<34F0> <9192>
+<34F4> <9197>
+endbfchar
+5 beginbfrange
+<34F6> <34F7> [<919C> <919E>]
+<34F9> <34FA> [<91A2> <91A4>]
+<34FC> <34FC> [<91A8>]
+<34FD> <34FF> <91AA>
+<3501> <3502> <91AE>
+endbfrange
+1 beginbfchar
+<3504> <91B1>
+endbfchar
+2 beginbfrange
+<3506> <3509> <91B3>
+<350A> <350B> [<91B8> <91BA>]
+endbfrange
+1 beginbfchar
+<350D> <91BC>
+endbfchar
+12 beginbfrange
+<3510> <3511> <91C0>
+<3513> <3514> <91C3>
+<3516> <3519> <91C6>
+<351A> <3520> <91CB>
+<3523> <3525> <91D6>
+<3527> <352A> <91DA>
+<352C> <352D> [<91DF> <91E1>]
+<352E> <3532> <91E3>
+<3535> <3537> <91EC>
+<353A> <353A> [<91F1>]
+<353B> <353C> <91F5>
+<353F> <3540> <91FB>
+endbfrange
+4 beginbfchar
+<3542> <91FF>
+<3544> <9201>
+<3548> <9207>
+<354A> <920A>
+endbfchar
+3 beginbfrange
+<354C> <354D> <920D>
+<354E> <354F> <9210>
+<3552> <3555> <9214>
+endbfrange
+1 beginbfchar
+<3559> <921E>
+endbfchar
+3 beginbfrange
+<355F> <3560> [<9229> <922C>]
+<3564> <3565> <9233>
+<3568> <356B> <9237>
+endbfrange
+1 beginbfchar
+<356C> <923C>
+endbfchar
+9 beginbfrange
+<356E> <356F> <923F>
+<3570> <3573> <9242>
+<3575> <3579> <9247>
+<357B> <357E> <924E>
+<357F> <3580> <9256>
+<3582> <3584> <9259>
+<3587> <3587> [<925E>]
+<3588> <358A> <9260>
+<358B> <358F> <9264>
+endbfrange
+2 beginbfchar
+<3594> <9271>
+<3598> <9278>
+endbfchar
+3 beginbfrange
+<359B> <359F> <927C>
+<35A0> <35A1> [<9283> <9285>]
+<35A2> <35A3> <9288>
+endbfrange
+2 beginbfchar
+<35A5> <928D>
+<35A7> <9291>
+endbfchar
+2 beginbfrange
+<35A9> <35A9> [<9293>]
+<35AA> <35B1> <9295>
+endbfrange
+2 beginbfchar
+<35B2> <929F>
+<35B6> <92A7>
+endbfchar
+1 beginbfrange
+<35B8> <35B9> [<92AB> <92AD>]
+endbfrange
+3 beginbfchar
+<35BB> <92B2>
+<35BD> <92B7>
+<35BF> <92B9>
+endbfchar
+1 beginbfrange
+<35C4> <35C5> <92BF>
+endbfrange
+2 beginbfchar
+<35C7> <92C2>
+<35CA> <92C6>
+endbfchar
+3 beginbfrange
+<35CD> <35CE> <92CB>
+<35D0> <35D2> <92CE>
+<35D3> <35D4> <92D2>
+endbfrange
+3 beginbfchar
+<35D6> <92D7>
+<35D8> <92D9>
+<35DC> <92E0>
+endbfchar
+1 beginbfrange
+<35DF> <35E0> <92E4>
+endbfrange
+1 beginbfchar
+<35E1> <92E7>
+endbfchar
+1 beginbfrange
+<35E3> <35E4> <92E9>
+endbfrange
+1 beginbfchar
+<35E6> <92ED>
+endbfchar
+2 beginbfrange
+<35E9> <35EA> <92F2>
+<35EB> <35F0> <92F7>
+endbfrange
+1 beginbfchar
+<35F1> <92FF>
+endbfchar
+9 beginbfrange
+<35F3> <35F5> [<9302> <9304> <9306>]
+<35F7> <35F7> [<930D>]
+<35F8> <35FA> <930F>
+<35FC> <35FC> [<9315>]
+<35FD> <35FF> <9318>
+<3601> <3607> <931D>
+<3609> <360D> <9325>
+<360F> <3610> <932B>
+<3611> <3612> <932E>
+endbfrange
+2 beginbfchar
+<3613> <9332>
+<3616> <9335>
+endbfchar
+3 beginbfrange
+<3619> <361A> <933A>
+<361B> <361B> [<9344>]
+<361C> <3620> <9347>
+endbfrange
+3 beginbfchar
+<3621> <934D>
+<3623> <9351>
+<3625> <9354>
+endbfchar
+5 beginbfrange
+<3627> <3628> <9356>
+<362A> <362C> <935A>
+<362E> <362E> [<9360>]
+<362F> <3630> <9364>
+<3633> <3635> <936A>
+endbfrange
+1 beginbfchar
+<3637> <936E>
+endbfchar
+1 beginbfrange
+<3639> <363A> <9370>
+endbfrange
+5 beginbfchar
+<363B> <9373>
+<363D> <9375>
+<3640> <937C>
+<3642> <937E>
+<3647> <9388>
+endbfchar
+1 beginbfrange
+<3649> <364A> <938B>
+endbfrange
+2 beginbfchar
+<364C> <938F>
+<364E> <9394>
+endbfchar
+3 beginbfrange
+<3650> <3651> <9396>
+<3653> <3654> <939A>
+<3655> <3657> [<939E> <93A1> <93A3>]
+endbfrange
+1 beginbfchar
+<365A> <93A7>
+endbfchar
+1 beginbfrange
+<365E> <3660> <93AC>
+endbfrange
+1 beginbfchar
+<3661> <93B0>
+endbfchar
+12 beginbfrange
+<3665> <3666> <93B9>
+<3667> <3668> [<93C1> <93C3>]
+<366B> <366D> <93C6>
+<3673> <3674> <93D0>
+<3676> <3678> <93D6>
+<367A> <367D> <93DC>
+<367E> <367F> <93E1>
+<3680> <3681> <93E4>
+<3683> <3684> <93E7>
+<3685> <3686> [<93F1> <93F5>]
+<368B> <368C> [<93FB> <93FD>]
+<368F> <3690> <9403>
+endbfrange
+2 beginbfchar
+<3691> <9407>
+<3693> <9409>
+endbfchar
+7 beginbfrange
+<3696> <3697> <940F>
+<3698> <3699> <9413>
+<369B> <369F> <9416>
+<36A1> <36A2> [<9421> <942B>]
+<36A6> <36AA> <9432>
+<36AB> <36AB> [<9438>]
+<36AC> <36AD> <943A>
+endbfrange
+1 beginbfchar
+<36B0> <9441>
+endbfchar
+1 beginbfrange
+<36B2> <36B3> <9444>
+endbfrange
+1 beginbfchar
+<36B5> <944A>
+endbfchar
+2 beginbfrange
+<36B7> <36B9> <9451>
+<36BC> <36BD> <945A>
+endbfrange
+2 beginbfchar
+<36BF> <945E>
+<36C1> <9460>
+endbfchar
+2 beginbfrange
+<36C3> <36C4> <9462>
+<36C6> <36C7> <946A>
+endbfrange
+1 beginbfchar
+<36C8> <946D>
+endbfchar
+3 beginbfrange
+<36CA> <36CD> <946F>
+<36CE> <36CF> [<9475> <9477>]
+<36D0> <36D3> <947C>
+endbfrange
+1 beginbfchar
+<36D4> <9481>
+endbfchar
+5 beginbfrange
+<36D7> <36D9> <9577>
+<36DB> <36DB> [<9580>]
+<36DC> <36DD> <9582>
+<36DF> <36E0> <9586>
+<36E2> <36E8> <9589>
+endbfrange
+1 beginbfchar
+<36E9> <9591>
+endbfchar
+8 beginbfrange
+<36EB> <36EC> <9593>
+<36ED> <36ED> [<9596>]
+<36EE> <36EF> <9598>
+<36F2> <36F3> <959F>
+<36F5> <36FC> <95A2>
+<36FD> <36FF> <95AB>
+<3700> <3703> [<95B2> <95B4> <95B6> <95B9>]
+<3705> <3708> <95BB>
+endbfrange
+1 beginbfchar
+<370A> <95C3>
+endbfchar
+2 beginbfrange
+<370C> <370D> <95C7>
+<370F> <3712> <95CA>
+endbfrange
+1 beginbfchar
+<3713> <95D0>
+endbfchar
+1 beginbfrange
+<3716> <3719> <95D3>
+endbfrange
+1 beginbfchar
+<371A> <95D8>
+endbfchar
+1 beginbfrange
+<371C> <371D> [<95DA> <95DC>]
+endbfrange
+1 beginbfchar
+<371F> <95DE>
+endbfchar
+1 beginbfrange
+<3722> <3723> <95E1>
+endbfrange
+1 beginbfchar
+<3725> <95E5>
+endbfchar
+1 beginbfrange
+<3727> <3728> <961C>
+endbfrange
+1 beginbfchar
+<372A> <9621>
+endbfchar
+15 beginbfrange
+<372F> <3731> [<9628> <962A> <962C>]
+<3732> <3733> <962E>
+<3735> <3737> <9632>
+<373C> <373D> <963B>
+<373F> <3742> <963F>
+<3743> <3743> [<9644>]
+<3744> <3746> <964B>
+<3747> <3748> <964F>
+<374D> <374D> [<9658>]
+<374E> <3752> <965B>
+<3753> <3758> <9661>
+<3759> <375A> [<966A> <966C>]
+<375C> <375C> [<9670>]
+<375D> <375E> <9672>
+<3760> <3763> <9675>
+endbfrange
+3 beginbfchar
+<3764> <967A>
+<3767> <967D>
+<376B> <9682>
+endbfchar
+1 beginbfrange
+<376D> <376F> <9684>
+endbfrange
+1 beginbfchar
+<3770> <9688>
+endbfchar
+11 beginbfrange
+<3772> <3773> <968A>
+<3774> <3776> <968D>
+<3778> <3779> <9694>
+<377B> <3781> <9697>
+<3783> <3783> [<96A0>]
+<3784> <3786> <96A3>
+<3788> <378B> <96A7>
+<378D> <3792> <96AF>
+<3793> <379A> <96B6>
+<379B> <379C> <96C0>
+<379D> <37A0> <96C4>
+endbfrange
+1 beginbfchar
+<37A1> <96C9>
+endbfchar
+9 beginbfrange
+<37A3> <37A6> <96CB>
+<37A7> <37A8> <96D1>
+<37A9> <37AA> <96D5>
+<37AB> <37B1> <96D8>
+<37B3> <37B4> <96E2>
+<37B5> <37B8> <96E8>
+<37B9> <37BA> <96EF>
+<37BC> <37BC> [<96F2>]
+<37BD> <37BE> <96F6>
+endbfrange
+1 beginbfchar
+<37BF> <96F9>
+endbfchar
+1 beginbfrange
+<37C1> <37C2> [<96FB> <9700>]
+endbfrange
+1 beginbfchar
+<37C5> <9704>
+endbfchar
+6 beginbfrange
+<37C7> <37C9> <9706>
+<37CB> <37CB> [<970A>]
+<37CC> <37CE> <970D>
+<37CF> <37CF> [<9711>]
+<37D0> <37D1> <9713>
+<37D2> <37D3> [<9716> <9719>]
+endbfrange
+2 beginbfchar
+<37D6> <971C>
+<37D8> <971E>
+endbfchar
+1 beginbfrange
+<37DB> <37DC> <9723>
+endbfrange
+1 beginbfchar
+<37DD> <9727>
+endbfchar
+21 beginbfrange
+<37DF> <37E0> [<972A> <9730>]
+<37E2> <37E3> <9732>
+<37E4> <37E4> [<9736>]
+<37E5> <37E6> <9738>
+<37E7> <37E7> [<973B>]
+<37E8> <37E9> <973D>
+<37EA> <37EB> <9741>
+<37ED> <37ED> [<9744>]
+<37EE> <37F1> <9746>
+<37F3> <37F5> <974D>
+<37F7> <37F7> [<9752>]
+<37F8> <37FA> <9755>
+<37FC> <37FF> <9759>
+<3800> <3800> [<975E>]
+<3801> <3803> <9760>
+<3805> <3806> [<9764> <9766>]
+<3808> <380B> <9768>
+<380C> <380D> <976D>
+<380E> <380E> [<9771>]
+<380F> <3810> <9773>
+<3814> <3815> <9779>
+endbfrange
+1 beginbfchar
+<3817> <977C>
+endbfchar
+5 beginbfrange
+<381B> <381B> [<9781>]
+<381C> <381E> <9784>
+<3820> <3821> [<978B> <978D>]
+<3822> <3823> <978F>
+<3824> <3825> <9795>
+endbfrange
+1 beginbfchar
+<3827> <9798>
+endbfchar
+6 beginbfrange
+<3829> <382B> [<979A> <979C> <979E>]
+<382D> <382D> [<97A0>]
+<382E> <382F> <97A2>
+<3830> <3832> [<97A6> <97A8> <97AB>]
+<3834> <3835> <97AD>
+<3836> <3839> <97B1>
+endbfrange
+2 beginbfchar
+<383E> <97BA>
+<3840> <97BE>
+endbfchar
+1 beginbfrange
+<3842> <3843> [<97C1> <97C3>]
+endbfrange
+1 beginbfchar
+<3846> <97C6>
+endbfchar
+6 beginbfrange
+<3848> <3849> <97C8>
+<384B> <384C> <97CB>
+<3850> <3850> [<97D1>]
+<3851> <3852> <97D3>
+<3854> <3855> <97D8>
+<3856> <3857> <97DB>
+endbfrange
+2 beginbfchar
+<3859> <97DE>
+<385B> <97E1>
+endbfchar
+7 beginbfrange
+<385D> <385E> <97ED>
+<3860> <3865> <97F1>
+<3869> <386A> [<97FB> <97FF>]
+<386B> <3870> <9801>
+<3872> <3873> [<9808> <980A>]
+<3874> <387C> <980C>
+<387D> <387F> <9816>
+endbfrange
+2 beginbfchar
+<3881> <981A>
+<3883> <981E>
+endbfchar
+10 beginbfrange
+<3885> <3885> [<9821>]
+<3886> <3888> <9823>
+<388A> <388C> <982B>
+<388F> <388F> [<9830>]
+<3890> <3892> <9832>
+<3894> <3895> <9837>
+<3896> <3898> <983B>
+<389B> <389C> <9846>
+<389E> <38A2> <984B>
+<38A4> <38AD> <9852>
+endbfrange
+1 beginbfchar
+<38AE> <985E>
+endbfchar
+6 beginbfrange
+<38B1> <38B3> <9865>
+<38B5> <38B6> <986B>
+<38B7> <38B9> <986F>
+<38BA> <38BB> <9873>
+<38BC> <38BC> [<98A8>]
+<38BD> <38BE> <98AA>
+endbfrange
+1 beginbfchar
+<38BF> <98AD>
+endbfchar
+6 beginbfrange
+<38C1> <38C3> <98AF>
+<38C5> <38C7> <98B6>
+<38C8> <38CA> <98BA>
+<38CB> <38CB> [<98BF>]
+<38CC> <38CE> <98C2>
+<38D0> <38D2> <98C6>
+endbfrange
+1 beginbfchar
+<38D3> <98CB>
+endbfchar
+2 beginbfrange
+<38D5> <38D6> <98DB>
+<38D7> <38DB> <98DF>
+endbfrange
+1 beginbfchar
+<38DC> <98E5>
+endbfchar
+12 beginbfrange
+<38DE> <38DE> [<98E7>]
+<38DF> <38E1> <98E9>
+<38E2> <38E9> <98ED>
+<38EB> <38ED> <98FC>
+<38EF> <38F0> [<9903> <9905>]
+<38F2> <38F4> <9908>
+<38F5> <38F6> [<990C> <9910>]
+<38F8> <38FA> <9912>
+<38FC> <38FE> <9916>
+<38FF> <38FF> <991A>
+<3900> <3903> <991B>
+<3905> <3906> <9920>
+endbfrange
+2 beginbfchar
+<3908> <9924>
+<390B> <9928>
+endbfchar
+10 beginbfrange
+<390D> <390E> [<992C> <992E>]
+<390F> <3911> <9931>
+<3915> <3919> <993A>
+<391A> <391C> <9940>
+<391D> <391E> <9945>
+<3921> <3921> [<9949>]
+<3922> <3925> <994B>
+<3926> <3928> <9950>
+<392A> <392A> [<9955>]
+<392B> <392C> <9957>
+endbfrange
+1 beginbfchar
+<392F> <995C>
+endbfchar
+2 beginbfrange
+<3931> <3932> <995F>
+<3933> <3936> <9996>
+endbfrange
+1 beginbfchar
+<3939> <999E>
+endbfchar
+5 beginbfrange
+<393B> <393B> [<99A3>]
+<393C> <393D> <99A5>
+<393E> <393E> [<99A8>]
+<393F> <3941> <99AC>
+<3945> <3946> <99B3>
+endbfrange
+1 beginbfchar
+<3948> <99B9>
+endbfchar
+7 beginbfrange
+<394A> <394B> <99BC>
+<394C> <394D> [<99BF> <99C1>]
+<394E> <3951> <99C3>
+<3952> <3953> <99C8>
+<3954> <3956> <99D0>
+<3958> <3959> <99D4>
+<395A> <395B> <99D8>
+endbfrange
+1 beginbfchar
+<395D> <99DB>
+endbfchar
+1 beginbfrange
+<395F> <3961> <99DD>
+endbfrange
+1 beginbfchar
+<3962> <99E2>
+endbfchar
+11 beginbfrange
+<3967> <3968> <99ED>
+<3969> <396B> <99F0>
+<396E> <396F> <99F8>
+<3970> <3971> <99FB>
+<3974> <3974> [<99FF>]
+<3975> <3977> <9A01>
+<3979> <397A> [<9A05> <9A0A>]
+<397D> <397E> <9A0E>
+<3980> <3982> <9A11>
+<3983> <3983> [<9A16>]
+<3984> <3985> <9A19>
+endbfrange
+2 beginbfchar
+<3987> <9A20>
+<398A> <9A24>
+endbfchar
+6 beginbfrange
+<398C> <398D> [<9A28> <9A2B>]
+<398E> <398F> <9A2D>
+<3990> <3991> <9A30>
+<3994> <3996> <9A36>
+<3997> <3998> [<9A3E> <9A40>]
+<399A> <399D> <9A42>
+endbfrange
+1 beginbfchar
+<399F> <9A4A>
+endbfchar
+1 beginbfrange
+<39A1> <39A3> <9A4C>
+endbfrange
+2 beginbfchar
+<39A5> <9A52>
+<39A7> <9A55>
+endbfchar
+5 beginbfrange
+<39A9> <39AA> <9A57>
+<39AB> <39AC> <9A5A>
+<39AE> <39AF> [<9A5F> <9A62>]
+<39B0> <39B1> <9A64>
+<39B2> <39B4> <9A69>
+endbfrange
+2 beginbfchar
+<39B5> <9AA8>
+<39B8> <9AAD>
+endbfchar
+2 beginbfrange
+<39BA> <39BB> <9AAF>
+<39BF> <39C2> <9AB6>
+endbfrange
+1 beginbfchar
+<39C4> <9ABC>
+endbfchar
+2 beginbfrange
+<39C7> <39C8> <9AC0>
+<39C9> <39CA> <9AC3>
+endbfrange
+1 beginbfchar
+<39CB> <9AC6>
+endbfchar
+1 beginbfrange
+<39CD> <39D5> <9ACE>
+endbfrange
+1 beginbfchar
+<39D7> <9AD8>
+endbfchar
+6 beginbfrange
+<39DA> <39DA> [<9ADC>]
+<39DB> <39DD> <9ADE>
+<39DE> <39DF> <9AE2>
+<39E1> <39E2> <9AE5>
+<39E4> <39E6> <9AE9>
+<39E8> <39EA> <9AED>
+endbfrange
+2 beginbfchar
+<39EB> <9AF1>
+<39EE> <9AF4>
+endbfchar
+1 beginbfrange
+<39F0> <39F1> [<9AF7> <9AF9>]
+endbfrange
+1 beginbfchar
+<39F3> <9AFB>
+endbfchar
+2 beginbfrange
+<39F8> <39F9> <9B02>
+<39FC> <39FD> [<9B06> <9B08>]
+endbfrange
+1 beginbfchar
+<3A00> <9B0C>
+endbfchar
+1 beginbfrange
+<3A03> <3A06> [<9B10> <9B12> <9B16> <9B18>]
+endbfrange
+2 beginbfchar
+<3A08> <9B1A>
+<3A0A> <9B1C>
+endbfchar
+2 beginbfrange
+<3A0C> <3A0D> <9B1F>
+<3A0E> <3A0F> <9B22>
+endbfrange
+1 beginbfchar
+<3A10> <9B25>
+endbfchar
+5 beginbfrange
+<3A12> <3A16> <9B27>
+<3A17> <3A19> <9B2D>
+<3A1A> <3A1C> <9B31>
+<3A22> <3A24> <9B3B>
+<3A25> <3A29> <9B41>
+endbfrange
+1 beginbfchar
+<3A2B> <9B4B>
+endbfchar
+3 beginbfrange
+<3A2D> <3A2F> <9B4D>
+<3A30> <3A31> [<9B51> <9B54>]
+<3A35> <3A36> [<9B58> <9B5A>]
+endbfrange
+1 beginbfchar
+<3A38> <9B5E>
+endbfchar
+5 beginbfrange
+<3A3A> <3A3A> [<9B63>]
+<3A3B> <3A3C> <9B65>
+<3A3F> <3A40> <9B6B>
+<3A43> <3A43> [<9B6F>]
+<3A44> <3A49> <9B72>
+endbfrange
+1 beginbfchar
+<3A4B> <9B79>
+endbfchar
+1 beginbfrange
+<3A4E> <3A4F> <9B83>
+endbfrange
+1 beginbfchar
+<3A54> <9B8A>
+endbfchar
+7 beginbfrange
+<3A57> <3A58> <9B8E>
+<3A5A> <3A5C> <9B91>
+<3A5E> <3A5F> <9B96>
+<3A62> <3A64> <9B9E>
+<3A65> <3A67> <9BA6>
+<3A69> <3A6D> <9BAA>
+<3A6F> <3A70> <9BB1>
+endbfrange
+1 beginbfchar
+<3A71> <9BB4>
+endbfchar
+1 beginbfrange
+<3A73> <3A74> <9BB8>
+endbfrange
+1 beginbfchar
+<3A77> <9BBE>
+endbfchar
+14 beginbfrange
+<3A79> <3A7A> <9BC0>
+<3A7B> <3A7C> <9BC6>
+<3A7E> <3A7F> <9BC9>
+<3A80> <3A81> <9BCE>
+<3A83> <3A84> <9BD1>
+<3A85> <3A86> [<9BD4> <9BD6>]
+<3A88> <3A8A> [<9BD8> <9BDB> <9BDD>]
+<3A8C> <3A90> <9BE1>
+<3A91> <3A92> <9BE7>
+<3A93> <3A94> <9BEA>
+<3A95> <3A9A> <9BEE>
+<3A9B> <3A9B> [<9BF5>]
+<3A9C> <3A9D> <9BF7>
+<3A9F> <3AA0> [<9BFA> <9BFD>]
+endbfrange
+1 beginbfchar
+<3AA2> <9C00>
+endbfchar
+3 beginbfrange
+<3AA4> <3AA5> [<9C04> <9C06>]
+<3AA6> <3AA8> <9C08>
+<3AAA> <3AAB> <9C0C>
+endbfrange
+1 beginbfchar
+<3AAD> <9C10>
+endbfchar
+2 beginbfrange
+<3AAF> <3AB3> <9C12>
+<3AB4> <3AB7> <9C18>
+endbfrange
+1 beginbfchar
+<3AB9> <9C1D>
+endbfchar
+1 beginbfrange
+<3ABB> <3ABF> <9C21>
+endbfrange
+1 beginbfchar
+<3AC1> <9C27>
+endbfchar
+16 beginbfrange
+<3AC3> <3AC4> <9C29>
+<3AC5> <3ACA> <9C2D>
+<3ACC> <3ACD> <9C36>
+<3ACE> <3AD0> <9C39>
+<3AD2> <3AD3> [<9C3E> <9C41>]
+<3AD6> <3ADB> <9C45>
+<3ADD> <3ADE> <9C4F>
+<3ADF> <3AE1> <9C52>
+<3AE3> <3AE4> <9C57>
+<3AE5> <3AE8> <9C5A>
+<3AEA> <3AEB> <9C5F>
+<3AEC> <3AEE> [<9C63> <9C65> <9C67>]
+<3AF0> <3AF2> <9C69>
+<3AF3> <3AF4> <9C6D>
+<3AF5> <3AF6> [<9C70> <9C72>]
+<3AF7> <3AFA> <9C75>
+endbfrange
+1 beginbfchar
+<3AFB> <9C7A>
+endbfchar
+5 beginbfrange
+<3AFD> <3AFF> <9CE5>
+<3B00> <3B00> [<9CE9>]
+<3B01> <3B02> <9CEB>
+<3B03> <3B03> [<9CF0>]
+<3B04> <3B06> <9CF2>
+endbfrange
+1 beginbfchar
+<3B07> <9CF6>
+endbfchar
+6 beginbfrange
+<3B0A> <3B0B> <9D02>
+<3B0C> <3B0F> <9D06>
+<3B10> <3B11> [<9D0B> <9D0E>]
+<3B12> <3B13> <9D11>
+<3B14> <3B14> [<9D15>]
+<3B15> <3B16> <9D17>
+endbfrange
+1 beginbfchar
+<3B17> <9D1B>
+endbfchar
+3 beginbfrange
+<3B19> <3B1B> <9D1D>
+<3B1C> <3B1E> [<9D23> <9D26> <9D28>]
+<3B1F> <3B21> <9D2A>
+endbfrange
+2 beginbfchar
+<3B24> <9D32>
+<3B28> <9D3B>
+endbfchar
+7 beginbfrange
+<3B2B> <3B2C> <9D3E>
+<3B2D> <3B30> <9D41>
+<3B32> <3B34> <9D46>
+<3B35> <3B35> [<9D4A>]
+<3B36> <3B38> <9D50>
+<3B3B> <3B3B> [<9D59>]
+<3B3C> <3B44> <9D5C>
+endbfrange
+1 beginbfchar
+<3B46> <9D69>
+endbfchar
+4 beginbfrange
+<3B48> <3B49> <9D6B>
+<3B4A> <3B4B> <9D6F>
+<3B4C> <3B4D> <9D72>
+<3B4E> <3B4F> <9D76>
+endbfrange
+1 beginbfchar
+<3B50> <9D7A>
+endbfchar
+1 beginbfrange
+<3B52> <3B53> [<9D7C> <9D7E>]
+endbfrange
+1 beginbfchar
+<3B55> <9D84>
+endbfchar
+2 beginbfrange
+<3B57> <3B57> [<9D87>]
+<3B58> <3B59> <9D89>
+endbfrange
+3 beginbfchar
+<3B5A> <9D8D>
+<3B5C> <9D8F>
+<3B60> <9D96>
+endbfchar
+3 beginbfrange
+<3B63> <3B64> <9D99>
+<3B65> <3B67> [<9DA1> <9DA4> <9DA9>]
+<3B69> <3B6A> <9DAB>
+endbfrange
+1 beginbfchar
+<3B6C> <9DAF>
+endbfchar
+5 beginbfrange
+<3B6E> <3B6E> [<9DB2>]
+<3B6F> <3B70> <9DB4>
+<3B71> <3B76> <9DB8>
+<3B77> <3B7C> <9DBF>
+<3B7D> <3B7E> <9DC6>
+endbfrange
+1 beginbfchar
+<3B7F> <9DC9>
+endbfchar
+4 beginbfrange
+<3B81> <3B82> [<9DCF> <9DD3>]
+<3B85> <3B86> <9DD6>
+<3B87> <3B88> <9DD9>
+<3B8A> <3B8B> <9DDF>
+endbfrange
+1 beginbfchar
+<3B8C> <9DE3>
+endbfchar
+1 beginbfrange
+<3B8E> <3B8F> <9DE6>
+endbfrange
+3 beginbfchar
+<3B92> <9DED>
+<3B94> <9DEF>
+<3B96> <9DF2>
+endbfchar
+2 beginbfrange
+<3B98> <3B98> [<9DF4>]
+<3B99> <3B9B> <9DF8>
+endbfrange
+1 beginbfchar
+<3B9C> <9DFD>
+endbfchar
+1 beginbfrange
+<3B9E> <3BA1> [<9E02> <9E07> <9E0A> <9E0D>]
+endbfrange
+1 beginbfchar
+<3BA6> <9E15>
+endbfchar
+5 beginbfrange
+<3BA8> <3BAD> <9E19>
+<3BAE> <3BAE> [<9E75>]
+<3BAF> <3BB0> <9E78>
+<3BB2> <3BB4> <9E7B>
+<3BB5> <3BB7> <9E7F>
+endbfrange
+1 beginbfchar
+<3BBB> <9E85>
+endbfchar
+3 beginbfrange
+<3BBD> <3BBD> [<9E88>]
+<3BBE> <3BBF> <9E8B>
+<3BC2> <3BC4> <9E91>
+endbfrange
+2 beginbfchar
+<3BC5> <9E95>
+<3BC7> <9E97>
+endbfchar
+5 beginbfrange
+<3BC9> <3BC9> [<9E9B>]
+<3BCA> <3BCC> <9E9D>
+<3BCD> <3BCF> <9EA4>
+<3BD0> <3BD2> <9EA8>
+<3BD3> <3BD4> <9EAC>
+endbfrange
+1 beginbfchar
+<3BD6> <9EAF>
+endbfchar
+4 beginbfrange
+<3BD9> <3BDA> <9EB4>
+<3BDB> <3BE2> <9EB8>
+<3BE3> <3BE4> <9EC3>
+<3BE8> <3BEE> <9ECC>
+endbfrange
+1 beginbfchar
+<3BEF> <9ED4>
+endbfchar
+5 beginbfrange
+<3BF1> <3BF2> <9ED8>
+<3BF3> <3BF8> <9EDB>
+<3BFA> <3BFA> [<9EE5>]
+<3BFB> <3BFC> <9EE7>
+<3BFF> <3BFF> <9EEE>
+endbfrange
+2 beginbfchar
+<3C00> <9EEF>
+<3C04> <9EF4>
+endbfchar
+6 beginbfrange
+<3C06> <3C07> <9EF6>
+<3C09> <3C09> [<9EF9>]
+<3C0A> <3C0C> <9EFB>
+<3C0D> <3C0D> [<9EFF>]
+<3C0E> <3C0F> <9F02>
+<3C10> <3C11> <9F07>
+endbfrange
+4 beginbfchar
+<3C13> <9F0E>
+<3C15> <9F10>
+<3C18> <9F13>
+<3C1A> <9F15>
+endbfchar
+6 beginbfrange
+<3C1C> <3C1D> [<9F17> <9F19>]
+<3C21> <3C22> <9F20>
+<3C27> <3C28> [<9F2C> <9F2F>]
+<3C2C> <3C2C> [<9F37>]
+<3C2D> <3C2F> <9F39>
+<3C31> <3C32> <9F3D>
+endbfrange
+1 beginbfchar
+<3C34> <9F41>
+endbfchar
+5 beginbfrange
+<3C37> <3C38> <9F45>
+<3C3A> <3C3B> <9F4A>
+<3C3C> <3C3D> <9F4E>
+<3C3E> <3C41> <9F52>
+<3C43> <3C44> <9F57>
+endbfrange
+1 beginbfchar
+<3C46> <9F5D>
+endbfchar
+4 beginbfrange
+<3C48> <3C4C> <9F5F>
+<3C4D> <3C4E> <9F66>
+<3C50> <3C51> <9F69>
+<3C52> <3C53> <9F6C>
+endbfrange
+2 beginbfchar
+<3C56> <9F70>
+<3C58> <9F72>
+endbfchar
+1 beginbfrange
+<3C5A> <3C5C> <9F75>
+endbfrange
+2 beginbfchar
+<3C5F> <9F8D>
+<3C61> <9F90>
+endbfchar
+3 beginbfrange
+<3C64> <3C65> <9F94>
+<3C67> <3C67> [<9F97>]
+<3C68> <3C69> <9F9C>
+endbfrange
+2 beginbfchar
+<3C6B> <9FA0>
+<3C6D> <9FA2>
+endbfchar
+40 beginbfrange
+<3C70> <3C97> [<D840DC0B> <D840DC89> <D840DCA2> <D840DCA4> <D840DDA2> <D840DE13
+> <D840DF2B> <D840DF71> <D840DF81> <D840DFF9> <D841DC4A> <D841DD09> <D841DDD6> 
+<D841DE28> <D841DF4F> <D842DC07> <D842DC3A> <D842DCB9> <D842DD7C> <D842DD9D> <D
+842DED3> <D842DF1D> <D843DD45> <D843DDE1> <D843DE64> <D843DE6D> <D843DE95> <D84
+3DF5F> <D844DE01> <D844DE3D> <D844DE55> <D844DE74> <D844DE7B> <D844DED7> <D844D
+EE4> <D844DEFD> <D844DF1B> <D844DF36> <D844DF44> <D844DFC4>]
+<3C98> <3C99> <D845DC6D>
+<3C9A> <3CAA> [<D845DDD7> <D845DE47> <D845DEB4> <D845DF06> <D845DF42> <D846DCBD
+> <D846DDC3> <D847DC56> <D847DD2D> <D847DD45> <D847DD62> <D847DD78> <D847DD92> 
+<D847DD9C> <D847DDA1> <D847DDB7> <D847DDE0>]
+<3CAB> <3CAC> <D847DE33>
+<3CAD> <3CB9> [<D847DF1E> <D847DF76> <D847DFFA> <D848DD7B> <D848DE18> <D848DF1E
+> <D848DFAD> <D849DEF3> <D84ADC5B> <D84ADCAB> <D84ADD8F> <D84ADEB8> <D84ADF46>]
+
+<3CBA> <3CBB> <D84ADF4F>
+<3CBC> <3CC0> [<D84ADFA6> <D84BDC1D> <D84BDC24> <D84BDDE1> <D84CDDB6>]
+<3CC1> <3CC2> <D84CDDC3>
+<3CC3> <3CC5> [<D84CDDF5> <D84CDF72> <D84CDFD0>]
+<3CC6> <3CC7> <D84CDFD2>
+<3CC8> <3CCB> [<D84CDFD5> <D84CDFDA> <D84CDFDF> <D84CDFE4>]
+<3CCC> <3CCD> <D84DDC4A>
+<3CCE> <3CD3> [<D84DDC51> <D84DDC65> <D84DDCE4> <D84DDD5A> <D84DDD94> <D84DDDC4
+>]
+<3CD4> <3CD6> <D84DDE38>
+<3CD7> <3CDA> [<D84DDE47> <D84DDF0C> <D84DDF1C> <D84DDF3F>]
+<3CDB> <3CDC> <D84DDF63>
+<3CDD> <3CE7> [<D84DDFE7> <D84DDFFF> <D84EDC24> <D84EDC3D> <D84EDE98> <D84FDC7F
+> <D84FDCFE> <D84FDD00> <D84FDD0E> <D84FDD40> <D84FDDD3>]
+<3CE8> <3CE9> <D84FDDF9>
+<3CEA> <3CFF> [<D84FDF7E> <D850DC96> <D850DD03> <D850DDC6> <D850DDFE> <D850DFBC
+> <D851DE29> <D851DEA5> <D851DFF1> <D852DC96> <D852DE4D> <D852DF56> <D852DF6F> 
+<D853DC16> <D853DD14> <D853DE0E> <D853DE37> <D853DE6A> <D853DE8B> <D854DC4A> <D
+854DC55> <D854DD22>]
+<3D00> <3D0E> [<D854DDA9> <D854DDCD> <D854DDE5> <D854DE1E> <D854DE4C> <D855DC2E
+> <D855DC8E> <D855DCD9> <D855DD0E> <D855DDA7> <D855DF71> <D855DFA9> <D855DFB4> 
+<D856DDC4> <D856DDD4>]
+<3D0F> <3D10> <D856DEE3>
+<3D11> <3D3C> [<D856DEF1> <D856DFB2> <D857DC4B> <D857DC64> <D857DDA1> <D857DE2E
+> <D857DE56> <D857DE62> <D857DE65> <D857DEC2> <D857DED8> <D857DEE8> <D857DF23> 
+<D857DF5C> <D857DFD4> <D857DFE0> <D857DFFB> <D858DC0C> <D858DC17> <D858DC60> <D
+858DCED> <D858DE70> <D858DE86> <D858DF4C> <D859DC02> <D859DE7E> <D859DEB0> <D85
+9DF1D> <D85ADCDD> <D85ADCEA> <D85ADD51> <D85ADD6F> <D85ADDDD> <D85ADE1E> <D85AD
+E58> <D85ADE8C> <D85ADEB7> <D85ADEFF> <D85BDC29> <D85BDC73> <D85BDCDD> <D85BDE4
+0> <D85BDE65> <D85BDF94>]
+<3D3D> <3D3F> <D85BDFF6>
+<3D40> <3D42> [<D85CDCF4> <D85CDD0D> <D85CDD39>]
+<3D43> <3D44> <D85CDFDA>
+<3D45> <3D47> [<D85CDFFE> <D85DDC10> <D85DDC49>]
+<3D48> <3D49> <D85DDE14>
+<3D4A> <3D61> [<D85DDE31> <D85DDE84> <D85DDE93> <D85DDF0E> <D85DDF23> <D85DDF52
+> <D85EDD85> <D85EDE84> <D85EDFB3> <D85EDFBE> <D85EDFC7> <D85FDCB8> <D85FDDA0> 
+<D85FDE10> <D85FDFB7> <D860DC8A> <D860DCBB> <D860DE77> <D860DE82> <D860DEF3> <D
+860DFCD> <D861DC0C> <D861DC55> <D861DD6B>]
+<3D62> <3D63> <D861DDC8>
+<3D64> <3D68> [<D861DED7> <D861DEFA> <D862DD46> <D862DD49> <D862DD6B>]
+<3D69> <3D6A> <D862DD87>
+<3D6B> <3D6C> <D862DDBA>
+<3D6D> <3D9E> [<D862DE1E> <D862DE29> <D862DE43> <D862DE71> <D862DE99> <D862DECD
+> <D862DEDD> <D862DEE4> <D862DFC1> <D862DFEF> <D863DD10> <D863DD71> <D863DDFB> 
+<D863DE1F> <D863DE36> <D863DE89> <D863DEEB> <D863DF32> <D863DFF8> <D864DEA0> <D
+864DEB1> <D865DC90> <D865DDCF> <D865DE7F> <D865DEF0> <D865DF19> <D865DF50> <D86
+6DCC6> <D866DE72> <D867DDDB> <D867DE15> <D867DE3D> <D867DE49> <D867DE8A> <D867D
+EC4> <D867DEDB> <D867DEE9> <D867DFCE> <D868DC1A> <D868DC2F> <D868DC82> <D868DCF
+9> <D868DD90> <D868DF8C> <D869DC37> <D869DDF1> <D869DE02> <D869DE1A> <D869DEB2>
+ <D842DF9F>]
+<3DB8> <3DB8> [<F91D>]
+<3DB9> <3DBA> <F928>
+<3DBB> <3DBE> [<F936> <F970> <F9D0> <F9DC>]
+<3DC0> <3DC2> <FA0F>
+<3DC4> <3DC7> <FA13>
+<3DCA> <3DCC> <FA19>
+<3DD0> <3DD3> <FA1F>
+endbfrange
+2 beginbfchar
+<3DD5> <FA24>
+<3DD7> <FA26>
+endbfchar
+2 beginbfrange
+<3DDF> <3DFF> <FA30>
+<3E00> <3E19> <FA51>
+endbfrange
+1 beginbfchar
+<3ECC> <0020>
+endbfchar
+3 beginbfrange
+<3ECF> <3ED2> <0023>
+<3ED4> <3ED7> <0028>
+<3EDB> <3EDF> <002F>
+endbfrange
+2 beginbfchar
+<3EE4> <0038>
+<3EE6> <003A>
+endbfchar
+3 beginbfrange
+<3EE8> <3EEA> <003C>
+<3EEC> <3EFF> <0040>
+<3F00> <3F06> <0054>
+endbfrange
+1 beginbfchar
+<3F0A> <005E>
+endbfchar
+1 beginbfrange
+<3F0C> <3F26> <0060>
+endbfrange
+1 beginbfchar
+<3F28> <007C>
+endbfchar
+12 beginbfrange
+<3F2C> <3F3F> <00A1>
+<3F41> <3F8A> <00B6>
+<3F8B> <3F8E> <0100>
+<3F9C> <3F9E> <0111>
+<3FA5> <3FA6> <011A>
+<3FB5> <3FB6> <012A>
+<3FCE> <3FCF> <0143>
+<3FD2> <3FD3> <0147>
+<3FD7> <3FD8> <014C>
+<3FDD> <3FDE> <0152>
+<3FF5> <3FF8> <016A>
+<400E> <400F> <01F8>
+endbfrange
+4 beginbfchar
+<4017> <0251>
+<4027> <0261>
+<4070> <02C7>
+<4077> <02D9>
+endbfchar
+3 beginbfrange
+<40B1> <40C1> <0391>
+<40C2> <40C8> <03A3>
+<40D0> <40E8> <03B1>
+endbfrange
+1 beginbfchar
+<40EE> <0401>
+endbfchar
+2 beginbfrange
+<40FC> <40FF> <0410>
+<4100> <413B> <0414>
+endbfrange
+1 beginbfchar
+<413C> <0451>
+endbfchar
+1 beginbfrange
+<41D4> <41D5> <1E3E>
+endbfrange
+1 beginbfchar
+<41F2> <2010>
+endbfchar
+1 beginbfrange
+<41F5> <41F6> <2013>
+endbfrange
+1 beginbfchar
+<41F8> <2016>
+endbfchar
+4 beginbfrange
+<41FA> <41FB> <2018>
+<41FE> <41FF> <201C>
+<4202> <4204> <2020>
+<4207> <4208> <2025>
+endbfrange
+1 beginbfchar
+<4211> <2030>
+endbfchar
+2 beginbfrange
+<4213> <4214> <2032>
+<421C> <421D> <203B>
+endbfrange
+1 beginbfchar
+<4223> <2042>
+endbfchar
+1 beginbfrange
+<4228> <422A> <2047>
+endbfrange
+10 beginbfchar
+<422B> <2051>
+<4254> <20AC>
+<425D> <2103>
+<4269> <210F>
+<426D> <2113>
+<4270> <2116>
+<427B> <2121>
+<4281> <2127>
+<4285> <212B>
+<428F> <2135>
+endbfchar
+4 beginbfrange
+<42A0> <42AB> <2160>
+<42B0> <42B1> <217A>
+<42B9> <42BD> <2190>
+<42BF> <42C2> <2196>
+endbfrange
+3 beginbfchar
+<42ED> <21C4>
+<42FB> <21D2>
+<42FD> <21D4>
+endbfchar
+1 beginbfrange
+<430F> <4312> <21E6>
+endbfrange
+1 beginbfchar
+<4314> <2200>
+endbfchar
+1 beginbfrange
+<4316> <4317> <2202>
+endbfrange
+1 beginbfchar
+<4319> <2205>
+endbfchar
+1 beginbfrange
+<431B> <431D> <2207>
+endbfrange
+1 beginbfchar
+<431F> <220B>
+endbfchar
+1 beginbfrange
+<4326> <4327> <2212>
+endbfrange
+1 beginbfchar
+<432E> <221A>
+endbfchar
+2 beginbfrange
+<4331> <4334> <221D>
+<4339> <4340> <2225>
+endbfrange
+1 beginbfchar
+<4342> <222E>
+endbfchar
+1 beginbfrange
+<4348> <4349> <2234>
+endbfrange
+5 beginbfchar
+<4351> <223D>
+<4357> <2243>
+<4359> <2245>
+<435C> <2248>
+<4366> <2252>
+endbfchar
+7 beginbfrange
+<4374> <4376> <2260>
+<437A> <437B> <2266>
+<437E> <437F> <226A>
+<438A> <438B> <2276>
+<4396> <439B> <2282>
+<439E> <439F> <228A>
+<43A9> <43AB> <2295>
+endbfrange
+2 beginbfchar
+<43B9> <22A5>
+<43D3> <22BF>
+endbfchar
+9 beginbfrange
+<43EE> <43EF> <22DA>
+<4407> <4408> <2305>
+<440A> <440B> [<2312> <2318>]
+<440E> <441C> <23BE>
+<441D> <441E> [<23CE> <2423>]
+<441F> <4432> <2460>
+<448F> <44A8> <24D0>
+<44AA> <44BD> <24EB>
+<44BE> <44C1> <2500>
+endbfrange
+1 beginbfchar
+<44CA> <250C>
+endbfchar
+4 beginbfrange
+<44CD> <44CE> <250F>
+<44D1> <44D2> <2513>
+<44D5> <44D6> <2517>
+<44D9> <44DB> <251B>
+endbfrange
+1 beginbfchar
+<44DE> <2520>
+endbfchar
+1 beginbfrange
+<44E1> <44E3> <2523>
+endbfrange
+1 beginbfchar
+<44E6> <2528>
+endbfchar
+5 beginbfrange
+<44E9> <44EA> <252B>
+<44ED> <44EE> <252F>
+<44F1> <44F2> <2533>
+<44F5> <44F6> <2537>
+<44F9> <44FA> <253B>
+endbfrange
+3 beginbfchar
+<44FD> <253F>
+<4500> <2542>
+<4509> <254B>
+endbfchar
+6 beginbfrange
+<4554> <4555> <25A0>
+<4565> <4567> <25B1>
+<456A> <456B> <25B6>
+<4570> <4571> <25BC>
+<4574> <4575> <25C0>
+<457A> <457B> <25C6>
+endbfrange
+2 beginbfchar
+<457D> <25C9>
+<457F> <25CB>
+endbfchar
+1 beginbfrange
+<4582> <4587> <25CE>
+endbfrange
+1 beginbfchar
+<459A> <25E6>
+endbfchar
+3 beginbfrange
+<45A3> <45A3> [<25EF>]
+<45A4> <45A7> <2600>
+<45A9> <45AA> <2605>
+endbfrange
+1 beginbfchar
+<45B2> <260E>
+endbfchar
+1 beginbfrange
+<45B8> <45B9> <2616>
+endbfrange
+3 beginbfchar
+<45BE> <261E>
+<45E0> <2640>
+<45E2> <2642>
+endbfchar
+1 beginbfrange
+<4600> <460F> <2660>
+endbfrange
+2 beginbfchar
+<461F> <2713>
+<465C> <2756>
+endbfchar
+30 beginbfrange
+<466B> <4674> <2776>
+<46B0> <46B1> <2934>
+<46B4> <46B4> [<29BF>]
+<46B5> <46B6> <29FA>
+<46B8> <46BA> <3001>
+<46BB> <46CB> <3005>
+<46CC> <46CD> [<301D> <301F>]
+<46CE> <46D0> <303B>
+<46D1> <46FF> <3041>
+<4700> <4726> <3070>
+<4729> <478C> <309B>
+<478D> <478D> [<30FF>]
+<478E> <479D> <31F0>
+<479E> <479F> <3231>
+<47A0> <47A0> [<3239>]
+<47A1> <47AF> <3251>
+<47B0> <47B4> <32A4>
+<47B5> <47C3> <32B1>
+<47C4> <47C7> [<3303> <330D> <3314> <3318>]
+<47C8> <47C9> <3322>
+<47CA> <47CB> <3326>
+<47CC> <47CE> [<332B> <3336> <333B>]
+<47CF> <47D0> <3349>
+<47D1> <47D3> [<334D> <3351> <3357>]
+<47D4> <47D7> <337B>
+<47D8> <47D9> <338E>
+<47DA> <47DC> <339C>
+<47DD> <47E0> [<33A1> <33C4> <33CD> <4EDD>]
+<47FD> <47FE> <FE45>
+<485B> <485C> <FF5F>
+endbfrange
+endcmap
+CMapName currentdict /CMap defineresource pop
+end
+endendstream
+endobj

@@ -1,0 +1,61 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":"csharp","items":[{"name":"csharp"},{"name":"fsharp","languageName":"F#","aliases":["f#","fs"]},{"name":"html","languageName":"HTML"},{"name":"http","languageName":"HTTP"},{"name":"javascript","languageName":"JavaScript","aliases":["js"]},{"name":"mermaid","languageName":"Mermaid"},{"name":"pwsh","languageName":"PowerShell","aliases":["powershell"]},{"name":"value"}]}}
+
+#!fsharp
+
+open System.Text.RegularExpressions
+
+#!fsharp
+
+let normalize (input: string) =
+    let sm = Regex.Replace(input, @"All characters in JIS X 0213:2004", " ")
+    let s0 = Regex.Replace(sm, @"\r\n|\r|\n", " ")
+    let s1 = Regex.Replace(s0, @"\s+", "")
+    let s2 = Regex.Replace(s1, @"(\d+-\d+)", "\n$1")
+    s2.TrimStart()
+    
+let preprocess infile outFile =
+    let text = System.IO.File.ReadAllText(infile)
+    let result = normalize text
+    System.IO.File.WriteAllText(outFile, result)
+
+#!fsharp
+
+preprocess "MSPrint.txt" "MSPrint_preprocessed.txt"
+
+#!fsharp
+
+preprocess "WPS.txt" "WPS_preprocessed.txt"
+
+#!fsharp
+
+preprocess "Word.txt" "Word_preprocessed.txt"
+
+#!fsharp
+
+preprocess "Acrobat.txt" "Acrobat_preprocessed.txt"
+
+#!fsharp
+
+preprocess "AcrobatMiner.txt" "AcrobatMiner_preprocessed.txt"
+
+#!fsharp
+
+preprocess "AcrobatMiner.txt" "AcrobatMiner_preprocessed.txt"
+preprocess "WordMiner.txt" "WordMiner_preprocessed.txt"
+preprocess "MSPrintMiner.txt" "MSPrintMiner_preprocessed.txt"
+preprocess "WPSMiner.txt" "WPSMiner_preprocessed.txt"
+
+#!fsharp
+
+preprocess "IPAAcrobat.txt" "IPAAcrobat_preprocessed.txt"
+preprocess "IPAWord.txt" "IPAWord_preprocessed.txt"
+preprocess "MryoAcrobat.txt" "MryoAcrobat_preprocessed.txt"
+preprocess "MryoWord.txt" "MryoWord_preprocessed.txt"
+preprocess "NotoAcrobat.txt" "NotoAcrobat_preprocessed.txt"
+preprocess "NotoWord.txt" "NotoWord_preprocessed.txt"
+preprocess "SourceHanAcrobat.txt" "SourceHanAcrobat_preprocessed.txt"
+preprocess "SourceHanWord.txt" "SourceHanWord_preprocessed.txt"
+preprocess "YuMinchoAcrobat.txt" "YuMinchoAcrobat_preprocessed.txt"
+preprocess "YuMinchoWord.txt" "YuMinchoWord_preprocessed.txt"
