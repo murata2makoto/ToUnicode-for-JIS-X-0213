@@ -11,14 +11,19 @@ def normalize(text):
 
 for pdf in [
     "IPAexGothic.pdf",
+    "IPAexGothic-Chrome.pdf",
     "Meiryo.pdf",
+    "Meiryo-Chrome.pdf",
     "NotoSerifJP.pdf",
+    "NotoSerifJP-Chrome.pdf",
     "SourceHanJP.pdf",
-    "YuMincho.pdf"
+    "SourceHanJP-Chrome.pdf",
+    "YuMincho.pdf",
+    "YuMincho-Chrome.pdf"
 ]:
     txt = normalize(extract_text(pdf))
 
-    out = pdf.replace(".pdf", ".txt")
+    out = pdf.replace(".pdf", " pdfminer.txt")
 
     with open(out, "w", encoding="utf-8") as f:
         f.write(txt)

@@ -59,7 +59,14 @@ let pCMapContent : Parser<CMapLine list, unit> =
                 if String.IsNullOrWhiteSpace(trimmedLine) then None
                 else
                     match run pValidCMapLine trimmedLine with
-                    | Success(result, _, _) -> Some result
+                    | Success(result, _, _) -> 
+                        // 💡 今回の目的（部首・筆画・互換漢字）において、
+                        // IVSや合字などの複数コードポイント列（6文字超）は完全に無視する
+                        match result with
+                        | BfChar(_, uniHex) when uniHex.Length > 6 -> None
+                        | BfRangeCalculated(_, _, sUni) when sUni.Length > 6 -> None
+                        | BfRangeList(_, _, uniList) when uniList |> List.exists (fun u -> u.Length > 6) -> None
+                        | _ -> Some result
                     | Failure _ -> None
             )
             |> Array.toList

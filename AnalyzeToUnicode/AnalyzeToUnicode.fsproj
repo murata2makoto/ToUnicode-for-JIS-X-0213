@@ -8,9 +8,13 @@
 
   <ItemGroup>
     <Compile Include="DataTypes.fs" />
+    <Compile Include="ReportTypes.fs" />
     <Compile Include="MappingLoader.fs" />
     <Compile Include="CMapParser.fs" />
     <Compile Include="Analyzer.fs" />
+    <Compile Include="ReportGenerator.fs" />
+    <Compile Include="BatchProcessor.fs" />
+    <Compile Include="TextAccessibilityChecker.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 

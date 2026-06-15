@@ -1,0 +1,91 @@
+﻿
+================================================================================
+🔍 各フォント内部 CMap 汚染明細（逆引き検証）
+================================================================================
+✨ 清潔フォント [ID: 85] (名前: SJKSFO+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 84] (名前: NJIRCV+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 83] (名前: HFVPEG+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 82] (名前: VLHITN+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 81] (名前: YBWWJX+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 80] (名前: BGFKRZ+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 79] (名前: BGBFPF+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 78] (名前: VUXELJ+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 77] (名前: XWAECY+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 76] (名前: DRHMAZ+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 75] (名前: ZZYGMK+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 74] (名前: VRHJLE+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 73] (名前: TRBYDG+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 72] (名前: CVECID+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 71] (名前: XMXRDP+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 70] (名前: UODGSI+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 69] (名前: RXHHOT+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 68] (名前: YJOJZK+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 67] (名前: UGMIKW+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 66] (名前: OPBFSV+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 65] (名前: SGHYFK+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 64] (名前: LONSFH+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 63] (名前: JDEUKL+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 62] (名前: BSHTWB+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 61] (名前: OMTBVW+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 60] (名前: XZABEU+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 59] (名前: ZOQWSF+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 58] (名前: CKLFOL+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 57] (名前: XUHARG+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 56] (名前: NPJKYK+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 55] (名前: ADTNHT+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 54] (名前: XMXRDP+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 53] (名前: RGUXHD+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 52] (名前: OOIXOV+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 51] (名前: VHMJMW+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 50] (名前: MTKSGU+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 49] (名前: DSBMAG+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 48] (名前: XQYKMS+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 47] (名前: BGTQZW+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 46] (名前: RRAWZH+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 45] (名前: XHMNPW+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 44] (名前: USRDRW+LINESeedJP-Regular) ── 汚染なし
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚨 汚染検出 フォント [ID: 43] (名前: HCYHSD+Meiryo) [ToUnicode ID: 306]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [▼ 🔴 康煕部首へのマッピング (U+2F00～)]
+     CID: <0001> -> Uni: <2F39> (⼹) 💡 (相当する統合漢字: 彐 <5F50>)
+     CID: <0002> -> Uni: <2F67> (⽧) 💡 (相当する統合漢字: 疒 <7592>)
+     CID: <0003> -> Uni: <2F71> (⽱) 💡 (相当する統合漢字: 禸 <79B8>)
+     CID: <0004> -> Uni: <2FA1> (⾡) 💡 (相当する統合漢字: 辵 <8FB5>)
+     CID: <0005> -> Uni: <2FC8> (⿈) 💡 (相当する統合漢字: 黃 <9EC3>)
+✨ 清潔フォント [ID: 42] (名前: QFWTKP+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 41] (名前: HLJNIQ+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 40] (名前: FZINBN+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 39] (名前: JTAANA+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 38] (名前: WNVSKW+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 37] (名前: NDDCZL+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 36] (名前: ZGLHYU+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 35] (名前: ZTHDCN+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 34] (名前: NQQQAK+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 33] (名前: ZJWCAP+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 32] (名前: QJPFCU+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 31] (名前: DXLPSZ+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 30] (名前: ECYSTC+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 29] (名前: PDZVVR+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 28] (名前: GVVCKW+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 27] (名前: QJPFCU+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 26] (名前: NKPDHI+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 25] (名前: GCDEDJ+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 24] (名前: HRFAZQ+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 23] (名前: KFNFAV+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 22] (名前: NGTOXA+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 21] (名前: FMKDGM+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 20] (名前: YSEIXN+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 19] (名前: RZZOUO+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 18] (名前: GOSHXJ+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 17] (名前: WHYBYT+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 16] (名前: YFXMQC+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 15] (名前: JDDGXH+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 14] (名前: NJOWZZ+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 13] (名前: DILQRB+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 12] (名前: QZALZT+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 11] (名前: EMRIDQ+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 10] (名前: OMLTLC+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 9] (名前: XALLYW+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 8] (名前: SVSAIC+LINESeedJP-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 7] (名前: XEYFGP+LINESeedJP-Regular) ── 汚染なし

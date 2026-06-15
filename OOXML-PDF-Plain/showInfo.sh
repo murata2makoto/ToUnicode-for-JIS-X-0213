@@ -1,6 +1,5 @@
 mutool=/cygdrive/f/APP/mupdf/platform/win32/x64/Debug/mutool.exe
 
-
 "$mutool" show "YuMincho Word.pdf" trailer
 "$mutool" show "YuMincho Acrobat.pdf" trailer
 

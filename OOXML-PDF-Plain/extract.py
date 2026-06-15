@@ -23,7 +23,7 @@ for pdf in [
 ]:
     txt = normalize(extract_text(pdf))
 
-    out = pdf.replace(".pdf", ".txt")
+    out = pdf.replace(".pdf", " pdfminer.txt")
 
     with open(out, "w", encoding="utf-8") as f:
         f.write(txt)

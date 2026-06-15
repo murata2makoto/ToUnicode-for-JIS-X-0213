@@ -12,9 +12,10 @@ let private hexToInt (hex: string) =
     Convert.ToInt32(hex, 16)
 
 // 数値を16進数文字列（4桁の固定幅、小文字）に戻すヘルパー
-// ※ プログラム側の仕様に合わせて 大文字にする場合は "X4" にしてください
+// 大文字 "X" に統一し、non-BMPも安全に大文字化する
+// "X4"は最低4桁を保証する 
 let private intToHex (value: int) = 
-    value.ToString("x4")
+    value.ToString("X4")
     
 let checkTargetInCMap (lines: CMapLine list) =
     lines 

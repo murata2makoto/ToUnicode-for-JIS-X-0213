@@ -1,0 +1,88 @@
+﻿
+================================================================================
+🔍 各フォント内部 CMap 汚染明細（逆引き検証）
+================================================================================
+✨ 清潔フォント [ID: 83] (名前: BDAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 82] (名前: ADAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 81] (名前: ZCAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 80] (名前: YCAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 79] (名前: XCAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 78] (名前: WCAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 77] (名前: VCAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 76] (名前: UCAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 75] (名前: TCAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 74] (名前: SCAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 73] (名前: RCAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 72] (名前: QCAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 71] (名前: PCAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 70] (名前: OCAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 69] (名前: NCAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 68] (名前: MCAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 67] (名前: LCAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 66] (名前: KCAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 65] (名前: JCAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 64] (名前: ICAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 63] (名前: HCAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 62] (名前: GCAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 61] (名前: FCAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 60] (名前: ECAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 59] (名前: DCAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 58] (名前: CCAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 57] (名前: BCAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 56] (名前: ACAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 55] (名前: ZBAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 54] (名前: YBAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 53] (名前: XBAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 52] (名前: WBAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 51] (名前: VBAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 50] (名前: UBAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 49] (名前: TBAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 48] (名前: SBAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 47] (名前: RBAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 46] (名前: QBAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 45] (名前: PBAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 44] (名前: OBAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 43] (名前: NBAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 42] (名前: MBAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 41] (名前: LBAAAA+BIZUDPGothic-Regular) ── 汚染なし
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚨 汚染検出 フォント [ID: 40] (名前: KBAAAA+Meiryo) [ToUnicode ID: 261]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [▼ 🔴 康煕部首へのマッピング (U+2F00～)]
+     CID: <3C39> -> Uni: <2F39> (⼹) 💡 (相当する統合漢字: 彐 <5F50>)
+✨ 清潔フォント [ID: 39] (名前: JBAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 38] (名前: IBAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 37] (名前: HBAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 36] (名前: GBAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 35] (名前: FBAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 34] (名前: EBAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 33] (名前: DBAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 32] (名前: CBAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 31] (名前: BBAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 30] (名前: ABAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 29] (名前: ZAAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 28] (名前: YAAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 27] (名前: XAAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 26] (名前: WAAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 25] (名前: VAAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 24] (名前: UAAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 23] (名前: TAAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 22] (名前: SAAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 21] (名前: RAAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 20] (名前: QAAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 19] (名前: PAAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 18] (名前: OAAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 17] (名前: NAAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 16] (名前: MAAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 15] (名前: LAAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 14] (名前: KAAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 13] (名前: JAAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 12] (名前: IAAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 11] (名前: HAAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 10] (名前: GAAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 9] (名前: FAAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 8] (名前: EAAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 7] (名前: DAAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 6] (名前: CAAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 5] (名前: BAAAAA+BIZUDPGothic-Regular) ── 汚染なし
+✨ 清潔フォント [ID: 4] (名前: AAAAAA+BIZUDPGothic-Regular) ── 汚染なし

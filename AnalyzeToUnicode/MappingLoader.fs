@@ -47,58 +47,49 @@ let private parseKeyValuePairCore
 // --- ③：各ファイルが「行」を受け取って、左辺・右辺に切り分けてからコアに流す ---
 
 // 💡 共通の「コメント除去 ＆ セミコロン分割」を担うトップレベルのフィルター
-let private trySplitLine (line: string) =
+// 💡 行をセミコロンで分割してトリムされたトークンの配列を返すだけの、極めて純粋な道具
+let private trySplitLine (line: string) : string[] option =
     let trimmed = line.Trim()
     if String.IsNullOrEmpty(trimmed) || trimmed.StartsWith("#") then None
     else
-        // 最初の # でコメントをパージ
-        let noComment = 
-            trimmed.Split([| '#' |], 
-                StringSplitOptions.None).[0].Trim()
-        if String.IsNullOrEmpty(noComment) then None
+        // 行の途中のコメントをカット
+        let content = if trimmed.Contains("#") then trimmed.Split('#').[0] else trimmed
+        // セミコロンで分割し、空の要素を排除
+        let parts = content.Split([| ';' |], StringSplitOptions.RemoveEmptyEntries)
+        
+        if parts.Length > 0 then
+            // 全要素の前後の空白を一括でトリムして配列で返す
+            Some (parts |> Array.map (fun p -> p.Trim()))
         else
-            // セミコロンで左辺と右辺に分解
-            let parts = 
-                noComment.Split([| ';' |], 
-                    StringSplitOptions.RemoveEmptyEntries)
-            match parts |> List.ofArray with
-            | left :: right :: _ -> Some (left.Trim().ToUpper(), right.Trim().ToUpper())
-            | _ -> None
+            None
 
 // EquivalentUnifiedIdeograph.txt 用
 let private parseEquivalentLine line =
     match trySplitLine line with
-    | None -> []
-    | Some (leftPart, rightPart) -> 
-        parseKeyValuePairCore leftPart rightPart (fun right -> Some right)
+    // 💡 配列が「左辺」「右辺」の2つの要素だけで構成されている場合
+    | Some [| leftPart; rightPart |] ->
+        // 従来の等価マッピング処理
+        if not (leftPart.Contains("..")) then
+            [ (leftPart, rightPart) ]
+        else []
+    | _ -> []
 
 // DerivedNormalizationProps.txt 用
 let private parseCompatibilityLine line =
     match trySplitLine line with
-    | None -> []
-    | Some (leftPart, rightPart) -> 
-        // 1. 左辺のコードポイント（またはレンジ開始値）が互換漢字ブロックに属しているか厳格チェック
-        let startLeft = 
-            leftPart.Split([| ".." |], 
-                StringSplitOptions.RemoveEmptyEntries).[0]
-        let valLeft = Convert.ToInt32(startLeft, 16)
-        let isCompatibilityBlock = (valLeft >= 0xF900 && valLeft <= 0xFAFF) || (valLeft >= 0x2F800 && valLeft <= 0x2FA1F)
+    // 💡 配列が「左辺」「プロパティ名」「右辺」の3つの要素で構成されている場合
+    | Some [| leftPart; propName; rightPart |] ->
+        
+        if propName = "NFKC_CF" || propName = "NFKC_SCF" then
+            if not (leftPart.Contains("..")) then
+                let rightTokens = rightPart.Split([| ' '; '\t' |], StringSplitOptions.RemoveEmptyEntries)
+                if rightTokens.Length > 0 then
+                    [ (leftPart, rightTokens.[0].Trim()) ]
+                else []
+            else []
+        else []
+    | _ -> [] // 要素数が合わない行や None はすべて安全にスルー
 
-        // 2. さらに NFKC_CF プロパティの記述が右辺に含まれているかチェック
-        if not isCompatibilityBlock || not (rightPart.Contains("NFKC_CF")) then []
-        else
-            parseKeyValuePairCore leftPart rightPart (fun right ->
-                // 右辺から16進数のコードポイントを抽出
-                let hexMatches = 
-                        Regex.Matches(right, @"\b[0-9A-FA-f]{4,5}\b")
-                if hexMatches.Count = 0 then None
-                else
-                    let cleanRight = hexMatches.[0].Value
-                    // 左辺がレンジなら展開用に開始コードを返し、単一なら右辺のマッチ数が1つのものに限定
-                    if leftPart.Contains("..") then Some cleanRight
-                    elif hexMatches.Count = 1 then Some cleanRight
-                    else None
-            )
 
 // --- ④：共通コア関数（データの流し込み） ---
 let private loadMappingFile 
