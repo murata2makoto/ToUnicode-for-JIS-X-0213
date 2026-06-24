@@ -32,7 +32,7 @@ toUnicodeというディレクトリが、指定したディレクトリの中�
 
 
 ## 実行例
-
+```
 C:\Users\eb2m->f:\ToUnicode-for-JIS-X-0213\AnalyzeToUnicode\bin\Release\net8.0\AnalyzeToUnicode.exe F:\ToUnicode-for-JIS-X-0213\HTML-PDF-plain
 ?? Initializing Unicode Character Database...
 Successfully loaded 336 Equivalent Unified Ideograph pairs
@@ -64,7 +64,7 @@ Analyzing text file: YuMincho-Chrome pdfminer.txt
 Analyzing text file: YuMincho-Chrome pdftotext.txt
 
 ? すべての検証フェーズが正常に終了しました！
-
+```
 ## インストール
 
 
