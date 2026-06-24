@@ -19,6 +19,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="data\DerivedNormalizationProps.txt" />
+    <EmbeddedResource Include="data\EquivalentUnifiedIdeograph.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="FParsec" Version="1.1.1" />
   </ItemGroup>
 

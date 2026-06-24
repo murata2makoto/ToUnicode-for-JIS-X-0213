@@ -66,17 +66,18 @@ let executeBatchProcessing
     // 💡 ここで「出力先をどこにするか」のルールを自由に変更可能！
     let triplets = 
         uncompressedPdfFiles
-        |> List.map (fun pdfFile -> 
-                        let pdfFileLocalName = pdfFile.Name
-                        let pdfFileDirName = pdfFile.DirectoryName
-                        let analysisSubDir = Path.Combine(pdfFileDirName, subDirName)
-                        if not (Directory.Exists analysisSubDir) then
-                            Directory.CreateDirectory(analysisSubDir) |> ignore
-                        let originalRootName = pdfFileLocalName.Replace("-uncompressed.pdf", "")
-                        pdfFile.FullName,
-                        sprintf "%s/%s.txt" analysisSubDir originalRootName,
-                        sprintf "%s/%s.csv" analysisSubDir originalRootName
-                    )
+        |> List.map 
+            (fun pdfFile -> 
+                let pdfFileLocalName = pdfFile.Name
+                let pdfFileDirName = pdfFile.DirectoryName
+                let analysisSubDir = Path.Combine(pdfFileDirName, subDirName)
+                if not (Directory.Exists analysisSubDir) then
+                    Directory.CreateDirectory(analysisSubDir) |> ignore
+                let originalRootName = pdfFileLocalName.Replace("-uncompressed.pdf", "")
+                pdfFile.FullName,
+                sprintf "%s/%s.txt" analysisSubDir originalRootName,
+                sprintf "%s/%s.csv" analysisSubDir originalRootName
+            )
  
     for pdfFile, outputFile, csvFile in triplets do
         if File.Exists pdfFile then

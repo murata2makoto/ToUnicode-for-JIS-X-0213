@@ -6,6 +6,8 @@ open AnalyzeToUnicode
 open AnalyzeToUnicode.BatchProcessor
 open AnalyzeToUnicode.TextAccessibilityChecker
 
+open System.Reflection
+
 /// 💡 メイン側に配置した一括処理ロジック
 /// 出力ディレクトリの変更や、出力スタイルの変更はここを弄るだけで完結します
 
@@ -22,11 +24,8 @@ let createExistentDirs
 let main argv =
     // --- 1. マッピングデータの準備（UCDファイルのロード） ---
     printfn "🚀 Initializing Unicode Character Database..."
-    let equivFile = "f:/ToUnicode-for-JIS-X-0213/AnalyzeToUnicode/EquivalentUnifiedIdeograph.txt"
-    MappingLoader.loadEquivalentUnifiedIdeographs equivFile |> ignore
-    
-    let compatFile = "f:/ToUnicode-for-JIS-X-0213/AnalyzeToUnicode/DerivedNormalizationProps.txt"
-    MappingLoader.loadCompatibilityIdeographs compatFile |> ignore
+    MappingLoader.loadEquivalentUnifiedIdeographs () |> ignore
+    MappingLoader.loadCompatibilityIdeographs () |> ignore
 
     // --- 2. CMap 汚染のバッチ分析を実行 ---
     if argv.Length = 0 then
@@ -36,6 +35,7 @@ let main argv =
             argv 
             |> List.ofArray 
             |> createExistentDirs 
+            
         executeBatchProcessing existentDirs "toUnicode"
 
         executeBatchVerification existentDirs "textAnalysis"

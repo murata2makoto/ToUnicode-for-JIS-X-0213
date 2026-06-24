@@ -3,6 +3,22 @@ module AnalyzeToUnicode.MappingLoader
 open System
 open System.IO
 open System.Text.RegularExpressions 
+open System.Reflection
+
+//リソースから全行を読み込み
+let private readEmbeddedLines resourceName =
+    let asm = Assembly.GetExecutingAssembly()
+
+    use stream = asm.GetManifestResourceStream(resourceName)
+
+    if isNull stream then
+        failwith $"Resource not found: {resourceName}"
+
+    use reader = new StreamReader(stream)
+
+    [while not reader.EndOfStream do
+            yield reader.ReadLine()
+    ]
 
 // --- ①：16進数レンジを同期展開してペアを作る（共通ヘルパー） ---
 let private getSynchronizedPairs 
@@ -93,32 +109,34 @@ let private parseCompatibilityLine line =
 
 // --- ④：共通コア関数（データの流し込み） ---
 let private loadMappingFile 
-        (filePath: string) 
+        (resourceName: string) 
         (parser: string -> (string * string) list) 
         (label: string) =
-    if File.Exists(filePath) then
-        let lines = File.ReadAllLines(filePath)
-        let allPairs = lines |> List.ofArray |> List.collect parser
+    let allPairs = 
+        readEmbeddedLines resourceName 
+        |> List.collect parser
 
-        let mutable eToU = Mappings.equivToUnifiedMap
-        let mutable uToE = Mappings.unifiedToEquivMap
-        let mutable targets = Mappings.allTargetCodes
+    let mutable eToU = Mappings.equivToUnifiedMap
+    let mutable uToE = Mappings.unifiedToEquivMap
+    let mutable targets = Mappings.allTargetCodes
 
-        for (equivCode, unifiedCode) in allPairs do
-            eToU <- eToU.Add(equivCode, unifiedCode)
-            uToE <- uToE.Add(unifiedCode, equivCode)
-            targets <- targets.Add(equivCode).Add(unifiedCode)
+    for (equivCode, unifiedCode) in allPairs do
+        eToU <- eToU.Add(equivCode, unifiedCode)
+        uToE <- uToE.Add(unifiedCode, equivCode)
+        targets <- targets.Add(equivCode).Add(unifiedCode)
 
-        Mappings.equivToUnifiedMap <- eToU
-        Mappings.unifiedToEquivMap <- uToE
-        Mappings.allTargetCodes <- targets
-        printfn "Successfully loaded %d %s pairs from %s" 
-            allPairs.Length label (Path.GetFileName(filePath))
-    else
-        printfn "⚠️ Warning: %s が見つかりません。スキップされました。" filePath
+    Mappings.equivToUnifiedMap <- eToU
+    Mappings.unifiedToEquivMap <- uToE
+    Mappings.allTargetCodes <- targets
+    printfn "Successfully loaded %d %s pairs" 
+        allPairs.Length label
 
 // --- ⑤：パブリックAPI ---
-let loadEquivalentUnifiedIdeographs filePath = 
-    loadMappingFile filePath parseEquivalentLine "Equivalent Unified Ideograph"
-let loadCompatibilityIdeographs filePath = 
-    loadMappingFile filePath parseCompatibilityLine "Compatibility Ideograph"
+let loadEquivalentUnifiedIdeographs () = 
+    loadMappingFile 
+        "AnalyzeToUnicode.data.EquivalentUnifiedIdeograph.txt" 
+        parseEquivalentLine "Equivalent Unified Ideograph"
+let loadCompatibilityIdeographs () = 
+    loadMappingFile 
+        "AnalyzeToUnicode.data.DerivedNormalizationProps.txt" 
+        parseCompatibilityLine "Compatibility Ideograph"
